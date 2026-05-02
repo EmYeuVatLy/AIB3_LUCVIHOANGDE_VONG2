@@ -1,0 +1,4399 @@
+CONG TY Có
+PHAN SUA
+VIET NAM
+KPIMG
+DN:OID.0.9.234219200300.100.1.1-MST:
+Reason:I am the author of this document
+Dale: 2023-02-2814:58:55
+Location: your
+FoxnReader Version:9.7.0
+Cong ty Có phàn Süa Viet Nam
+và các còng ty con
+Báo cáo tài chính hop nhát cho nǎm két thúc
+ngày 31 tháng 12 nǎm 2022
+CHI
+CONK
+★
+K
+THANH PHL
+
+Cong ty Có phàn Sira Viet Nam và các còng ty con
+NOI DUNG
+TRANG
+THONG TIN VE CONG TY
+2
+BAO CAO CUA BAN DIEU HANH
+3
+BAO CAO KIEM TOAN DOC LAP
+4-5
+BAO CAO TiNH HiNH TAI CHiNH HOP NHAT
+6-8
+BAO CAO KET QUA HOAT DONG KINH DOANH HOP NHAT
+9-10
+BAO CAO LUU CHUYEN TIEN TE HOP NHAT
+11-13
+THUYET MINH BAO CAO TAI CHíNH HOP NHAT
+14-63
+1
+1
+LF
+T
+?
+
+Cong ty Cǒ phàn Sira Viet Nam và các cong ty con
+Thong tin vè Cong ty
+Giáy Chírng nhan
+Dang ky Doanh nghiep só 4103001932
+ngày 20 tháng 11 nǎm 2003
+0300588569
+ngày 6 tháng 12 nām 2022
+Giáy chúng nhàn dāng ky doanh nghiep cua Cong ty da dugc dièu chinh
+nhièu làn, và làn dièu chinh gàn dày nhát là Giáy Chúng nhàn Dāng ky
+Doanh nghiep só 0300588569 ngày 6 tháng 12 nǎm 2022. Giáy chúng
+nhán dang ky doanh nghièp và các ban dièu chinh do Só Ké hoach và Dàu
+tu Thành phó Hò Chí Minh cáp.
+Hoi dòng Quan tri
+Ong Nguyěn Hanh Phúc
+Chù tich
+(tùr ngày 26 tháng 4 nām 2022)
+Ba Le Thi Bǎng Tam
+Chù tich
+(dén ngày 26 tháng 4 nǎm 2022)
+Ba Mai Kièu Lien
+Thành vièn
+Ong Lee Meng Tat
+Thanh vièn
+Ba Dǎng Thi Thu Ha
+Thành vièn
+Ong Le Thành Liem
+Thành vièn
+Ong Michael Chye Hin Fah
+Thành vien
+Ong Dō Le Hùng
+Thành vièn
+Ong Alain Xavier Cany
+Thành vièn
+Ba Tieu Yén Trinh
+Thành vièn
+Ong Hoàng Ngoc Thach
+Thành vièn
+Ban Dièu hành
+Ba Mai Kièu Lien
+Tòng Giám dóc
+Bà Bui Thi Huong
+Giám dóc Dièu hành – Nhan sy
+Hanh chính và Dói ngoai
+Ong Mai Hoài Anh
+Giám dóc Dièu hành - Kinh doanh
+(dén ngày 31 tháng 10 nām 2022)
+Ong Le Thanh Liem
+Giám dóc Dièu hành – Tai chính
+Ong Nguyěn Quang Trí
+Giám dóc Dièu hành – Tiép thi
+Ong Le Hoàng Minh
+Giám dóc Dièu hành – San xuát
+Ong Nguyěn Quóc Khánh
+Giám dóc Dièu hành – Nghièn cúru và Phát trién
+Ong Trinh Quóc Düng
+Giám dóc Dièu hành - Phát trièn vùng nguyèn lieu
+Tru so dǎng ky
+10 Tan Trào, Phuòng Tan Phú
+Quàn 7, Thành phó Hò Chí Minh
+Viet Nam
+Ⅱ
+Cong ty kiém toán
+Cong ty TNHH KPMG
+F
+Viet Nam
+n
+2
+1=11
+
+Cong ty Có phàn Sira Viet Nam và các cong ty con
+Báo cáo cüa Ban Dièu hanh
+TrACH NHIEM CUa BAN DIEU HANH DOI VoI BAO CAO TAI CHINH HoP NHAT
+Ban Dièu hành chiu trách nhiem làp báo cáo tài chính hop nhát cua Cong ty Cò phàn Süa Vièt Nam
+("Cong ty") và các còng ty con (goi chung là "Tàp doàn") phan ánh trung thyc và hgp ly tinh hinh tài
+chính hop nhát cua Tap doàn tai ngày 31 tháng 12 nǎm 2022, két qua hoat dong kinh doanh hop nhát
+và luu chuyèn tièn tè hop nhát cho nǎm két thúc cùng ngày. Trong quá trinh làp các báo cáo tài chính
+hop nhát này, Ban Dièu hành phai:
+lua chon các chính sách ké toán thích hop và áp dung các chính sách này mòt cách nhát quán;
+•
+thuc hién các dánh giá và uóc tính mòt cách hgp ly và thàn trong; và
+làp báo cáo tài chính hop nhát trèn co só nguyèn tác hoat dòng lièn tuc trùr khi co só này khòng
+còn thích hop.
+Ban Dièu hành chiu trách nhièm dam báo ràng sò sách ké toán dúng dán da duoc duy tri dě thé hien
+tinh hinh tài chính hop nhát cúa Tap doàn vói múrc do chính xác hop ly tai bát ky thòi diém nào và
+dam báo ràng báo cáo tài chính hop nhát dugc trinh bày phù hop vói các Chuán myc Ké toán Viet
+Nam, Ché do Ké toán Doanh nghiép Viet Nam và các quy dinh pháp ly có lièn quan dén viec làp và
+trinh bày báo cáo tài chính. Ban Dièu hành cǔng chiu trách nhiém vè vièc quan ly các tài san cua Tap
+doàn và do dó phai thuc hièn các bien pháp thích hop dé ngǎn chǎn và phát hièn các hành vi gian lán
+và nhung vi pham khác.
+PHE DUYET BAO CAO TAI CHíNH HOP NHAT
+Chúng toi phe duyet báo cáo tài chính hop nhát dính kèm, dugc trinh bày tùr trang 6 dén trang 63, báo
+cáo này da phan ánh trung thyc và hop ly, trèn các khía canh trong yéu, tinh hinh tài chính hop nhát
+cúa Tàp doàn tai ngày 31 tháng 12 nǎm 2022, két qua hoat dòng kinh doanh hop nhát và luru chuyěn
+tièn té hop nhát cho nǎm két thúc cùng ngày phù hop vói Chuàn muc Ké toán Viet Nam, Ché dō Ké
+toán Doanh nghiep Vièt Nam và các quy dinh pháp ly có lièn quan dén vièc làp và trinh bay báo cáo
+a
+chinh
+CONGTY
+CoTha&nmatBan Dièu hành
+SUA
+VIET NAM
+Mai Kièu Lien
+Tóng Giám dóc
+Thành phó Hò Chí Minh, ngày 28 tháng 2 nǎm 2023
+=21
+1
+3
+1
+
+KPMG
+KPMG Limited Branch
+10th Floor, Sun Wah Tower
+115 Nguyen Hue Street, Ben Nghe Ward
+District 1, Ho Chi Minh City, Vietnam
++84 (28) 3821 9266 |kpmg.com.vn
+BAO CAO KIÉM TOAn DOC LAP
+Kính giri các Cǒ dòng
+Còng ty Cò phàn Süa Viet Nam và các cong ty con
+Chúng tòi da kiēm toán báo cáo tài chính hop nhát dính kèm cua Còng ty Cò phàn Süra Viet Nam
+("Cōng ty') và các còng ty con (goi chung là "Tap doàn"), bao gòm báo cáo tinh hình tài chính
+hop nhát tai ngày 31 tháng 12 nǎm 2022, báo cáo két quá hoat dòng kinh doanh và báo cáo luru
+chuyēn tièn tè hop nhát cho nǎm két thúc cùng ngày và các thuyét minh kèm theo duoc Ban
+Dièu hành Cōng ty phè duyèt phát hành ngày 28 tháng 2 nǎm 2023, duroc trinh bày tùr trang 6
+aén trang 63.
+Trách nhiem cua Ban Dièu hành
+Ban Dièu hành Còng ty chiu trách nhiem làp và trinh bày trung thyc và hop ly báo cáo tài chính
+hop nhát này theo các Chuan murc Ké toán Vièt Nam, Ché do Ké toán Doanh nghiep Viet Nam
+và các quy dinh pháp ly có liēn quan dén vièc làp và trinh bày báo cáo tài chính, và chiu trách
+nhièm vè kiēm soát nòi bò mà Ban Dièu hành xác dinh là càn thiét dě dam bao vièc làp báo cáo
+tài chính hop nhát khòng có sai sót trong yéu do gian làn hay nhàm lān.
+Trách nhiem cua kièm toán vièn
+Trách nhièm cúa chúng tōi là dua ra y kién vè báo cáo tài chính hop nhát này dya trèn két quǎ
+kiēm toán cua chúng tòi. Chúng tòi da thyc hièn còng vièc kiēm toán theo các Chuàn muc Kiěm
+toán Vièt Nam. Các chuǎn mc này yèu càu chúng tōi tuàn thú chuǎn myrc và các quy dinh vè
+dao dúrc nghè nghièp và làp ké hoach và thyc hièn cuòc kiēm toán dě dat duoc sur dám bao hop
+ly vè viēc liēu báo cáo tài chính hop nhát có còn sai sót trong yéu hay khòng.
+Còng viēc kiēm toán bao gòm viēc thyc hièn các thǔ tuc nhàm thu thàp các bàng chúrng kiēm
+CHIN
+toán vè các só lièu và các thuyét minh trong báo cáo tài chính. Các thǔ tuc durgc lura chon dua
+CONG
+trèn xét doán cua kiěm toán viēn, bao gòm dánh giá rúi ro có sai sót trong yéu trong báo cáo tài
+KP
+THANH PHO
+chính do gian làn hoǎc nhàm lān. Khi thyrc hién các dánh giá rúi ro này, kiēm toán viēn xem xét
+kiēm soát nòi bò cua Còng ty liēn guan tói vièc làp và trinh bày báo cáo tài chính trung thyc và
+hop ly nhàm thiét ké các thù tuc kiěm toán phù hop vói tình hình thyc té, tuy nhièn khòng nhàm
+muc dich dua ra y kién vè hièu quá cúa kièm soát nāi bò cua Còng ty. Còng vièc kiěm toán cǔng
+bao gòm vièc dánh giá tính thích hop cúa các chính sách ké toán durgc áp dung và tính hop ly
+cúa các uróc tính ké toán cua Ban Dièu hành cúa Còng ty, cūng nhu dánh giá vièc trinh bày tōng
+thě báo cáo tài chính.
+Chúng tòi tin ràng các bàng chúrng kiēm toán mà chúng tòi thu durgc là dày dǔ và thích hop làm
+NH
+co só cho y kién kiěm toán cúa chúng tòi.
+INHH
+4
+KPMG Limnited Branch, a branch of KPMG Limited, a Vietnamese one member Iimited iability company
+and a member fimm of the KPMG global organization of independent member firms afiHated with
+1MINH
+KPMG Intemational Limited, a private English company limited by guarantee. A rights reserved.
+
+KPMG
+Y kién cúa kièm toán vièn
+Theo y kién cúa chúng tòi, báo cáo tài chính hop nhát da phan ánh trung thuc và hop ly, trèn các
+khía canh trong yéu, tinh hình tài chính hop nhát cǔa Còng ty Cǒ phan Sura Viet Nam và các
+còng ty con tai ngày 31 tháng 12 nǎm 2022, két qua hoat dòng kinh doanh và luru chuyěn tièn tè
+hgp nhát cho nǎm két thúc cùng ngày, phù hop vói các Chuan muc Ké toán Viet Nam, Ché dā
+Ké toán Doanh nghièp Vièt Nam và các quy dinh pháp ly có liēn quan dén viéc làp và trinh bày
+báo cáo tài chính.
+Chi nhánh Cong ty TNHH KPMG tai Thành phó Hò Chí Minh
+Viet Nam
+tQán só: 22-01-00293-22-6
+CHI NHANH
+CONG TY TNHH
+bdal
+KPMG
+THANH
+Hà Vǔ Dinh
+Giáy Chúrng nhan Dǎng ky Hành nghè
+Giáy Chúrng nhàn Dǎng ky Hành nghè
+Kièm toán só 2225-2023-007-1
+Kiém toán só 0414-2023-007-1
+Phó Tóng Giám dóc
+Thành phó Hò Chí Minh, ngày 28 tháng 2 nǎm 2023
+-1
+H
+n
+心
+111
+5
+
+Cong ty Cö phàn Sira Viet Nam và các cong ty con
+Báo cáo tinh hình tài chính hgp nhát tai ngày 31 tháng 12 nǎm 2022
+Mau B 01 - DN/HN
+(Ban hành theo Thong tr só202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bo Tài chính)
+Ma Thuyét
+31/12/2022
+1/1/2022
+só
+minh
+VND
+VND
+TAI SAN
+Tai san ngán han
+(100 = 110 + 120 + 130 + 140 + 150)
+100
+31.560.382.174.201
+36.109.910.649.785
+Tièn yà các khoán trong duong tièn
+110
+V.1
+2.299.943.527.624
+2.348.551.874.348
+Tièn
+111
+1.327.429.518.437
+1.187.350.251.579
+Các khoán tuong duong tièn
+112
+972.514.009.187
+1.161.201.622.769
+Các khoán dàu tu tài chính ngán han
+120
+17.414.055.328.683
+21.025.735.779.475
+Chúng khoán kinh doanh
+121
+V.4(a)
+1.159.355.253
+1.119.781.812
+Dy phòng giam giá chúrng khoán
+kinh doanh
+122
+V.4(a)
+(689.745.197)
+(666.201.430)
+Dàu tu nám giu dén ngày dáo han
+123
+V.4(b)
+17.413.585.718.627
+21.025.282.199.093
+Các khoán phai thu ngán han
+130
+6.100.402.870.854
+5.822.028.742.791
+Phai thu khách hàng
+131
+4.633.942.510.271
+4.367.766.482.060
+Trá truóc cho nguòi bán
+132
+589.439.884.812
+655.822.646.219
+Phai thu ngǎn han khác
+136
+V.3(a)
+890.466.200.571
+810.697.107.773
+Dy phòng phai thu khó dòi
+137
+V.2
+(13.445.724.800)
+(12.257.493.261)
+Hàng tòn kho
+140
+V.5
+5.537.563.396.117
+6.773.071.634.017
+Hàng tòn kho
+141
+V.5
+5.560.169.453.504
+6.820.486.391.670
+Dy phòng giám giá hàng tòn kho
+149
+V.5
+(22.606.057.387)
+(47.414.757.653)
+Tai sán ngán han khác
+150
+208.417.050.923
+140.522.619.154
+Chi phí trá truóc ngǎn han
+151
+V.11(a)
+97.570.693.043
+57.272.673.101
+Thué giá tri gia tǎng dugc kháu trù
+152
+89.204.099.539
+79.012.114.725
+Thué phai thu Ngàn sách Nhà nuóc
+153
+21.642.258.341
+4.237.831.328
+rf
+4
+」
+1-
+=
+Các thuyét minh dinh kèm là bō phan hop thành cia báo cáo tài chính hop nhát này
+6
+
+Cong ty Cö phàn Sua Viet Nam và các cong ty con
+Báo cáo tinh hinh tài chính hop nhát tai ngày 31 tháng 12 nām 2022 (tiép theo)
+Máu B 01 - DN/HN
+(Ban hành theo Thong tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+Ma Thuyét
+31/12/2022
+1/1/2022
+só
+minh
+VND
+VND
+Tài sán dài han
+(200 = 210 + 220 + 230 + 240 + 250 +260) 200
+16.922.282.062.019
+17.222.492.788.434
+Các khoan phai thu dài han
+210
+38.422.722.715
+16.695.104.495
+Phai thu dai han khác
+216
+V.3(b)
+38.422.722.715
+16.695.104.495
+Tai san có dinh
+220
+11.903.207.642.940
+12.706.598.557.849
+Tài san có dinh huu hinh
+221
+V.6
+10.860.366.507.422
+11.620.094.589.519
+Nguyèn giá
+222
+28.502.157.270.867
+27.645.343.065.556
+Giá trj hao mòn lüy ké
+223
+(17.641.790.763.445)
+(16.025.248.476.037)
+Tai san có dinh vò hinh
+227
+V.7
+1.042.841.135.518
+1.086.503.968.330
+Nguyèn giá
+228
+1.353.423.614.905
+1.341.664.803.067
+Giá tri hao mòn liy ké
+229
+(310.582.479.387)
+(255.160.834.737)
+Bát dong sán dàu tur
+230
+V.8
+57.593.807.783
+60.049.893.676
+Nguyèn giá
+231
+98.822.678.885
+98.822.678.885
+Giá tri hao mòn lüy ké
+232
+(41.228.871.102)
+(38.772.785.209)
+Tai san do dang dai han
+240
+1.805.129.940.386
+1.130.023.695.910
+Chi phí san xuát kinh doanh dó dang
+dài han
+241
+V.9
+334.547.387.349
+295.204.758.395
+Xay dung co ban do dang
+242
+V.10
+1.470.582.553.037
+834.818.937.515
+Các khoán dàu tr tài chính dài han
+250
+742.670.306.431
+743.862.023.831
+Dàu tr vào các còng ty lièn doanh,
+lien két
+252
+V.4(c)
+664.302.778.018
+661.023.754.422
+Dàu tu góp vón vào các don vi khác
+253
+V.4(c)
+101.950.219.081
+101.921.059.081
+Dy phòng giam giá dàu tu tài chính
+dài han
+254 V.4(c)
+(23.582.690.668)
+(19.082.789.672)
+Tai san dài han khác
+260
+2.375.257.641.764
+2.565.263.512.673
+Chi phí trá truóc dài han
+261
+V.11(b)
+772.804.663.141
+725.108.101.375
+F
+Tai san thué thu nhàp hoān lai
+262
+V.12(a)
+34.985.203.461
+27.147.520.911
+Loi thé thuong mai
+269
+V.13
+1.567.467.775.162
+1.813.007.890.387
+N
+N
+TONG TAI SAN (270 = 100 + 200)
+270
+48.482.664.236.220
+53.332.403.438.219
+-
+Các thuyét minh dinh kèm là bō phán hop thành cia báo cáo tài chinh hop nhát này
+7
+
+Cong ty Có phàn Süra Vièt Nam và các cong ty con
+Báo cáo tinh hinh tài chính hop nhát tai ngày 31 tháng 12 nǎm 2022 (tiép theo)
+Mau B 01 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+Ma Thuyét
+31/12/2022
+1/1/2022
+só
+minh
+VND
+VND
+NGUON VóN
+NO PHAI TRA (300 = 310 + 330)
+300
+15.666.145.881.135
+17.482.289.188.835
+No ngán han
+310
+15.308.423.081.524
+17.068.416.995.519
+Phai trà nguòi bán ngán han
+311
+V.14
+4.284.158.390.163
+4.213.887.652.294
+Nguòi mua tra tièn trróc
+312
+161.708.567.120
+66.036.392.886
+Thué phai nòp Ngàn sách Nhà nuóc
+313
+V.16
+598.135.128.295
+648.146.741.635
+Phai trá nguòi lao dòng
+314
+287.914.221.269
+304.671.997.074
+Chi phí phái tra
+315
+V.17
+1.620.874.538.443
+1.817.263.017.920
+Doanh thu chua thyc hien
+318
+4.161.405.120
+3.983.400.698
+Phai trá ngǎn han khác
+319
+V.18
+3.055.541.590.234
+114.417.067.658
+Vay ngǎn han
+320
+V.15(a)
+4.867.129.839.103
+9.382.354.118.118
+Du phòng phái trá
+321
+V.19
+26.635.759.312
+10.290.982.323
+Quy khen thuóng và phúc lgi
+322
+V.20
+402.163.642.465
+507.365.624.913
+Ng dài han
+330
+357.722.799.611
+413.872.193.316
+Phai trá dài han khác
+337
+V.18
+3.711.780.002
+21.900.931.811
+Vay dài han
+338
+V.15(b)
+66.028.725.000
+75.636.000.000
+Thué thu nhàp hoǎn lai phai trá
+341 V.12(b)
+287.982.294.609
+316.335.261.505
+VON CHU SO HUU (400 = 410)
+400
+32.816.518.355.085
+35.850.114.249.384
+vón chǔ só hüu
+410
+V.21
+32.816.518.355.085
+35.850.114.249.384
+Vón có phàn
+411
+V.22
+20.899.554.450.000
+20.899.554.450.000
+Thǎng du vón cò phàn
+412
+34.110.709.700
+34.110.709.700
+vón khác cúa chú só hüu
+414
+202.658.418.215
+202.658.418.215
+Chènh lech quy dói tièn tè
+417
+92.498.048.227
+253.569.601
+Quy dàu tu phát trién
+418
+5.266.761.584.973
+4.352.441.335.060
+Lgi nhuàn sau thué chua phàn phói
+421
+3.353.468.092.666
+7.594.260.378.375
+- LNST chua phan phói lüy ké dén
+cuói nǎm truóc
+421a
+2.682.865.082.625
+2.521.098.332.953
+- LNST chua phan phói nǎm nay
+421b
+670.603.010.041
+5.073.162.045.422
+Lgi ích có dòng khòng kiém soát
+429
+2.967.467.051.304
+2.766.835.388.433
+T.N.H.H
+H
+H
+TONG NGUON VON (440 = 300 + 400) 440
+48.
+c664.236.220
+53.332.403.438.219
+Poo
+CONG TY
+H
+Ngày 28 tháng 2 nǎm
+COPHAN
+SUANguoilduyet:
+Nguòi làp:
+QUAN
+VIET NAM
+MINH
+T.PHO
+Mai Kièu Lien
+CHI
+Le Thanh Liem
+Tóng Giám dóc
+CON
+Giám dóc Dièu hành Tai chinh
+kièm Ké toán truong
+★
+K
+THANHPF
+Các thuyét minh dinh kèm là bo phán hop thành cua báo cáo tài chính hop nhát này
+8
+
+Cong ty Có phàn Süra Viet Nam và các cong ty con
+Báo cáo két quá hoat dong kinh doanh hop nhát cho nǎm két thúc ngày 31 tháng 12 nam 2022
+Mau B 02 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+Ma Thuyét
+2022
+2021
+só minh
+VND
+VND
+Doanh thu bán hàng và cung cáp dich vy
+01
+VI.1
+60.074.730.223.299 61.012.074.147.764
+Các khoán giám trir doanh thu
+02
+VI.1
+118.483.025.881
+92.909.301.618
+Doanh thu thuàn vè bán hàng và cung cáp
+10
+VI.1
+59.956.247.197.418 60.919.164.846.146
+dich vu (10 = 01 - 02)
+Giá vón hàng bán và dich vy cung cáp
+11
+VI.2
+36.059.015.690.711 34.640.863.353.839
+Loi nhuàn gòp vè bán hàng và cung cáp
+20
+23.897.231.506.707
+26.278.301.492.307
+dich vu (20 = 10 - 11)
+Doanh thu hoat dòng tài chính
+21
+VI.3
+1.379.904.407.740
+1.214.683.819.394
+Chi phí tài chính
+22
+VI.4
+617.537.182.995
+202.338.232.232
+Trong dó: Chi phí lāi vay
+23
+166.039.091.744
+88.799.090.663
+Lō chia tùr cong ty lien két
+24
+V.4(c)
+(24.475.976.403)
+(45.044.429.889)
+Chi phí bán hàng
+25
+VI.5
+12.548.212.246.871
+12.950.670.402.404
+Chi phí quán ly doanh nghièp
+26
+VI.6
+1.595.845.681.078
+1.567.312.426.985
+Lgi nhuàn thuàn tir hoat dong kinh doanh
+30
+10.491.064.827.1001
+12.727.619.820.191
+{30=20+(21 - 22) + 24 - (25 + 26)}
+Thu nhàp khác
+31
+VI.7
+289.021.799.127
+422.823.192.290
+Chi phí khác
+32
+VI.8
+284.551.949.482
+228.207.525.562
+Két quá tir hoat dong khác (40 = 31 - 32)
+40
+4.469.849.645
+194.615.666.728
+Loi nhuan ké toán trróc thué
+50
+10.495.534.676.745 12.922.235.486.919
+(50 = 30 + 40)
+Chi phí thué TNDN hien hành
+51
+VI.10
+1.956.248.296.285
+2.320.981.674.175
+Loi ich thué TNDN hoan lai
+52
+VI.10
+(38.288.939.248)
+(31.282.159.734)
+Loi nhuan sau thué TNDN (60 = 50 - 51 - 52)
+60
+8.577.575.319.708 10.632.535.972.478
+(mang sang trang sau)
+1101
+zP
+Các thuyét minh dinh kèm là bò phàn hop thành cia báo cáo tài chính hop nhát này
+"
+9
+
+Cong ty Có phàn Süra Viet Nam và các cong ty con
+Báo cáo két quá hoat dong kinh doanh hop nhát cho nǎm két thúc ngày 31 tháng 12 nām 2022
+(tiép theo)
+Mau B 02 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bō Tài chính)
+Ma Thuyét
+2022
+2021
+só
+minh
+VND
+VND
+Loi nhuàn sau thué TNDN (60 = 50 - 51 - 52)
+60
+8.577.575.319.708 10.632.535.972.478
+(mang sang tir trang trróc)
+Phan bó cho:
+Chú so hüu cúa Còng ty
+61
+8.516.023.694.34210.532.477.099.899
+Lgi ích có dòng khòng kiém soát
+62
+61.551.625.366
+100.058.872.579
+Lai co ban trèn có phiéu
+70
+) VI.11
+3.632
+4.517
+Ngày 28 tháng 2 nǎm 202
+CONGTYN
+Nguòi lap:
+duyet:
+COPHAN
+SUA
+L
+VIET NAM
+Le Thanh Liem
+Mai Kièu Lien
+Giám dóc Dièu hành Tài chính
+Tóng Giám dóc
+kiem Ké toán truong
+-
+H
+N
+Các thuyét minh dinh kèm là bó phān hop thành cia báo cáo tài chính hop nhát này
+10
+
+Còng ty Có phàn Süa Viet Nam và các cong ty con
+Báo cáo luu chuyěn tièn tè hop nhát cho nǎm két thúc ngày 31 tháng 12 nam 2022
+(Phrong pháp gián tiép)
+Mau B 03 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+Ma Thuyét
+2022
+2021
+só minh
+VND
+VND
+LUU CHUYEN TIEN TU HOAT DONG KINH DOANH
+Lgi nhuàn truoc thué
+01
+10.495.534.676.745 12.922.235.486.919
+Dièu chinh cho các khoan
+Kháu hao và phàn bó
+02
+2.095.449.858.677
+2.121.337.734.780
+Phan bò loi thé thuong mai
+02
+V.13
+245.540.115.225
+245.540.115.225
+Các khoán du phòng
+03
+(4.572.925.078)
+33.465.629.186
+Lō/(lai) chènh lèch ty giá do dánh giá lai
+các khoan muc tièn tè có góc ngoai tè
+04
+3.222.766.873
+(1.658.368.628)
+Lǒ tùr thanh ly/xóa só tài san có dinh
+hüru hình và xáy dung co ban do dang
+05
+88.472.438.579
+73.844.049.508
+Thu nhap tùr có túc, lai tièn gui và
+hoat dong dàu tu khác
+05
+(1.210.689.718.561)(1.106.041.407.749)
+Lǒ chia tù còng ty lièn két
+05
+24.475.976.403
+45.044.429.889
+Chi phí lāi vay
+06
+VI.4
+166.039.091.744
+88.799.090.663
+Thu nhàp tir khoan vay dugc miēn giám
+07
+(70.747.452.470)
+Lgi nhuàn tir hoat dong kinh doanh
+08
+11.903.472.280.607 14.351.819.307.323
+trróc nhürng thay dói vón luu dòng
+Bién dōng các khoan phai thu
+09
+(288.077.307.677)(516.850.818.361)
+Bién dòng hàng tòn kho
+10
+851.263.069.739 (2.260.680.842.222)
+Bién dòng các khoan phài tra và
+ng phai trá khác
+11
+(386.032.574.554)1.484.048.321.527
+Bién dōng chi phí trá truóc
+12
+(73.120.062.114)
+115.756.136
+Tièn lai vay dā trá
+14
+(141.304.083.849)
+(98.339.684.932)
+Thué thu nháp doanh nghièp da nōp
+15
+V.16
+(1.975.289.763.439)(2.356.597.912.369)
+Tièn chi khác cho hoat dòng kinh doanh
+17
+(1.063.638.382.197)(1.171.540.563.209)
+Lru chuyěn tièn thuàn tir hoat dong
+20
+8.827.273.176.516 9.431.973.563.893
+kinh doanh
+1
+A
+二
+Các thuyét minh dinh kèm là bō phàn hop thành cia báo cáo tài chính hop nhát này
+11
+
+Cong ty Có phàn Sira Viet Nam và các còng ty con
+Báo cáo luu chuyèn tièn tè hop nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(Phuong pháp gián tiép – tiép theo)
+Mau B 03 – DN/HN
+(Ban hành theo Thòng tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+Ma Thuyét
+2022
+2021
+só minh
+VND
+VND
+LUU CHUYEN TIEN TU HOAT DONG DAU TU
+Tièn chi mua tài san có dinh và tài san
+dài han khác
+21
+(1.456.914.052.616)(1.531.025.359.270)
+Tièn thu tùr thanh ly tài sán có dinh và
+xày dumg co ban dó dang
+22
+137.125.557.857
+133.904.995.529
+Tièn chi tièn gui có kì han
+23
+(3.514.465.835.454)
+Tièn thu tièn gui có kì han
+24
+3.634.715.046.607
+-
+Tièn thu hòi cho vay
+24
+150.000.000
+Tièn chi dàu tu góp vón vào các
+don vi khác
+25
+(43.175.000.000)
+(23.227.732.575)
+Tièn thu hòi dàu tu vào các don vi khác
+26
+1.336.500.000
+-
+Tièn thu lai tièn guri và cò túc
+27
+1.201.019.963.250
+1.000.079.344.561
+Luru chuyén tièn thuàn tir hoat dong
+30
+3.472.771.515.098 (3.933.248.087.209)
+dàu tu
+LUU CHUYEN TIEN TU' HOAT DONG TAI CHINH
+Tièn thu tùr bán có phiéu quy
+31
+60.119.994.553
+Tièn thu tùr phát hành cò phiéu bói
+cong ty con cho có dong khòng kièm soát 31
+39.200.670.000
+Tièn thu tù nhàn vón góp cúa cò dòng
+khòng kiém soát
+31
+338.100.000.000
+218.540.000.000
+Tièn thu tùr di vay
+33
+6.257.530.054.5869.596.960.360.003
+Tièn chi trá ng góc vay
+34
+(10.789.019.801.789)(7.551.460.199.195)
+Tièn chi trá có túc
+36
+(8.046.328.463.250)(7.523.560.503.000)
+Tièn chi trá cò túrc cúa các còng ty con
+chia cho cò dòng khòng kiém soát
+36
+(120.571.155.470)
+(97.197.960.150)
+Luru chuyén tièn thuàn tir hoat dong
+40
+(12.360.289.365.923) (5.257.397.637.789)
+tài chính
+Cl
+cór
+★
+THANHT
+H
+VHH
+1
+T
+Các thuyét minh dinh kèm là bō phàn hop thành cia báo cáo tài chính hop nhát này
+12
+IN
+
+Cong ty Co phàn Süra Vièt Nam và các cong ty con
+Báo cáo luu chuyěn tièn tè hgp nhát cho nǎm két thúc ngày 31 tháng 12 nam 2022
+(Phuong pháp gián tiép – tiép theo)
+Mau B 03 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bo Tài chính)
+Ma Thuyét
+2022
+2021
+só minh
+VND
+VND
+Luru chuyěn tièn thuàn trong nam
+50
+(60.244.674.309) 241.327.838.895
+(50= 20+ 30+ 40)
+Tièn và các khoan trong drong tièn
+60
+2.348.551.874.348 2.111.242.815.581
+dàu nǎm
+Anh hrong cia thay dói ty giá hói doái
+61
+(1.729.154.879)
+(2.270.210.170)
+dói vói tièn và các khoán trong drong tièn
+Chènh lèch do quy dói tièn tè
+62
+13.365.482.464
+(1.748.569.958)
+Tièn và các khoan trong drong tièn
+70
+V.1
+2.299.943.527.6242.348.551.874.348
+cuói nåm (70 = 50 + 60 + 61 + 62)
+-C.1
+CONG Nguoi
+Nguòi lap:
+yet:
+COPHAN
+u
+SUA
+VIET NAM
+T.PHO
+Le Thanh Liem
+Mai Kièu Lien
+Giám dóc Dièu hành Tài chính
+Tóng Giám dóc
+kièm Ké toán truóng
+1
+H
+1C
+1
+Các thuyét minh dinh kèm là bō phān hop thành cia báo cáo tài chính hop nhát này
+13
+
+Cong ty Cô phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nam két thúc ngày 31 tháng 12 nǎm 2022
+Mau B 09 – DN/HN
+(Ban hành theo Thong tr só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bō Tai chính)
+Các thuyét minh này là bò phàn hop thành, và càn dugc doc dòng thòi vói báo cáo tài chính hop nhát
+dính kèm.
+I.
+THONG TIN DOANH NGHIEP
+1.
+Hinh thúrc so hüru von
+Cong ty Co phàn Sua Viet Nam ("Cong ty') là mot cong ty có phàn dugc thanh lâp tai Viet Nam.
+Các móc quan trong lién quan dén vièc hinh thành và phát trièn cua Còng ty và các còng ty con (goi
+chung là "Tap doàn'") duoc ghi nhàn nhu sau:
+Ngay 20/8/1976:
+Cong ty dugc thành láp dua trèn co so tiép quan 3 nhà máy sua bao gòm: Nhà
+máy süa Thóng Nhát, Nhà máy süa Truòng Tho và Nhà máy sura Bot Dielac.
+Ngay 29/4/1993:
+Cong ty Sua Viet Nam (loai hinh Doanh Nghiep Nha Nuóc) dugc thành lap
+theo Quyét dinh só 420/CNN/TCLD cua Bo Cong Nghiep Nhe.
+▪ Ngay 1/10/2003:
+Cong ty dugc có phàn hoá tiùr Doanh nghiep Nhà Nuóc cua Bo Còng Nghiep
+theo Quyét dinh 155/2003/QD-BCN.
+Ngay 20/11/2003:
+Cong ty dǎng ky tro thành mòt còng ty có phàn và bát dàu hoat dōng theo
+Luàt Doanh Nghiep Viet Nam và dugc So Ké hoach và Dàu tu Thành phó Hò
+Chí Minh cáp Giáy phép Dang ky Kinh doanh só 4103001932.
+Ngay 28/12/2005:
+Uy Ban Chúng khoán Nhà nuóc cáp Giáy phép niem yét só 42/UBCK-GPNY.
+Ngay 19/1/2006:
+Có phiéu cia Cong ty dugc niem yét trén So giao dich chúng khoán Thành
+phó Hò Chí Minh.
+Ngay 12/12/2006:
+Cong ty TNHH Mot Thanh Vien Dàu Tu Bát Dong San Quóc Té thanh lap
+theo Giáy phép kinh doanh só 4104000260 do So Ké Hoach va Dàu Tu Thanh
+phó Hò Chí Minh cáp.
+Ngay 14/12/2006:
+Cong ty TNHH Mot Thanh Vien Bo Süa Viet Nam dugc thành lap theo Giáy
+phép kinh doanh só 150400003 do So Ké Hoach va Dàu Tu tinh Tuyèn Quang
+cáp.
+Ngay 26/2/2007:
+Cong ty Có Phàn Sua Lam Son duoc thành làp theo Giáy phép kinh doanh só
+1
+2603000521 do So Ké Hoach va Dàu Tu tinh Thanh Hóa cáp.
+Cong ty Có Phàn Sua Lam Son dugc chuyèn dói thanh Cong ty TNHH Mot
+N
+Ngay 24/6/2010:
+Thanh Vien Sua Lam Son.
+Ngay 30/9/2010:
+Cong ty TNHH Mot Thanh Vien Sua Dielac dugc dang ky thanh lap dua tren
+dang ky lai tir Cong ty TNHH Thuc phám F&N Viet Nam theo Giáy chúrng
+1一
+nhan dàu tu só 463041000209, do Ban quan ly Khu Cong Nghiep Viet Nam
+=
+— Singapore cáp.
+14
+
+Cong ty Có phàn Süa Viet Nam yà các còng ty con
+Thuyét minh báo cáo tài chính hop nhát cho nām két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bó Tài chính)
+Ngay 18/9/2012:
+Cong ty da ra quyét dinh só 2482/QD-CTS.KSNB/2012 vè viec giai thé Cong
+ty TNHH Mot Thành Vien Sua Dielac dé thành làp chi nhánh truc thuoc Cong
+ty. Vao ngày 25 tháng 9 nǎm 2012, Ban Quan ly KCN Viet Nam - Singapore
+cūng ra quyét dinh só 37/QD-BQL vè viec chám dit hoat dòng cúa Cong ty
+TNHH Mot Thành Vien Süa Dielac. Tháng 7 nǎm 2013, Cong ty TNHH MOt
+Thanh Vièn Süa Dielac dā hoàn tát thù tuc giai thé doanh nghiep.
+Ngay21/10/2013:
+Cong ty TNHH Mot Thành Vien Bò Sua Thóng Nhát Thanh Hóa dugc thanh
+làp theo Giáy chúng nhàn dǎng ky doanh nghiep só 2801971744 do So Ké
+hoach và Dàu tu tinh Thanh Hóa cáp.
+Ngay 6/12/2013:
+Cong ty da nhán dugc giáy chúng nhàn dàu tu ra nuóc ngoài só 663/BKHDT-
+DTRNN do Bo Ké hoach và Dàu tu cáp, dàu tu vào Cong ty Driftwood Dairy
+Holding Corporation tai Bang Carlifornia, Hoa Ky. Tai ngay 31 tháng 12 nam
+2013, Cong ty da hoàn tát thú tuc chuyèn tièn dàu tu 7 trieu USD và nám giu
+70% vón chi so huru tai Driftwood Dairy Holding Corporation.
+Ngay 6/1/2014:
+Cong ty da nhan dugc giáy chúng nhàn dàu tu ra nuóc ngoài só 667/BKHDT-
+DTRNN do Bo Ké hoach và Dàu tu cáp, dàu tu vào Angkor Dairy Products
+Co., Ltd. tai Phnom Penh, Campuchia vói ty le so huru 51%.
+Ngay 24/2/2014:
+Hoi dòng Quán tri Cong ty da ra nghi quyét giai thé Cong ty TNHH Mot
+Thanh Vien Bát dong san Quóc té. Ngày 14 tháng 1 nǎm 2015, So Ké hoach
+và Dàu tu Thành phó Hò Chí Minh dā ra thong báo só 14191/15 giai thè Cong
+ty TNHH Mot Thành Vien Bát dong san Quóc té.
+Ngay 30/5/2014:
+Cong ty da nhàn dugc giáy chúng nhàn dàu tu ra nuóc ngoài só 709//BKHDT-
+DTRNN do Bo Ké hoach và Dàu tu cáp, dé thành lap Vinamilk Europe
+sp.Z.o.o tai Ba Lan do Vinamilk so hüu 100% vón.
+Ngay 19/5/2016:
+Cong ty da nhàn dugc giáy chúrng nhàn dàu tu ra nuóc ngoài só 201600140
+do Bo Ké hoach và Dàu tu cáp, phè duyèt tǎng vón dàu tu thèm 3 trieu USD
+vào Driftwood Dairy Holding Corporation. Tai ngày 30 tháng 6 nam 2016,
+Cong ty da hoàn tát thú tuc chuyén tièn dàu tu tri giá 3 trieu UsD, náng tóng
+só vón dàu tur len 10 trieu USD và tǎng ty le so huu tai Driftwood Dairy
+Holding Corporation tir 70% len 100%.
+▪ Ngay 19/1/2017:
+Còng ty da nhán dugc Giáy chúrng nhàn dang ky kinh doanh thay dǒi làn thúr
+-
+25, ngày 18 tháng 1 nǎm 2017 do So Ké hoach Dàu tu Thanh phó Hò Chí
+Minh cáp. Theo dó Cong ty TNHH MTV Sua Lam Son duoc sáp nhap vào
+Cong ty (truóc khi sáp nhàp là Cong ty con 100% vón cia Còng ty). Cong ty
+」
+da hoàn tát các thú tuc sáp nhàp vào ngày 1 tháng 3 nǎm 2017.
+• Ngay 31/7/2017:
+Ngày 23 tháng 3 nǎm 2017, Cong ty da nhàn dugc Giáy chúrng nhan dāng ky
+dàu tu ra nuóc ngoài dièu chinh làn thúr nhát ngày 10 tháng 3 nǎm 2017 cúa
+111
+Bo Ké hoach va Dàu tur Viet Nam lien quan dén Angkor Dairy Products Co.,
+Ltd. ("Angkormilk"). Theo dó vón dàu tur cua Cong ty tai Angkormilk se tāng
+tùr 10.210.000 USD 1en 20.995.390 USD. Ly do tǎng vón la mua lai toan bo
+phàn vón góp cua dói tác tai Angkormilk. Tai ngày 31 tháng 7 nǎm 2017,
+Còng ty dā hoàn tát thú tuc chuyěn tièn dàu tu, nàng tǒng só vón dàu tu lèn
+20,9 trieu USD và tǎng ty lè so hüu tai Angkormilk tir 51% len 100%.
+15
+
+Cong ty Co phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nām 2022
+(tiép theo)
+Mǎu B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+▪ Ngay 21/10/2017:
+Ngày 30 tháng 9 nǎm 2017, Cong ty da tién hành ky két hop dòng mua lai
+3,89% vón chú so huu tai Cong ty TNHH Bò Sua Thóng Nhát Thanh Hóa tiù
+có dong khong kiém soát. Ngày 21 tháng 10 nǎm 2017, Cong ty dā hoàn tát
+thù tuc chuyěn dói quyèn sò hüu.
+Ngay 1/11/2017:
+Vào ngày 25 tháng 10 nǎm 2017, Cong ty dā tién hành ky két hgp dòng mua
+có phàn mói phát hành cua Còng ty Có phàn Duòng Khánh Hòa và nám giü
+65% vón chú só huu cúa còng ty này. Giao dich hoàn tát vào ngày 1 tháng 11
+nǎm 2017. Ngay 14 tháng 11 nam 2017, Cong ty Có phàn Duòng Khánh Hòa
+da chính thúrc dòi tèn thành Cong ty Có phàn Duòng Viet Nam.
+- Ngay 23/11/2018:
+Vào tháng 7 nām 2018, Còng ty dā tién hành ky két hop dòng dàu tu nám giü
+51% co phàn cua Cong ty Lao-Jagro Development Xiengkhouang Co., Ltd dě
+phát trién tó hop trang trai bò süa và bò thit cóng nghè cao. Giao dich này
+hoàn tát vào ngay 23 tháng 11 nǎm 2018. Ngày 29 tháng 1 nǎm 2019, Cong
+ty da dàu tu 51.547 trieu VND theo ty lè so hüu trong cong ty này theo quyét
+dinh cua các cò dòng. Vào ngày 1 tháng 4 nǎm 2019 và ngày 15 tháng 7 nǎm
+2021 Cong ty da thanh toán làn lugt 154.391 trieu VND va 20.790 trieu VND
+cho chú só huru truóc day theo hgp dòng mua có phàn.
+Ngày 12/9/2019:
+Cong ty nhàn dugc Giáy Chúrng nhàn Dāng ky Dàu tu ra nuóc ngoài só
+201600140, dǎng ky dièu chinh làn thúr 2 vè viec tǎng vón dàu tur cia Cong ty
+tai còng ty con do Cong ty só hüu 100% la Driftwood Dairy Holding
+Corporation, bang California, Hoa Ky, tr 10 trieu USD len 20 trieu USD. Tai
+ngày 30 tháng 9 nǎm 2019, Cong ty da hoàn tát thù tuc chuyěn tièn dàu tur.
+Ngay 19/12/2019:
+Còng ty da hoàn tát viec mua 75% vón có phàn cua Còng ty Có phàn
+GTNFoods thong qua nhièu giao dich mua cǒ phàn.
+Ngay 10/8/2020:
+Cong ty nhan dugc Giáy Chúng nhàn Dāng ky Dàu tu Nuóc ngoài dièu chinh
+làn dàu ngày 10 tháng 8 nǎm 2020 tir Bō Ké hoach và Dàu tu dè tāng vón dàu
+tu cua Cong ty tai Lao-Jagro tir 25.411.924 USD len 66.413.630 USD.
+Ngay 19/11/2020:
+Hoi dòng Quán tri cúa Cong ty dā thòng qua nghi quyét vè vièc giái thé cōng
+ty con Vinamilk Europe Spóstka Z Ograniczona Odpowiedzialnoscia. Trong
+tháng 11 nǎm 2021, Cong ty da thu hòi 42,194 trieu VND tùr viec giai thè này.
+Vièc giái thè da hoàn tát trong nǎm 2022.
+Ngày 31/1/2021
+Ngày 31 tháng 1 nǎm 2021, Cong ty, Cong ty Có phàn GTNFoods, va Tòng
+Còng ty Chān nuoi Viet Nam — Còng ty Cò phàn da hoàn tát viec mua làn lugt
+iNH
+9,7 triéu, 29,5 trieu và 1,7 trieu có phiéu phát hành them cua Cong ty Cò phàn
+INHH
+Gióng Bò süa Moc Chau. Do dó, tòng loi ích kinh té trrc tiép và gián tiép cúa
+★
+Cong ty trong Cong ty Có phàn Gióng Bò süa Moc Chau da tāng tiùr 28,61%
+len 47,12%.
+HIMNA
+Ngay 1/3/2021:
+Cong ty TNHH Lièn doanh Thuc phám và Dò uóng Vibev, cong ty do
+Vinamilk só hüu 51% vón, duoc thanh lap theo Giáy phép Dǎng ky Kinh
+doanh só 0316724859 do So Ké hoach và Dàu tu Thành phó Hò Chí Minh
+cáp. Ngày 9 tháng 4 nǎm 2021 và ngày 10 tháng 6 nǎm 2021, Cong ty da góp
+vón 1ân lugt Ia 51.000 trieu VND và 153.000 trieu VND vào Cong ty TNHH
+CF
+Lièn doanh Thuc phám và Dò uóng Vibev dé thanh làp còng ty con này.
+CON
+4
+THANHF
+16
+
+Cong ty Cö phàn Süra Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nām 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tai chính)
+Ngay 19/4/2021:
+Ngày 19 tháng 4 nām 2021 và ngày 29 tháng 12 nǎm 2021, Còng ty da góp
+vón lan lugt la 328.578 trieu VND và 11.232 trieu VND vào Cong ty TNHH
+Lao-Jagro Development Xiengkhouang.
+Ngay 27/9/2021:
+Cong ty TNHH Chan nuoi Viet Nhat, cong ty do Tong Cong ty Chǎn nuoi
+Viet Nam – Cong ty Co phàn só hiu 51% vòn, dugc thành làp theo Giáy phép
+Dǎng ky Kinh doanh só 0109752537 do Só Kéhoach và Dàu tu Thanh phó
+Ha Noi cáp. Tóng Cong ty Chǎn nuòi Viet Nam – Cong ty Cǒ phàn da góp
+vón la 23.460 trieu VND vào Cong ty Cong ty TNHH Chan nuoi Viet Nhat
+dè thành làp còng ty con này.
+Ngay 9/3/2022:
+Cong ty da góp them vón Ia 8.220.273 USD (turong durong 188.902 trieu
+VND) vào Lao-Jagro Development Xiengkhouang Co., Ltd. Do dó, ty le so
+hüru cúa Cong ty tai Lao-Jagro Development Xiengkhouang Co., Ltd. tang tiù
+85,54% lèn 87,32% do các cò dòng khác khòng tiép tuc góp vón vào cōng ty
+con này.
+Ngày 14/3/2022:
+Ngày 14 tháng 3 nǎm 2022, toàn bo có phiéu cia Cong ty Có phàn GTNFoods
+do Cong ty sò hüu da dugc hoán dòi vói 117.187.500 có phiéu cúa Tóng Còng
+ty Chǎn nuòi Viet Nam — Cong ty Có phàn. Sau dó, Còng ty Cǒ phàn
+GTNFoods dugc sáp nhap vào Tòng Cong ty Chan nuoi Viet Nam - Cong ty
+Cò phàn.
+2.
+Hoat dong chính
+Nhüng hoat dong chính cua Tap doàn là:
+San xuát và kinh doanh bánh, sua dàu nành, nuóc giai khát, süa hòp, süa bòt, bot dinh duōng và
+các san phám tùr süra khác;
+Kinh doanh thuc phám còng nghè, thiét bi phu tùng, vat tu, hóa chát và nguyen lieu;
+Kinh doanh bát dòng san, quyèn sir dung dát thuòc chú sò hüu, chú sùr dung hoǎc di thuè (theo quy
+dinh tai dièu 11.3 Luat Kinh doanh Bát dong san nǎm 2014);
+Kinh doanh kho, bén bai, vàn tai;
+Vàn tài hàng hóa nqi bo bàng ò tò phuc vu cho hoat dōng sán xuát và tièu thy sàn phám cúa còng ty;
+San xuát, mua bán rugu, bia, dò uóng khòng còn, nuóc khoáng, thuc phám ché bién, chè uóng và
+cà phè rang-xay-phin-hòa tan (khòng san xuát ché bién tai tru só);
+San xuát và mua bán bao bì, san phám nhya (khòng hoat dòng tai try sǒ);
+Phòng khám da khoa (khòng hoat dong tai tru só);
+Chan nuoi, tròng trot;
+Bán lé duòng, süra yà các sán phám süa, bánh, mut, keo và các san phám ché bién tù ngū cóc, bòt,
+tinh bòt và thuc phám khác;
+Bán lē dò uóng có còn, dò uóng khòng chúra còn (các loai dò uóng nhe, có chát ngot, có hoāc khōng
+có ga), nuóc khoáng thièn nhièn, rugu vang và bia còn ó nòng dō tháp hoǎc khòng chúra còn;
+San xuát và kinh doanh các mǎt hàng tù trà và rugu vang; và
+121
+San xuát, chan nuòi, ché bién và kinh doanh các san phàm chǎn nuòi và hǒn hgp bòt phuc vu hoat
+dòng chan nuoi.
+1
+G
+T
+17
+八
+
+Cong ty Co phàn Süra Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tr só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+3.
+Chu ky san xuát kinh doanh thòng thuròng
+Chu ky san xuát kinh doanh thòng thuòng cúa Còng ty là trong vòng 12 tháng.
+4.
+Cáu trúc Tâp doàn
+Tai ngay 31 tháng 12 nǎm 2022, Tap doàn có 10 cong ty con, 8 cong ty lien két, 1 cong ty lien doanh
+và các don vi truc thuòc (1/1/2022: Tap doàn có 12 còng ty con, 8 cong ty lien két, 1 cong ty lien doanh
+và các don vi trrc thuoc) nhu sau:
+(a)
+Cong ty con
+Ten
+Tru so
+Hoat dong chính
+Loi ích kinh té
+31/12/2022 1/1/2022
+Các cong ty con so hiru trrc tiép
+Cong ty TNHH Mot 10 Tan Trào, Phuòng Tan Phú, Chǎn nuoi bò sia 100,00% 100,00%
+Thanh Vien Bò Sua
+Quàn 7, Thành phó Hò Chí
+Viet Nam
+Minh
+Cong ty TNHH Mot
+Khu phó 1, Thi trán Thóng
+San xuát süra
+100,00%100,00%
+Thành Vien Bò Sua
+nhát, Huyen Yen Dinh, Tinh
+và chǎn nuòi gia
+Thóng Nhát Thanh
+Thanh Hóa
+súc
+Hóa
+Driftwood Dairy
+Só 10724, giao lo Lower Azusa San xuát süa
+100,00%100,00%
+Holding Corporation
+và El Monte Boulevards,
+California 91731-1390, Hoa Ky
+Angkor Dairy
+Lô P2-096 va P2-097, Dac khu
+San xuát süa
+100,00%100,00%
+Products Co., Ltd.
+kinh té Phnom Penh (PPSEZ),
+Quóc lo 4, Khan Posenchey,
+Phnom Penh, Vuong Quóc
+Campuchia
+Vinamilk Europe
+U1. Gwiazdzista 7a/401-651
+Kinh doanh
+100,00%
+Spóstka Z
+Warszawa, Ba Lan
+nguyèn liéu süa và
+Ograniczona
+dōng vàt sóng
+Odpowiedzialnoscia
+(*)
+Cong ty Cǒ phàn
+Thon Thuy Xuong, Xa Suói
+San xuát và tinh
+65,00%
+65,00%
+Duòng Viet Nam
+Hiep, Huyen Dien Khánh, Tinh luyen duong
+Khánh Hòa
+Lao-Jagro
+Làng Boungvene, quan Paek,
+Chǎn nuòi bò süa
+87,32%
+85,54%
+11
+Development
+tinh Xiengkhouang, Lào
+và kinh doanh san
+Xiengkhouang Co.,
+phám nòng nghiep
+1
+Ltd.
+T
+m
+18
+0
+-
+
+Cong ty Co phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nam 2022
+(tiép theo)
+Mâu B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+Ten
+Tru só'
+Hoat dong chính
+Lgi ích kinh té
+31/12/2022 1/1/2022
+Tóng Cong ty Chǎn
+519 Minh Khai, Phuòng Vinh
+San xuát, chān
+68,00%
+55,87%
+nuoi Viet Nam -
+Tuy, Quan Hai Ba Trung,
+nuòi, ché bién và
+Cong ty Có phàn
+Thành phó Hà Noi
+kinh doanh các sán
+(**)
+phám chān nuòi
+Cong ty TNHH Lièn
+10 Tan Trào, Phuòng Tan Phú,
+San xuát kem và
+51,00%
+51,00%
+doanh Thuc phám và
+Quàn 7, Thành phó Hò Chí
+dò uóng khòng còn
+Dò uóng Vibev (***)
+Minh
+Cong ty Cò phàn
+Tàng 14, Tháp A, Tòa nhà
+San xuát và kinh
+75,00%
+GTNFoods
+Handi Resco, 521 Kim Ma,
+doanh các mǎt
+(**)
+Phuòng Ngoc Khánh, Quàn Ba
+hàng tù sura, trà và
+Dinh, Ha Noi
+ruou vang
+Các cong ty con so' hüru gián tiép thong qua Tóng Cong ty Chan nuoi Viet Nam – Cong ty Co phàn
+Còng ty Cǒ phàn
+Km194 Thi trán Nong truòng
+Ché bién sǔa và
+49,17%
+47,12%
+Gióng Bò süa Moc
+Moc Chau, Phieng Luong,
+các sán phàm tùr
+Chau (**)
+Huyèn Moc Chau, Tinh Son La
+süa
+Cong ty TNHH
+519 Minh Khai, Phuòng Vinh
+Nhap kháu, ché
+34,68% 28,49%
+Chan nuoi Viet Nhat
+Tuy, Quan Hai Ba Trrng, Ha
+bién và kinh doanh
+(**)
+Noi
+các sàn phám tùr
+thit bò
+(*)
+Ngày 19 tháng 11 nǎm 2020, Hoi dòng Quán tri cua Cong ty da thòng qua nghi quyét vè viec giai thé
+còng ty con này. Viec giai thè da hoàn tát trong nǎm 2022.
+(**)
+Ngày 14 tháng 3 nām 2022, toàn bo có phiéu cua Cong ty Cò phàn GTNFoods do Cong ty só huu dā
+dugc hoán dói vói 117.187.500 có phiéu cúa Tóng Cong ty Chǎn nuòi Viet Nam – Cong ty Có phàn.
+Sau dó, Cong ty Co phàn GTNFoods dugc sáp nhap vào Tong Cong ty Chan nuoi Viet Nam – Cong ty
+Có phàn. Sau các giao dich này, Cong ty so hüu tnuc tiép 68% vón chú so huu cúa Tòng Cong ty Chān
+nuōi Viet Nam - Cong ty Có phàn và tóng lgi ích kinh té trrc tiép và gián tiép cua Cong ty trong Cong
+ty Có phàn Gióng Bò süa Moc Chau và Cong ty TNHH Chan nuoi Viet Nhat dā thay dòi.
+(***) Ngày 30 tháng 11 nǎm 2022, Hqi dòng Quàn tri cua Cong ty dā thong qua nghi quyét vè viec giai thè
+cong ty con này. Tai ngày 31 tháng 12 nǎm 2022, vièc giai thé chua hoàn tát.
+17
+A
+'1
+19
+二
+
+Cong ty Co phàn Sra Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bō Tai chính)
+(b) Cong ty lièn doanh, lièn két
+Ten
+Tru só
+Hoat dong chính
+Loi ích kinh té
+31/12/2022 1/1/2022
+Các cong ty lièn doanh, lièn két so hüru tryc tiép
+Miraka Holdings
+108 Tuwharetoa, Taupo, New
+San xuát süra
+16,96%
+22,81%
+Limited (*)
+Zealand
+Cong ty Cǒ phàn
+só 18A, VSIP Ⅱ-A, duòng 27,
+Kinh doanh
+20,00%20,00%
+APIS
+Khu còng nghiep Viet Nam —
+nguyèn lieu
+Singapore II-A, Phuòng Vinh
+thuc phàm
+Tan, Huyen Tan Uyen, Tinh
+Binh Duong
+Cong ty Có phàn Ché Khu còng nghiep Giao Long,
+San xuát yà kinh
+24,96%24,96%
+bién Dra A Chau
+Giai Doan II, Xa An Phuóc,
+doanh các mǎt
+Huyen Chau Thành, Tinh Bén
+hàng tùr dùra
+(**)
+Tre, Viet Nam
+Del Monte –
+Tòa nhà JY Campos Centre,
+Nhàp khàu và kinh 50,00% 50,00%
+Vinamilk Dairy Inc.,
+Dai lô 9, Góc phó 30, Thành
+doanh sǔa và các
+Philippines
+phó Bonifacio Global, Thanh
+san phám tùr süra
+phó Taguig, Nuóc Cong Hòa
+Philippines
+(*)
+Trong nǎm 2022, Miraka Holdings Limited da tién hành tǎng vón. Các cò dong khác da tiép tuc góp
+them vón vào don vi này nhung Còng ty dā khòng góp thēm phàn vón tuong úng. Do dó, ty lé só hiru
+cua Cong ty trong don vi này da giam tir 22,81% xuóng 16,96%. Miraka Holdings Limited van dugc
+xem là còng ty lièn két cúa Còng ty vi Còng ty có anh huóng dáng kě dén hoat dòng tài chính và kinh
+doanh cúa don vi này thòng qua quyèn dugc bó nhiem mòt thành vièn trong hoi dòng quán tri cua don
+vi này.
+(**) Ngày 19 tháng 1 nām 2022, Cong ty mua 3.090.000 cò phiéu trong tóng só 12.380.000 có phiéu mói
+phát hanh cua Cong ty Có phàn Ché bién Dia Á Chau vói giá mua là 30.900 trieu VND.
+Các còng ty lièn két só hünu gián tiép thòng qua Tóng Cong ty Chǎn nuoi Viet Nam -
+Cong ty Cô phàn
+Tai ngày 31 tháng 12 nǎm 2022, Tàp doàn có 5 còng ty lièn két (1/1/2022: 5 cong ty lien két) só huu
+gián tiép thòng qua Tóng Cong ty Chǎn nuoi Viet Nam - Cong ty Có phàn.
+CH
+CON
+(c)
+Các don vi truc thuoc
+X
+THANHPH
+Các chi nhánh bán hàng:
+1/ Chi nhánh Cong ty Có phàn Sua Viet Nam tai Ha Noi – Tàng 11, Tháp B, Tòa nhà Handi Resco,
+521 Kim Ma, Phuòng Ngoc Khánh, Quàn Ba Dinh, Thanh phó Ha Noi.
+2/ Chi nhánh Cong ty Co phàn Sua Viet Nam tai Da Nǎng — Tàng 7 Tòa nhà Buu Dien, 271 Nguyěn
+Van Linh, Phuòng Vinh Trung, Quan Thanh Khe, Thanh phó Dà Näng.
+NH
+3/
+Chi nhánh Cong ty Co phàn Sua Viet Nam tai Càn Tho– Só 77-77B Vo Van Tàn, Phuòng Tan An,
+HH
+Quàn Ninh Kièu, Thành phó Càn Tho.
+20
+止
+1
+
+Cong ty Có phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nām 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+Các nhà máy sán xuát:
+1/ Nhà máy Süa Thóng Nhát – Só 12 Dāng Van Bi, Quan Thú Dúc, Thành phó Hò Chí Minh.
+2/ Nhà máy Süa Truòng Tho – Só 32 Dǎng Vǎn Bi, Quàn Thú Dúc, Thành phó Hò Chí Minh.
+3/ Nhà máy Sua Dielac – Khu Cong nghiep Bien Hoa I, Tinh Dòng Nai.
+4/1
+Nhà máy Sua Càn Tho – Khu Cong nghiep Trà Nóc, Thanh phó Càn Tho.
+5/ Nhà máy Süa Sai Gòn – Khu CN Tan Thói Hiep, Quán 12, Thành phó Hò Chí Minh.
+6/ Nhà máy Süa Nghe An – Duòng Sao Nam, xa Nghi Thu, Thi xa Cira Lò, Tinh Nghe An.
+711
+Nhà máy Süa Binh Dinh – 87 Hoàng Van Thu, Phuòng Quang Trung, Thanh phó Quy Nhon, Tinh
+Binh Dinh.
+8/ Nhà máy Nróc Giai khát Viet Nam – Khu Cong nghiep My Phuóc I, Tinh Binh Duong.
+9/ Nhà máy Süa Tien Son – Khu Cong nghiep Tien Son, Tinh Bác Ninh.
+10/ Nhà máy Sua Dà Nǎng — Khu Cong nghiep Hoa Khánh, Thành phó Dà Nāng.
+11/ Nha máy Sua bot Viet Nam – 9 Dai lo Tu Do – Khu cong nghiep Viet Nam-Singapore, Huyen
+Thuan An, Tinh Binh Duong.
+12/ Nhà máy Sua Viet Nam – Khu Cong nghiep My Phuóc II, Tinh Binh Duong.
+13/ Nhà máy Süa Lam Son – Khu Cong nghiep Lě Mon, TP. Thanh Hóa, Tinh Thanh Hóa.
+Các kho vān:
+1/ Xí nghiep Kho Van Hò Chí Minh – Só 32 Dǎng Van Bi, Quàn Thu Dúc, Thành phó Hò Chí Minh.
+2/ Xí nghiep Kho Van Ha Noi – Km 10 Quóc lo 5, Xa Duong Xá, Quàn Gia Lam, Thành phó Ha Noi.
+Phòng khám:
+1/ Nha thuóc – Phòng khám da khoa An Khang - 184-186-188 Nguyěn Dinh Chiéu, Phuòng 6, Quan
+3, Thanh phó Hò Chí Minh.
+Trung tam thu mua sira tuoi:
+1/ Trung tàm süa tuoi nguyen lieu Cú Chi – Lo B14-1, B14-2 duòng D4, Khu Cong nghiep Dong
+Nam, xa Hòa Phú, huyèn Cu Chi, Thành phó Hò Chí Minh.
+Tai ngày 31 tháng 12 nǎm 2022, Tap doan có 9.506 nhan vien (1/1/2022: 9.732 nhan vien).
+21
+
+Cong ty Cǒ phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nām két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bō Tài chính)
+II. KY KÉ TOAN, DON VI TIEN TE sU DUNG TRONG KÉ TOAN
+1.
+Ky ké toán nǎm
+Ky ké toán nǎm cúa Tàp doàn bát dàu tùr ngày 1 tháng 1 và két thúc ngày 31 tháng 12.
+2.
+Don vi tièn tè ké toán và trinh bày báo cáo tài chính
+Don vi tièn tè ké toán cua Cong ty là Dòng Viet Nam ("VND") cüng la don vi tièn tè dugc sir dung cho
+muc dich làp và trinh bày báo cáo tài chính hgp nhát.
+III. CHuAN MUC VA CHE DO KE TOAN AP DUNG
+Tuyèn bó vè vièe tuàn thǔ chuán myc và ché do ké toán
+Báo cáo tài chính hop nhát duoc làp theo Chuán muc Ké toán Viet Nam, Ché do Ké toán Doanh nghiep
+Viet Nam và các quy dinh pháp ly có lièn quan dén vièc làp và trinh bày báo cáo tài chính.
+2.
+Co so do luòng
+Báo cáo tài chính hop nhát, trùr báo cáo lunu chuyén tièn tè hop nhát, dugc làp trèn co sò dòn tich theo
+nguyèn tác giá góc. Báo cáo lru chuyèn tièn tè hop nhát dugc làp theo phuong pháp gián tiép.
+IV. ToM TAT NHUNG CHíNH SACH KÉ TOAN CHU YEU
+Sau day la nhüng chính sách ké toán chú yéu dugc Tàp doàn áp dung trong viec làp báo cáo tài chính
+hop nhát này.
+Nhüng chính sách ké toán dugc Tàp doàn áp dung trong vièc làp báo cáo tài chính hgp nhát này nhát
+quán vói các chính sách ké toán áp dung trong vièc làp báo cáo tài chính hop nhát cúa nǎm gàn nhát.
+1. Co so hop nhát
+(a)
+Cong ty con
+Cong ty con là nhurng don vi mà Tap doàn có quyèn chi phói các chính sách tài chính và hoat dōng cúa
+don vi, thuròng di kèm là vièc nám giü hon mòt núra quyèn biéu quyét. Quyèn biéu quyét tièm tàng có
+thé dugc thuc thi sě dugc xem xét khi dánh giá lieu Tap doàn có quyèn kiém soát don vi hay khòng.
+Báo cáo tài chính cia các còng ty con dugc bao gòm trong báo cáo tài chính hop nhát kě tù ngày quyèn
+kiém soát bát dàu có hieu lyc cho tói ngày quyèn kiém soát chám dúrt.
+(b） l
+Lgi ích có dòng khòng kiém soát
+Lgi ich cò dōng khòng kiém soát ("NCr') dugc xác dinh theo ty le phàn sò hinu cua cò dong khòng
+kiém soát trong tài san thuàn cua don vi bi mua lai tai ngày mua.
+22
+
+Cong ty Có phân Süra Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nam két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 -– DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+Vièc thay dói vón cúa Tàp doàn trong còng ty con mà khòng dān dén mát quyèn kièm soát dugc ké toán
+trong tu nhu các giao dich vón chú só hūu. Chenh lèch giua giá tri thay dói phàn só huu cua Tàp doàn
+trong tài san thuàn cua còng ty con và só chi hoǎc thu tù vièc thay dói vón tai còng ty con dugc ghi
+nhàn vào lgi nhuán sau thué chua phàn phói thuòc vón chú só huru.
+(c)
+Mát quyèn kiém soát
+Khi mát quyèn kiém soát tai mot còng ty con, Tàp doàn dùng ghi nhàn tài san và ng phái trá cúa còng
+ty con cüng nhu NCI và các khoán muc vón chù só hüu khác. Lai hoǎc lō phát sinh tù su kièn này
+dugc ghi nhan vào báo cáo két quá hoat dòng kinh doanh hop nhát. Sau khi thoái vón, phàn lgi ích còn
+lai trong còng ty con truróc dó dugc ghi nhán theo giá tri ghi só còn lai cua khoán dàu tur trèn báo cáo
+tài chính hop nhát, sau khi dugc dièu chinh theo ty le turong úng cho nhung thay dòi trong vón chú só
+hüu kě tùr ngày mua néu Tàp doàn vǎn còn ánh huóng dáng kě trong don vi nhan dàu tu, hoǎc trinh bày
+theo giá góc cúa khoán dàu tu còn lai néu khòng còn ánh huòng dáng kè.
+(d)
+Cong ty lien doanh và lien két
+Các còng ty lien két là nhüng don vi mà Tap doàn có anh huóng dáng kè, nhung khòng kiém soát, các
+chính sách tài chính và hoat dong cua don vi. Các còng ty lièn doanh là nhung don vi mà Tàp doàn có
+quyèn dòng kiém soát dugc thiét làp bàng thòa thuàn hop dòng và dòi hòi sy nhát trí cúa các bèn lièn
+doanh dói vói các quyét dinh chién luoc vè tài chính và hoat dòng. Cong ty lien doanh và lièn két là các
+don vi mà Tap doàn thuòng nám giü tir 20% dén 50% quyèn biéu quyét ó các don vi dó.
+Còng ty lièn doanh và lién két dugc hach toán theo phuong pháp vón chú só huu. Báo cáo tài chính
+hop nhát giua nièn dō bao gòm phàn mà Tàp doàn dugc huóng trong thu nháp và chi phí cúa cong ty
+lien doanh, lien két dugc hach toán theo phuong pháp vón chú sò huu, sau khi dièu chinh theo chính
+sách ké toán cua Tàp doàn, tùr ngày bát dàu cho tói ngày chám dút sy ành huóng dáng kè dói vói các
+cong ty này.
+Khi phàn lō cua còng ty lièn doanh, lien két mà Tap doàn phai chia sé vugt quá lgi ích cua Tap doàn
+trong còng ty lien doanh, lièn két dugc hach toán theo phuong pháp vón chù só huu, giá tri ghi sò cua
+khoán dàu tu (bao gòm các khoan dàu tu dài han, néu có) sě dugc ghi giàm tói bàng khòng và dirng
+viec ghi nhàn các khoan lō phát sinh trong tuong lai trùr các khoan lǒ thuoc pham vi mà Tap doàn có
+nghia vu phai tra hoāc da trà thay cho còng ty lièn doanh, lien két.
+(e)
+Các giao dich dugc loai trir khi hop nhát
+Các só du, giao dich trong nòi bo Táp doàn và các khoan thu nhàp và chi phí chua thuc hien tùr các giao
+dich noi bo dugc loai trir khi làp báo cáo tài chính hop nhát. Khoán lai và lō chua thyc hien phát sinh
+tùr các giao dich vói các còng ty lièn doanh, lién két dugc hach toán theo phuong pháp vón chù só huu
+dugc tri vào khoan dàu tur trong pham vi lgi ích cúa Tap doàn tai còng ty lièn doanh, lien két.
+(f)
+Hop nhat kinh doanh
+Hop nhát kinh doanh dugc hach toán theo phuong pháp mua tai ngày mua, là ngày mà quyèn kièm soát
+dugc chuyèn giao cho Tàp doàn. Quyèn kièm soát tòn tai khi Tap doàn có quyèn chi phói các chính
+sách tài chính và hoat dòng cúa don vi nhàm thu dugc lgi ích kinh té tùr các hoat dòng cúa don vi dó.
+Vièc dánh giá quyèn kiém soát có xét dén quyèn bó phiéu tièm nǎng có thè thyc hièn durgc tai thòi diém
+hien tai.
+23
+
+Cong ty Cǒ phàn Süra Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nam 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 ciia Bo Tài chính)
+2. Ngoai tè
+(a)
+Các giao dich bàng ngoai tè
+Các giao dich bàng các don vi tièn khác VND trong nǎm dugc quy dói sang VND theo ty giá thyc té
+tai ngày giao dich.
+Các khoán muc tài san và ng phai trá có góc bàng don vi tièn té khác VND dugc quy dòi sang VND làn
+lrot theo ty giá mua chuyěn khoan và bán chuyèn khoan cúa ngàn hàng thuong mai noi Còng ty và các
+còng ty con thuòng xuyèn có giao dich và có só du ngoai tè lón nhát tai ngày két thúc ky ké toán nǎm.
+Tát cá các khoan chènh lèch ty giá dugc ghi nhàn vào báo cáo két quá hoat dòng kinh doanh hgp nhát.
+(b) Co so hoat dong ó nuóc ngoài
+Các tài san và ng phai trá cúa co só hoat dōng ó nuóc ngoài, bao gòm lgi thé thuong mai và các dièu
+chinh giá tri hop ly phát sinh trong quá trinh mua, duoc quy dòi sang VND theo ty giá hói doái tai ngày
+két thúc ky ké toán nǎm. Thu nhàp và chi phí cua co só hoat dòng o nuóc ngoài drgc quy dòi sang
+VND theo ty giá hói doái binh quàn trong nǎm.
+Các chēnh lèch quy dòi tièn té phát sinh do quy dòi co so hoat dòng ó nuóc ngoài dugc ghi nhán vào
+khoan muc "Chenh lech quy dòi tièn tè" thuoc vón chú só hüu trèn báo cáo tinh hinh tài chính hop nhát.
+3.
+Tièn và các khoan trong drong tièn
+Tièn bao gòm tièn māt và tièn giri ngàn hàng khòng ky han. Các khoan turong durong tièn là các khoán
+dàu tur ngǎn han có tính thanh khoàn cao, có thé dě dàng chuyèn dói thành mòt luong tièn xác dinh,
+khòng có nhièu rúi ro vè thay dòi giá tri và dugc sùr dung cho muc dich dáp úrng các cam két chi tièn
+ngǎn han hon là cho muc dich dàu tu hay là các muc dích khác.
+4.
+Các khoan dàu tr
+(a)
+Ching khoán kinh doanh
+Chúng khoán kinh doanh bao gòm các loai chúrng khoán nám giü vì muc dich kinh doanh (kè cà các
+chúng khoán có thòi gian dáo han trèn 12 tháng) dugc mua dé bán lai dě tao lgi nhuán. Chúng khoán
+IANH
+kinh doanh dugc ghi nhàn theo giá góc bao gòm giá mua cōng các chi phí mua có lièn quan trrc tiép.
+Sau ghi nhàn ban dàu, chúrng khoán dugc xác dinh theo giá góc trùr di du phòng giám giá chúng khoán
+YTNHH
+kinh doanh.
+AG
+Thòi diém ghi nhàn các khoán chúng khoán kinh doanh là thòi diém Tàp doàn có quyèn só hüu, cu thě
+2CHIMINH
+nhu sau:
+Ching khoán nièm yét dugc ghi nhàn tai thòi diém khóp lènh (T+0).
+Chirng khoán chua niem yét dugc ghi nhàn tai thòi diém chính thúc có quyèn só hüu theo quy dinh
+CHII
+cua pháp luat Viet Nam.
+CONG
+音
+KI
+THANHPH
+24
+
+Cong ty Co phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nām 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+Du phòng dugc làp khi có bàng chúrng là giá thi truòng cúa chírng khoán kinh doanh giam xuóng tháp
+hon giá tri ghi sǒ. Sau khi khoan du phòng này dugc làp, néu giá thi truòng cúa chúng khoán kinh
+doanh này tǎng lèn thi khoán dy phòng sě dugc hoàn nhàp. Khoan du phòng dugc hoàn nhàp trong
+pham vi khòng làm giá tri ghi só cia các chúng khoán yuot quá giá tri ghi sǒ cúa chúng khi gia dinh
+khòng có khoàn dy phòng nào da duoc ghi nhàn.
+(b) Các khoán dàu tu nám gir dén ngày dáo han
+Các khoan dàu tu nám giü dén ngày dáo han là các khoan mà Ban Dièu hành Táp doàn có y dinh và
+khà nāng nám giü dén này dáo han. Các khoán dàu tu nám giü dén ngày dáo han bao gòm tièn gúri
+ngàn hàng có ky han. Các khoán dàu tu này phan ánh theo giá góc trù dy phòng giám giá các khoán
+dàu tr.
+Các khoan dàu tu nám giü dén ngày dáo han dugc phàn loai là các khoán muc tièn tè có góc ngoai té
+dugc dánh giá lai theo ty giá thuc té tai ngày báo cáo.
+(c) Các khoán cho vay
+Các khoan cho vay là các khoan cho vay theo thóa thuán giüa các bèn nhung khòng dugc giao dich
+mua bán trèn thi truòng nhur chúng khoán. Du phòng các khoán cho vay khó doi dugc làp cho ting
+khoan cho vay khó dòi cǎn cúr vào thòi gian quá han tra ng góc theo cam két ng ban dàu (khòng tính
+dén viec gia han ng giüa các bèn), hoǎc cǎn cúí vào múc tòn thát dur kién có thè xay ra.
+(d) Dàu tu góp vón vào các don vi khác
+Dàu tu góp vón vào các don vi khác dugc ghi nhàn ban dàu theo giá góc bao gòm giá mua và các chi
+phí mua có lièn quan truc tiép. Sau ghi nhan ban dàu, các khoán dàu tu này duoc xác dinh theo giá góc
+trùr di dy phòng giam giá dàu tu. Du phòng giám giá dàu tu dugc làp khi don vi nhàn dàu tu phát sinh
+lō dān dén Tàp doàn có khá nǎng mát vón, trùr khi có bàng chíng ràng giá tri cua khoán dàu tu khòng
+bi suy giám. Dy phòng giám giá dàu tu dugc hoàn nhap khi don vi nhàn dàu tu sau dó tao ra lgi nhuán
+dě bù trùr cho các khoán lǒ da dugc làp dy phòng truóc kia. Khoan du phòng chi dugc hoàn nhap trong
+pham vi sao cho giá tri ghi sò cúa khoan dàu tu khòng vugt quá giá tri ghi sò cúa chúng khi gia dinh
+khòng có khoán du phòng nào dā dugc ghi nhàn.
+5.
+Các khoán phai thu
+Các khoan phái thu durgc theo dōi chi tiét theo ky han phai thu, dói tuong phai thu, loai nguyèn té phai
+thu và các yéu tó khác theo nhu càu quán ly cúa Tàp doàn. Phái thu cúa khách hàng gòm các khoán
+phai thu mang tính chát thuong mai phát sinh tùr giao dich có tính chát mua - bán. Phai thu khác gòm
+các khoan phai thu khòng có tính thuong mai, khòng lièn quan dén giao dich mua - bán. Các khoan
+phái thu dugc phàn loai là ngán han và dài han trèn báo cáo tình hình tài chính hop nhát cān cú ky han
+còn lai cúa các khoán phai thu tai ngày báo cáo.
+Phai thu khách hàng và các khoan phai thu khác dugc phán ánh theo giá góc trùr di du phòng phái thu
+khó dòi. Du phòng phai thu khó dòi dugc làp cho tùrng khoán ng phai thu khó dòi cān cúr vào thòi gian
+quá han trá ng góc theo cam két ng ban dàu (khòng tính dén vièc gia han ng giua các bèn), hoǎc du kién
+múc tón thát có thé xay ra.
+25
+
+Cong ty Có phàn Sira Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia B6 Tài chính)
+Phai thu khách hàng và các khoàn phài thu khác dugc phàn loai là các khoàn myc tièn tè có góc ngoai
+tè durgc dánh giá lai theo ty giá thuc té tai ngày báo cáo.
+6.
+Hàng tòn kho
+Hang tòn kho durgc phán ánh theo giá tháp hon giüa giá góc và giá tri thuàn có thè thyc hién dugc. Giá
+góc dugc tính theo phuong pháp bình quàn gia quyèn và bao gòm tát cà các chi phí phát sinh dě có
+dugc hàng tòn kho ó dia dièm và trang thái hién tai. Dói vói thành phám và san phám dó dang, giá góc
+bao gòm nguyèn vàt lièu, chi phí nhàn còng truc tiép và các chi phí san xuát chung duqc phan bò. Giá
+tri thuàn có thé thuc hièn dugc uóc tính dya vào giá bán cúa hàng tòn kho trùr di các khoan chi phí uóc
+tính dé hoàn thành sán phàm và các chi phí uóc tính dé bán sán phám.
+Tàp doàn áp dung phuong pháp kè khai thuòng xuyèn dé hach toán hàng tòn kho.
+7.
+Tai san có dinh huru hinh
+(a)
+Nguyèn giá
+Tai san có dinh huu hinh duoc thé hien theo nguyèn giá trùr di giá tri hao mòn lūy ké. Nguyèn giá tài
+sǎn có dinh huu hinh bao gòm giá mua, thué nhàp kháu, các loai thué mua hàng khòng hoàn lai và chi
+phí lièn quan trrc tiép dè dua tài san dén trang thái hoat dong cho muc dich sùr dung da dy kién, và chi
+phí dè tháo dō, di dòi tài san và khòi phuc hién tnròng tai dia diém dǎt tài san. Các chi phí phát sinh
+sau khi tài sán có dinh huu hình da dua vào hoat dòng nhu chi phí sura chua, bao duōng và dai tu duroc
+ghi nhán vào báo cáo két quá hoat dòng kinh doanh hop nhát trong nām mà chi phí phát sinh. Trong
+các truòng hgp có thé chúng minh mòt cách rō ràng ràng các khoan chi phí này làm tǎng lgi ích kinh té
+trong trong lai dy tính thu dugc tù viec sù dung tài san có dinh huu hinh vugt trèn múrc hoat dōng tieu
+chuán theo nhu dánh giá ban dàu, thì các chi phí này dugc vón hóa nhu mòt khoàn nguyèn giá tǎng
+thèm cúa tài san có dinh hüu hinh.
+(b) Kháu hao
+Kháu hao drgc tính theo phuong pháp duòng thàng dya trèn thòi gian hüu dung uóc tính cua tài san có
+dinh huu hinh. Thòi gian hüu dung uóc tính nhu sau:
+nhà cúra và vàt kién trúc
+5-50 nām
+máy móc và thiét bi
+2-20 nǎm
+phuong tièn vàn chuyèn
+4-10nǎm
+thiét bi vǎn phòng
+2–12 nǎm
+gia súc
+6nǎm
+tài san khác
+3-20 nǎm
+26
+
+Cong ty Có phàn Süra Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bó Tài chính)
+8.
+Tai san có dinh vò hình
+(a)
+Quyèn súr dung dát
+Quyèn sir dung dát có thòi han xác dinh dugc thè hièn theo nguyèn giá trùr giá tri hao mòn lüy ké.
+Nguyèn giá ban dàu cua quyèn sùr dung dát bao gòm giá mua và các chi phí lièn quan trrc tiép tói viec
+có dugc quyèn sur dung dát. Kháu hao dugc tính theo phuong pháp duòng thǎng dua trèn thòi gian hièu
+luc cua giáy chúng nhàn quyèn sú dung dát.
+Quyèn súr dung dát khòng có thòi han xác dinh dugc thé hièn theo nguyèn giá và khòng tính kháu hao.
+Quyèn thuè dát có dugc thòng qua hop nhát kinh doanh dugc ghi nhàn ban dàu theo giá tri hop ly và
+duoc kháu hao theo phuong pháp duòng tháng dua tren thòi han cúa hop dòng thuè dát.
+(b)
+Thuong hieu
+Thuong hieu có duoc thòng qua hop nhát kinh doanh dugc ghi nhan ban dàu theo giá tri hop ly và dugc
+kháu hao theo phuong pháp duòng thǎng trong trong vòng 20 nǎm.
+(c)
+Vùng nguyèn lieu
+Vùng nguyèn lièu có dugc thòng qua hop nhát kinh doanh dugc ghi nhàn ban dàu theo giá tri hop ly và
+dugc kháu hao theo phuong pháp duòng thàng trong trong vòng 18 nǎm.
+(d)
+Phàn mèm máy vi tính
+Giá mua cua phàn mèm máy vi tính mói mà phàn mèm này khòng phai là mōt bō phán gán két vói phàn
+cúrng có lièn quan thì duoc vón hóa và hach toán nhu tài san có dinh vò hinh. Phàn mèm máy vi tính
+dugc tính kháu hao theo phuong pháp duòng tháng trong thòi gian tù 2 – 8 nām.
+(e)
+Tài sán có dinh vò hình khác
+Tai sàn có dinh vò hinh khác dugc tính kháu hao theo phuong pháp duòng thǎng trong vòng 4 – 10
+nām.
+9.
+Bát dong san dàu tr
+(a)
+Nguyèn giá
+Bát dòng san dàu tu nám giü dě cho thuè dugc thè hien theo nguyèn giá trù di giá tri hao mòn lüy ké.
+Nguyèn giá ban dàu cua bát dōng san dàu tu nám giü dé cho thuè bao gòm giá mua, chi phí quyèn sǔr
+dung dát và các chi phí lién quan tryc tiép dén viec dura tài san dén dièu kién càn thiét dé tài san có thě
+hoat dong theo cách thúrc da du kién bói Ban Dièu hành. Các chi phí phát sinh sau khi bát dong san
+dàu tu nám giü dě cho thuè dā dugc dua vào hoat dòng nhu chi phí sira chua và báo tri dugc ghi nhàn
+vào báo cáo két quá hoat dòng kinh doanh hgp nhát trong nǎm mà các chi phí này phát sinh. Trong các
+truòng hop có thè chúng minh mòt cách rō ràng ràng các khoan chi phí này làm tǎng lgi ích kinh té
+trong tuong lai du tính thu dugc tù viec si dung bát dòng sán dàu tu nám giü dě cho thuè vugt trèn múc
+hoat dong tièu chuǎn theo nhu dánh giá ban dàu, thì các chi phí này duqc vón hóa nhu màt khoán
+nguyèn giá tāng thèm cúa bát dòng sán dàu tu.
+27
+
+Cong ty Cǒ phàn Süra Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nām 2022
+(tiép theo)
+Máu B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bō Tài chính)
+(b) Kháu hao
+Kháu hao dugc tính theo phuong pháp duòng tháng dua trèn thòi gian hüu dung uóc tính cúa bát dòng
+san dàu tu nám giü dé cho thue. Thòi gian hiu dung uóc tính nhu sau:
+quyèn súr dung dát có thòi han xác dinh
+13-50 nām
+co só ha tàng
+8-10nǎm
+nhà cira
+6-50nǎm
+Quyèn sir dung dát khòng có thòi han xác dinh dugc thé hien theo nguyèn giá và khòng tính kháu hao.
+10. Xay dung co ban do dang
+Xay dumg co ban dó dang phán ánh các khoán chi phí xay dung hoǎc trièn khai tài san có dinh huu hinh
+và tài sán có dinh vò hinh chua hoàn thành hoǎc chua láp dāt xong. Khòng tính kháu hao cho xày dung
+co ban do dang trong quá trinh xay dumg và láp dǎt.
+11. Chi phí tra trróc
+(a)
+Chi phí dát trá trróc
+Chi phí dát trá truóc bao gòm tièn thuè dát trá truóc, kè cà các khoán lièn quan dén dát thuè mà Tàp doàn
+da nhán dugc giáy chúmg nhàn quyèn sùr dung dát nhung khòng dù dièu kien ghi nhàn tài san có dinh vò
+hình theo các quy dinh pháp luàt hièn hành, và các chi phí phát sinh khác lièn quan dén vièc bao dam cho
+vièc súr dung dát thuè. Các chi phí này dugc ghi nhàn vào báo cáo két quá hoat dòng kinh doanh hop nhát
+theo phuong pháp duòng thang dra trèn thòi han cúa hop dòng thuè dát.
+(b)
+Cong cu và dung cu
+Cong cu và dung cu bao gòm các tài san Tap doàn nám giu dé súr dung trong quá trinh hoat dōng kinh
+doanh binh thuòng, vói nguyèn giá cúa mǒi tài sán tháp hon 30 triéu VND và do dó khòng dú dièu kien
+ghi nhàn là tài san có dinh theo quy dinh hien hành. Nguyèn giá cua còng cu và dung cu dugc phàn bǒ
+theo phuong pháp duòng tháng trong thòi gian tùr 1 – 5 nǎm.
+(c)
+Chi phí trá truóc khác
+CHIN
+Chi phí tra trróc khác duoc ghi nhàn theo nguyèn giá và dugc phàn bò theo phuong pháp duòng thǎng
+CONG
+trong thòi gian hüu dung tùr 1 – 3 nǎm.
+★
+KP
+THANHPHO
+12. Loi thé thuong mai
+Loi thé thuong mai phát sinh trong vièc mua lai còng ty con, còng ty lièn doanh và lien két. Lgi thé
+thuong mai dugc xác dinh theo giá góc trù di phan bò lüy ké. Giá góc cùa lgi thé thurong mai là khoán
+chenh lech giüa chi phí mua và lgi ích cúa Tap doàn trong giá tri hop ly thuàn cia các tài san, ng phai
+tra và ng tiěm tàng cúa don vi bi mua. Khoán chenh lech àm (giao dich mua ré) dugc ghi nhàn ngay
+vào báo cáo két quá hoat dòng kinh doanh hgp nhát.
+NH
+INHH
+5
+28
+CHIPHINM
+
+Cong ty Cǒ phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bō Tai chính)
+Lgi thé thuong mai phát sinh trong vièc mua lai còng ty con dugc phàn bò theo phuong pháp duòng
+thàng trong vòng 10 nǎm. Giá tri ghi sǒ cúa loi thé thuong mai phát sinh trong vièc mua lai còng ty
+con dugc ghi giám dén giá tri có thè thu hòi khi Ban Dièu hành xác dinh ràng khoán này khòng thè thu
+hòi dày dú.
+Dói vói các khoàn dàu tu dugc ké toán theo phuong pháp vón chú só hüu, giá tri ghi só cúa loi thé
+thuong mai dugc bao gòm trong giá tri ghi sò cúa khoán dàu tur và khòng dugc kháu hao.
+13. Phai trá nguòi bán và các khoan phai trá khác
+Các khoan phai tra duoc theo dōi chi tiét theo ky han phai tra, dói tuong phai trá, loai nguyen té phái
+tra và các yéu tó khác theo nhu càu quan ly cua Tàp doàn. Phai tra nguòi bán gòm các khoan phai trá
+mang tính chát thuong mai phát sinh tù giao dich mua - bán và các khoan phai trá khi nhàp kháu thòng
+qua nguòi nhàn uy thác (trong giao dich nhàp kháu úy thác). Phai tra khác gòm các khoán phái trá
+khong có tính chát thuong mai, khòng lièn quan dén giao dich mua - bán. Các khoan phai tra dugc
+phan loai ngán han và dài han trèn báo cáo tình hinh tài chính hop nhát cǎn cú theo ky han còn lai cua
+các khoan phai trá tai ngày báo cáo.
+Phai trá nguòi bán và các khoán phai trà khác thè hièn theo giá góc. Phài trà nguòi bán và các khoán
+phai tra khác dugc phan loai là các khoan muc tièn tè có góc ngoai tè dugc dánh giá lai theo ty giá thuc
+té tai ngày báo cáo.
+14.（
+Chi phí phai tra
+Chi phí phai trà bao gòm các khoán phai trá cho hàng hóa, dich vy dā nhàn dugc tùr nguòi bán trong
+nām nhung thc té chua chi trà do chua có hóa don hoǎc chua dǔ hò so, tài lieu ké toán, dugc ghi nhán
+vào báo cáo dua trèn dièu khoan ghi trong các hop dòng trong úrng.
+15. Dr phòng
+Mòt khoán dy phòng duoc ghi nhán néu, do két quà cua mòt sy kièn trong quá khú, Tap doàn có nghia
+vu pháp ly hièn tai hoǎc lièn dói có thé uóc tính mòt cách dáng tin cày, và chác chán sē làm giam sut
+các lgi ích kinh té trong tuong lai dè thanh toán các khoan ng phai trá do nghia vu dó. Khoan dy phòng
+dugc xác dinh bàng cách chiét kháu dòng tièn dy kién phai trá trong tuong lai vói ty le chiét kháu trróc
+1
+1
+thué phán ánh dánh giá cúa thi trròng o thòi diém hièn tai vè giá tri thòi gian cua tièn và rui ro cu thě
+-
+cua khoàn ng dó.
+小
+『
+Du phòng trg cáp thòi viec
+1-
+Theo Bo luat Lao dòng Viet Nam, khi nhan vien lam vièc cho còng ty tù 12 tháng tró len ("nhan vien
+11
+dú dièu kién") ty nguyèn chám dút hop dòng lao dòng cua minh thì bèn sù dung lao dōng phái thanh
+toán tièn trg cáp thoi vièc cho nhàn vièn dó tính dya trèn só nām làm viec và múc luong tai thòi diém
+thòi vièc cua nhan vièn dó. Du phòng trg cáp thoi viéc dugc làp trén co só só nǎm nhan vien làm vièc
+cho Cong ty và múrc lrong binh quàn cúa ho trong vòng sáu tháng truóc ngày két thúc ky ké toán nǎm.
+Cho muc dích xác dinh só nǎm làm vièc cúa nhàn vièn, thòi gian nhàn vièn dā tham gia bao hiém thát
+nghiep theo quy dinh cua pháp luàt và thòi gian làm vièc da dugc Còng ty chi trà trg cáp thoi vièc dugc
+loai trùr.
+29
+
+Cong ty Cô phàn Süra Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+16. Vón có phàn
+(a)
+Có phiéu phò thòng
+Cò phiéu phǒ thòng duoc ghi nhàn theo menh giá. Khoan tièn thu dugc tir vièc phát hanh có phiéu vurot
+quá mènh giá dugc ghi nhàn là thǎng du vón có phàn. Các chi phí lièn quan truc tiép dén vièc phát
+hành có phiéu, trùr các ánh huóng thué, dugc ghi giám vào thāng du vón có phàn.
+(b) Mua lai và phát hành lai cǒ phiéu phó thòng (có phiéu quy)
+Có phiéu quy chi dugc ghi nhàn dói vói vièc mua lai các cò phiéu lé phát sinh khi phát hành có phiéu
+dé trá có túc hoǎc phát hành có phiéu tùr nguòn vón chú só hüu theo phuong án da dugc thòng qua, hoāc
+mua lai có phiéu lò lé theo yèu càu cúa có dong. Có phiéu lé là có phiéu dai dièn cho phàn vón cò phàn
+hình thành do gop các phàn lé có phàn chia theo ti lé cho nhà dàu tu. Trong tát cà các truòng hop khác,
+khi mua lai cǒ phiéu mà truóc dó da dugc ghi nhàn là vón chù só hüu, mènh giá cúa các cǒ phiéu mua
+lai phai duoc ghi giam trùr vào vón có phàn. Chenh lèch giua mènh giá cúa có phiéu mua lai và giá tri
+khoan thanh toán bao gòm các chi phí lien quan truc tiép, trùr di thué, duoc ghi nhán vào thǎng du vón
+cò phàn.
+17. Thué
+Thué thu nhàp doanh nghiep tính trèn lgi nhuàn hoāc lō hop nhát cua nǎm bao gòm thué thu nhàp hièn
+hành và thué thu nhap hoān lai. Thué thu nhàp doanh nghiep duoc ghi nhàn trong báo cáo két quá hoat
+dōng kinh doanh hop nhát ngoai trù truòng hop có các khoan thué thu nhàp lien quan dén các khoan
+muc dugc ghi nhàn thǎng vào vón chú só hūu, thì khi dó các khoàn thué thu nhàp này cǔng dugc ghi
+nhàn thǎng vào vón chú só hüu.
+Thué thu nhap hien hành la khoàn thué dy kién phai nòp dua trèn thu nhàp chiu thué trong nǎm, súr
+dung các múrc thué suát có hiéu luc tai ngày két thúc ky ké toán nǎm, và các khoan dièu chinh thué phai
+nòp lièn quan dén nhung nǎm truóc.
+Thué thu nhàp hoān lai dugc tính theo phuong pháp bang cán dói ké toán cho các chenh lech tam thòi
+giüa giá tri ghi sǒ cho muc dích báo cáo tài chính và giá tri sir dung cho muc dích tính thué cua các
+khoan muc tài san và ng phái tra. Giá tri cua thué thu nhàp hoān lai dugc ghi nhán dya trèn cách thúrc
+du kién thu hòi hoǎc thanh toán giá tri ghi só cúa các khoan myc tài san và ng phai tra sú dung các míc
+thué suát có hièu luc hoāc co ban có hieu luc tai ngày két thúc ky ké toán nām.
+Tai san thué thu nhàp hoān lai chi dugc ghi nhàn trong pham vi chác chán có dù loi nhuàn tính thué
+trong tuong lai dé chènh lèch tam thòi này có thé sú dung dugc. Tài san thué thu nhàp hoan lai dugc
+ghi giám trong pham vi khòng còn chác chán là các lgi ích vè thué lièn quan này sě sùr dung duoc.
+18. Doanh thu và thu nhàp khác
+(a)
+Doanh thu bán hàng
+Doanh thu bán hàng dugc ghi nhàn trong báo cáo két quà hoat dōng kinh doanh hop nhát khi phàn lón
+rúi ro và lgi ích gán lièn vói quyèn sò hüu sán phám hoāc hàng hoá duroc chuyèn giao cho nguòi mua.
+Doanh thu khòng dugc ghi nhàn néu nhu có nhüng yéu tó khòng chác chán trong yéu lièn quan tói khǎ
+nǎng thu hòi các khoàn phài thu hoāc lièn quan tói khá nǎng hàng bán bi tra lai. Doanh thu hàng bán
+dugc ghi nhàn theo só thuàn sau khi dā trùr di só chiét kháu giám giá ghi trèn hóa don bán hàng.
+30
+
+Cong ty Cô phàn Süa Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hop nhát cho nam két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bö Tài chính)
+(b) Doanh thu cung cáp dich vu
+Doanh thu cung cáp dich vu dugc ghi nhàn trong báo cáo két quà hoat dòng kinh doanh hop nhát theo
+ty lè hoàn thành giao dich tai ngày két thúc ky ké toán nām. Ty lé hoàn thành giao dich dugc dánh giá
+dra trèn kháo sát các còng vièc da dugc thuc hièn. Doanh thu khòng duoc ghi nhàn néu nhu có nhirng
+yéu tó khòng chǎc chán trong yéu lièn quan tói khà nǎng thu hòi các khoàn phái thu.
+(c)
+Doanh thu cho thuè
+Doanh thu cho thuè tài san dugc ghi nhan trong báo cáo két quà hoat dòng kinh doanh hop nhát theo
+phuong pháp duòng tháng dua vào thòi han cia hop dòng thuè. Các khoán hoa hòng cho thuè durgc
+ghi nhàn nhu là mòt bò phàn hop thành cua tòng doanh thu cho thuè.
+(d) Thu nhàp tir tièn lài
+Thu nhàp tiù tièn lāi dugc ghi nhàn theo ty lè trong úng vói thòi gian d ra trèn só du góc và lāi suát áp
+dung.
+(e)
+Thu nhàp tir có tirc
+Thu nhàp tiù có túc dugc ghi nhàn khi quyèn nhàn có túrc dugc xác làp.
+(f)
+Thu nhàp tir thanh ly các khoán dàu tur tài chính ngán han và dài han
+Thu nhàp tùr thanh ly các khoàn dàu tur tài chính ngán han và dài han dugc ghi nhàn vào báo cáo két quá
+hoat dōng kinh doanh hop nhát khi phàn lón rúi ro và lgi ích gǎn lièn vói quyèn só huru dugc chuyěn
+giao cho nguòi mua. Phàn lón rúi ro và lgi ích gán lièn vói quyèn só hüu chi dugc chuyěn giao cho
+nguòi mua khi hoàn thành giao dich mua bán (dói vói chúng khoán da nièm yét) hoāc hoàn thành hgp
+dòng chuyèn nhuong tài sán (dói vói chúng khoán chua niem yét).
+19. Các khoan giam trir doanh thu
+Các khoan giám trir doanh thu gòm chiét kháu thuong mai, giam giá hàng bán và hàng bán bi trá lai.
+Truòng hop san phám, hàng hoá, dich vu da tiéu thu trong ky báo cáo nhung dén ky sau mói phát sinh
+chiét kháu throng mai, giam giá hàng bán hoǎc hàng bán bi trá lai thì Tàp doàn ghi giám doanh thu ghi
+nhàn trong ky báo cáo néu các khoán giám trù này phát sinh truóc thòi diēm phát hành báo cáo tài chính
+hop nhát.
+20. Giá vón hàng bán
+Giá vón hàng bán bao gòm giá vón cúa sàn phám, hàng hóa và dich vu cung cáp trong nǎm yà dugc ghi
+nhàn phù hop vói doanh thu da tieu thy trong nǎm. Chi phí nguyèn vàt lieu tryc tiép tieu hao vuqt múc
+bình thuòng, chi phí nhàn còng và chìi phí san xuát chung có dinh khòng phàn bò vào giá tri sán phám
+nhàp kho dugc ghi nhàn ngay vào giá vón hàng bán (sau khi trù di các khoan bòi thuòng, néu có) kě ca
+khi san phám, hàng hóa chua dugc xác dinh là tieu thy.
+31
+
+Cong ty Có phàn Sira Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hop nhát cho nām két thúc ngày 31 tháng 12 nām 2022
+(tiép theo)
+Máu B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tai chính)
+21. Các khoan thanh toán thuè hoat dong
+Các khoán thanh toán thuè hoat dòng dugc ghi nhàn trong báo cáo két quà hoat dòng kinh doanh hop
+nhát theo phuong pháp duòng thǎng dua trèn thòi han cua hgp dòng thuè. Các khoan hoa hòng di thuè
+duoc ghi nhàn trong báo cáo két quá hoat dòng kinh doanh hop nhát nhu là mot bò phàn hop thành cúa
+tòng chi phí thuè, trong suót thòi han thuè.
+22.
+Chi phí di vay
+Chi phí di vay dugc ghi nhàn là mòt chi phí trong nǎm khi chi phí này phát sinh, ngoai trr truòng hop
+chi phí di vay lièn quan dén các khoán vay cho muc dich hình thành tài san dú dièu kièn vón hóa chi
+phí di vay thì khi dó chi phí di vay trong thòi gian hình thành tài san sě dugc vón hóa và dugc ghi vào
+nguyèn giá các tài sán này.
+23. Phàn phói có trc
+Lgi nhuan sau thué cua Tàp doàn dugc trích chia có tic cho các cò dong sau khi dugc phè duyet bói
+Hoi dòng cò dong tai Dai hòi thuòng nièn cúa Cong ty và sau khi dā trích làp các quy du trür theo Dièu
+le cua Cong ty.
+Cò tírc dugc còng bó và chi trà dyra trèn só lgi nhuàn uóc tính dat dugc trong nǎm. Cò tirc chính thic
+dugc còng bó và chi trà trong nǎm ké tiép tù nguòn lgi nhuàn chua phàn phói cǎn cúr vào su phe duyet
+cua Dai hoi dòng cò dòng tai Dai hoi thuòng nièn cua Cong ty.
+24. Các quy
+Các quy dugc trích làp dya theo Dièu le cua Cong ty nhu sau:
+Quy khen thuóng và phúc lgi
+10% lgi nhuàn sau thué
+Quy dàu tu phát trièn
+10% loi nhuàn sau thué
+Vièc súr dung các quy nói trèn phai dugc su phe duyèt cua Dai hòi dòng cò dōng, Hoi dòng Quan tri
+hoǎc Tóng Giám dóc, tùy thuōc vào ban chát và quy mò cúa nghiep vu da dugc néu trong Dièu lè cúa
+Cong ty.
+NH
+25. Lai trèn cǒ phiéu
+NHH
+Tap doàn trinh bày lāi co ban và lāi suy giam trèn có phiéu (EPs) cho các cò phiéu phò thòng. Lai co
+★
+ban trèn có phiéu dugc tính bàng cách láy lai hoǎc lō thuāc vè có dòng phò thòng cúa Còng ty (sau khi
+trich quy khen thróng và phúc lgi trong ky ké toán nǎm) chia cho só lugng cò phiéu phǒ thòng bình
+/MINH
+quàn gia quyèn luru hành trong nǎm. Lai suy giam trèn có phiéu dugc xác dinh bàng cách dièu chinh
+lāi hoǎc lǒ thuòc vè cǒ dòng phó thòng và só luong có phiéu phó thòng bình quàn dang luu hành có tính
+dén các anh huóng cúa có phiéu phò thòng tièm nǎng, bao gòm trái phiéu có thé chuyèn dòi và quyèn
+mua cò phiéu.
+CHI
+CON
+￥
+K
+THANHPH
+32
+
+Cong ty Cö phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mâu B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+26. Báo cáo bô phàn
+Mot bò phàn là mot hop phàn có thè xác dinh rièng biet cua Tàp doàn tham gia vào vièc cung cáp các
+san phám hoāc dich vu lièn quan (bò phàn chia theo hoat dòng kinh doanh), hoǎc cung cáp san pham
+hoǎc dich vu trong mot mòi truòng kinh té cu thě (bo phàn chia theo khu vyc dia ly), mōi bò phàn này
+chiu rúi ro và thu dugc lgi ích khác biet vói các bò phàn khác. Mǎu báo cáo bò phàn co ban cúa Tap
+doàn la dua theo bo phan chia theo khu vuc dia ly.
+27. Các ben lien quan
+Các doanh nghiep, các cá nhàn, truc tiép hay gián tiép qua mòt hoāc nhièu trung gian, có quyèn kiém
+soát Tap doàn hoǎc chiu sy kiém soát cúa Tap doàn, hoǎc cùng chung su kiém soát vói Tap doàn, bao
+gòm ca còng ty me, còng ty con và còng ty lién két là các bèn lièn quan cúa Tap doàn. Còng ty lien
+két, các cá nhàn truc tiép hoāc gián tiép nám quyèn bièu quyét cúa Tàp doàn mà có anh huóng dáng ké
+dói vói Tàp doàn, nhüng nhàn sy quán ly chú chót bao gòm các giám dóc, các cán bà dièu hành cúa
+Tàp doàn, nhung thành vièn màt thiét trong gia dinh cúa các cá nhan này hoǎc các cóng ty lién két vói
+các cá nhàn này cǔng duoc coi là các bèn lièn quan.
+28.
+Thong tin so sánh
+Thòng tin so sánh trong báo cáo tài chính hop nhát này drgc trinh bày duói dang dü lieu tuong úng;
+Theo phuong pháp này, các thòng tin so sánh cúa nǎm truóc dugc trinh bày nhu mòt phàn khòng thě
+tách ròi cua báo cáo tài hop chính nhát nǎm hien tai và phái dugc xem xét trong mói lièn hé vói các só
+lièu va thuyét minh cúa nǎm hien tai. Theo dó, thòng tin so sánh bao gòm trong báo cáo tài chính hop
+nhát này khòng nhàm muc dích trinh bày vè tinh hinh tài chính, két quá hoat dōng kinh doanh và luu
+chuyěn tièn tè hop nhát cua Tàp doàn trong nǎm truóc.
+V.
+THoNG TIN Bo SUNG CHO CAc KHoAN MUC TriNH BAY TroNG BAo CAO
+TiNH HiNH TAI CHINH HOP NHAT
+1.
+Tièn và các khoán trong duong tièn
+31/12/2022
+1/1/2022
+VND
+VND
+Tièn mǎt
+1.715.151.072
+1.485.618.484
+Tièn gúri ngàn hàng
+1.325.714.367.365
+1.185.864.633.095
+Các khoán tuong duong tièn
+972.514.009.187
+1.161.201.622.769
+2.299.943.527.6242.348.551.874.348
++
+33
+
+Cong ty Co phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+2.
+Du phòng phai thu khó dòi
+Bién dòng dy phòng phai thu khó dòi trong nǎm nhu sau:
+2022
+2021
+VND
+VND
+só du dàu nām
+(12.257.493.261)
+(16.434.079.108)
+Tang du phòng trong nǎm
+(1.656.841.857)
+(466.127.562)
+Sir dung dy phòng trong nǎm
+527.606.281
+3.060.361.538
+Hoàn nhàp dy phòng trong nǎm
+42.363.959
+1.572.227.183
+Chenh lech quy dói tièn tè
+(101.359.922)
+10.124.688
+Só du cuói nǎm
+(13.445.724.800)
+(12.257.493.261)
+3.
+Các khoán phai thu khác
+(a)
+Phai thu ngán han khác
+31/12/2022
+1/1/2022
+VND
+VND
+Lai tièn güi và có túrc
+457.294.545.422
+432.204.790.110
+Phai thu tùr nhan vièn
+1.169.913.026
+1.033.203.389
+Tam úng cho nhan vién
+44.429.612.864
+41.579.487.025
+Ky quy ngán han
+3.835.986.414
+108.968.676.520
+Thué nhap kháu duoc hoàn lai
+2.555.575.760
+4.664.338.506
+Các khoán thu nhàp dugc hō trg tiù nhà cung cáp
+214.341.684.142
+128.258.346.989
+Phai thu khác
+166.838.882.943
+93.988.265.234
+890.466.200.571
+810.697.107.773
+(b)
+Phái thu dài han khác
+31/12/2022
+1/1/2022
+VND
+VND
+Ky cugc và ky quy dài han
+35.422.722.715
+12.442.333.595
+Phai thu khác
+3.000.000.000
+4.252.770.900
+38.422.722.715
+16.695.104.495
+-
+」
+34
+
+Cong ty Có phàn Sia Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hop nhát cho nām két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tai chính)
+4.
+Các khoan dàu tur
+(a)
+Chíng khoán kinh doanh
+31/12/2022
+1/1/2022
+Giá tri
+Giá tri
+Du phòng
+Giá tri
+Giá tri
+Dr phòng
+ghi só
+hop ly
+giám giá
+ghi sǒ
+hop ly
+giám giá
+VND
+VND
+VND
+VND
+VND
+VND
+Dàu tr
+ngán han
+vao có phiéu 1.159.355.253 469.610.056 (689.745.197) 1.119.781.812 453.580.382 (666.201.430)
+(b) Dàu tr nám giür dén ngày dáo han
+31/12/2022
+1/1/2022
+VND
+VND
+Dàu tur nám giür dén ngày dáo han - ngán han
+tièn gúi có ky han
+17.413.585.718.627 21.025.282.199.093
+35
+
+Cong ty Cǒ phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nām két thúc ngày 31 tháng 12 nām 2022 (tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bö Tài chính)
+(c) Dàu tu góp vón vào don vi khác
+31/12/2022
+1/1/2022
+Giá tri ghi nhàn theo
+Giá tri ghi nhàn
+% vón
+phrong pháp vón chǔ
+% vón theo phuong pháp vón
+so hüru và
+só hünu/
+Giá tri
+Dr phòng
+só hū và
+chú so hüw
+Giá tri
+Dy phòng
+quyèn
+giá góc
+hgp ly
+giám giá
+quyèn biéu
+giá góc
+hop ly
+giám giá
+biéu quyét
+VND
+VND
+VND
+quyét
+VND
+VND
+VND
+Dàu tu vào các còng ty lièn doanh, lien két
+▪ Miraka Holdings Limited
+16,96%
+287.362.154.997
+(*)
+22,81%
+325.236.308.653
+(*)
+Cong ty Có phàn APIs
+20,00%
+39.499.496.146
+(*)
+20,00%
+32.456.749.642
+(*)
+Cong ty Co phàn Ché bién Dira A Chau
+24,96%
+150.355.490.875
+(*)
+24,96%
+106.218.560.860
+(*)
+Del Monte – Vinamilk Dairy Inc., Philippines
+50,00%
+593.854.138
+(*)
+50,00%
+4.285.501.160
+(*)
+▪ Các còng ty lièn két sò hüu gián tiép
+186.491.781.862
+(*)
+192.826.634.107
+(*)
+thong qua Tong Cong ty Chan nuoi Viet Nam
+— Cong ty Co phàn
+664.302.778.018
+661.023.754.422
+Dàu tu góp vón vào các don vi khác
+Cong ty Có phàn Nguyen lieu Thuc phám Á
+14,71%
+69.261.607.154
+(*)
+14,71%
+69.261.607.154
+(*)
+Chau Sài Gòn
+Nha thuóc – Phòng khám da khoa An Khang
+300.000.000
+(*)
+300.000.000
+(*)
+Các don vi khác
+32.388.611.927
+(*)
+(23.582.690.668)
+32.359.451.927
+(*)
+(19.082.789.672)
+101.950.219.081
+(23.582.690.668)
+101.921.059.081
+(19.082.789.672)
+766.252.997.099
+(23.582.690.668)
+762.944.813.503
+(19.082.789.672)
+(*)
+Tai ngay báo cáo, Tap doàn chua xác dinh giá tri hop ly cua các còng cu tài chính này dé thuyét minh trong báo cáo tài chính hgp nhát boi yì khòng có giá nièm yét trèn thi truròng
+cho các còng cu tài chính này và các Chuán muc Ké toán Viet Nam, Ché do Ké toán Doanh nghiep Viet Nam hien khòng có huóng dǎn vè cách tính giá tri hop ly si dung các ky
+thuàt dinh giá. Giá tri hop ly cia các còng cu tài chính này có thè khác vói giá tri ghi sò cia chúng.
+36
+HNVHL
+
+Cong ty Có phàn Süa Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bó Tài chính)
+Bién dòng cúa các khoán dàu tu góp vón vào các còng ty lièn doanh, lién két trong nǎm nhu sau:
+2022
+2021
+VND
+VND
+só dur dàu nǎm
+661.023.754.422
+686.485.729.063
+Dàu tu thèm
+43.175.000.000
+23.227.732.575
+Có túrc nhàn duoc
+(15.420.000.001)
+(2.600.000.000)
+Thanh ly
+-
+(1.045.277.327)
+Lō chia tùr cong ty lièn két
+(24.475.976.403)
+(45.044.429.889)
+só dur cuói nǎm
+664.302.778.018
+661.023.754.422
+Bién dōng du phòng giám giá chúng khoán kinh doanh trong nǎm nhu sau:
+2022
+2021
+VND
+VND
+só du dàu nǎm
+(666.201.430)
+(936.520.806)
+Hoàn nhàp dy phòng trong nǎm
+267.749.939
+-
+Chenh lech quy dói tièn te
+(23.543.767)
+2.569.437
+só dr cuói nām
+(689.745.197)
+(666.201.430)
+Bién dòng du phòng giám giá dàu tu tài chính dài han trong nǎm nhu sau:
+2022
+2021
+VND
+VND
+só du dàu nǎm
+(19.082.789.672)
+(14.969.115.668)
+Tang dy phòng trong nǎm
+(4.499.900.996)
+(6.325.491.549)
+Hoàn nhàp du phòng trong nǎm
+2.211.817.545
+só dur cuói nǎm
+(23.582.690.668)
+(19.082.789.672)
+37
+
+Cong ty Có phàn Sura Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nam 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bo Tai chính)
+5.
+Hàng tòn kho
+31/12/2022
+1/1/2022
+Giá tri ghi sǒ
+Dv phòng
+Giá tri ghi sǒ
+Dr phòng
+VND
+VND
+VND
+VND
+Hàng mua dang di
+tren duòng
+812.950.683.637
+1.074.655.773.411
+Nguyèn vat lieu
+3.365.992.574.670
+(20.772.142.150)4.226.624.123.827
+(16.060.209.799)
+Cong cu và dung cu
+93.825.867.140
+(374.613.608)
+65.185.806.961
+(548.075.465)
+San phám dó dang
+199.435.483.074
+257.787.043.440
+(29.811.948.260)
+-
+Thanh phàm
+1.024.111.382.368
+(1.459.301.629) 1.124.201.739.313
+(994.524.129)
+Hàng hóa
+37.037.692.091
+65.918.346.190
+-
+"
+Hàng gui di bán
+26.815.770.524
+6.113.558.528
+5.560.169.453.504 (22.606.057.387) 6.820.486.391.670 (47.414.757.653)
+Bién dòng du phòng giám giá hàng tòn kho trong nǎm nhu sau:
+2022
+2021
+VND
+VND
+só du dàu nām
+(47.414.757.653)(47.780.074.395)
+Tang du phòng trong nǎm
+(13.343.747.910)
+(47.777.803.432)
+Hoàn nhap dy phòng trong nǎm
+35.616.693.471
+22.197.765.545
+Súr dung du phòng trong nǎm
+3.403.318.819
+25.825.670.746
+Chenh lech quy dói tièn tè
+(867.564.114)
+119.683.883
+só du cuói nām
+(22.606.057.387) (47.414.757.653)
+"
+;
+38
+
+Cong ty Có phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022 (tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bō Tài chính)
+6.
+Tai sán có dinh hüu hinh
+Nhà cúra và
+Máy móc yà
+Phuong tien
+Thiét bi
+vat kién trúc
+thiét bi
+vàn chuyén
+vǎn phòng
+Gia súc
+Tài sǎn khác
+Tóng cong
+VND
+VND
+VND
+VND
+VND
+VND
+VND
+Nguyen giá
+só du dàu nǎm
+5.798.921.373.703 18.523.813.151.891 1.287.446.830.696
+695.422.998.913 1.332.765.153.288
+6.973.557.065 27.645.343.065.556
+Tang trong nǎm
+69.460.350.225
+244.560.219.566
+73.283.959.166
+25.697.946.425
+24.169.683.324
+3.450.344.269
+440.622.502.975
+Chuyèn tù xay dung co ban do dang
+134.729.741.863
+428.285.052.278
+9.835.619.499
+7.984.885.669
+50.560.031.785
+631.395.331.094
+-
+Chuyěn tiùr hàng tòn kho
+480.417.563.007
+-
+480.417.563.007
+1
+-
+Thanh ly/xóa sǒ
+(128.561.724.666)
+(82.643.119.203)
+(21.220.430.308)
+(3.454.935.062)
+(376.379.977.637)
+(434.307.670)
+(612.694.494.546)
+(Giam)/tǎng khác
+(861.329.206)
+84.000.000
+-
+(127.646.265.081)
+(128,423,594,287)
+-
+-
+Chenh lech quy dòi tièn tè
+7.328.107.711
+33.307.089.473
+2.946.271.230
+835.603.721
+1.066.049.479
+13.775.454
+45.496.897.068
+só du cuói nǎm
+5.881.016.519.630 19.147.322.394.005 1.352.376.250.283
+726.486.499.666 1.384.952.238.165
+10.003.369.118 28.502.157.270.867
+Giá tri hao mòn lūy ké
+só du dàu nǎm
+2.454.289.028.622 11.723.803.078.841
+854.667.448.628
+534.597.616.580
+451.333.596.700
+6.557.706.666 16.025.248.476.037
+Kháu hao trong nǎm
+293.540.883.6871.379.727.690.078
+105.145.650.434
+46.560.248.013
+213.260.555.246
+638.876.7492.038.873.904.207
+Thanh ly/xóa sǒ
+(103.782.029.640)
+(73.605.429.807)
+(21.298.478.682)
+(3.422.435.057)
+(184.553.817.255)
+(434.307.669)
+(387.096.498.110)
+(Giam)/tǎng khác
+(291.588.063)
+714.520.991
+94.348
+-
+(62.578.482.027)
+(62.155.454.751)
+/
+Chenh léch quy dòi tièn tè
+3.125.200.889
+20.639.819.335
+2.072.163.397
+735.377.698
+342.215.037
+5.559.706
+26.920.336.062
+Só du cuói nām
+2.646.881.495.495 13.051.279.679.438
+940.586.878.125
+578.470.807.234
+417.804.067.701
+6.767.835.452 17.641.790.763.445
+Giá tri còn lai
+só du dàu nǎm
+3.344.632.345.0816.800.010.073.050
+432.779.382.068
+160.825.382.333
+881.431.556.588
+415.850.399 11.620.094.589.519
+só du cuói nǎm
+3.234.135.024.135 6.096.042.714.567
+411.789.372.158
+148.015.692.432
+967.148.170.464
+3.235.533.666 10.860.366.507.422
+Trong tài san có dinh hiu hinh tai ngay 31 tháng 12 nǎm 2022 có các tài san có nguyèn giá 6.688.784 triéu VND da kháu hao hét nhung vǎn dang dugc si dung
+(1/1/2022: 5.686.436 trieu VND).
+39
+1.
+
+Cong ty Có phàn Süra Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nām két thúc ngày 31 tháng 12 nām 2022 (tiép theo)
+Mǎu B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bō Tài chính)
+7.
+Tài sán có dinh yò hình
+Quyèn
+Phàn mèm
+Tai san có dinh
+sir dung dát
+Thuong hieu
+Vùng nguyèn lieu
+máy vi tính
+yò hình khác
+Tông cong
+VND
+VND
+VND
+VND
+VND
+VND
+Nguyen giá
+só du dàu nǎm
+710.981.415.640
+276.413.594.392
+164.964.058.635
+139.569.334.400
+49.736.400.000 1.341.664.803.067
+Tang trong nǎm
+1.095.070.682
+1.095.070.682
+-
+-
+Chuyèn tir xay dung co ban do dang
+1.209.641.917
+1.209.641.917
+-
+1
+Chenh lech quy dói tièn tè
+7.463.917.554
+232.482.397
+1.757.699.288
+9.454.099.239
+só du cuói nǎm
+718.445.333.194
+276.413.594.392
+164.964.058.635
+142.106.529.396
+51.494.099.288 1.353.423.614.905
+Giá tri hao mòn lüy ké
+só du dàu nǎm
+50.962.771.439
+32.519.246.399
+21.995.207.818
+115.991.209.086
+33.692.399.995
+255.160.834.737
+Kháu hao trong nām
+16.564.385.127
+16.259.623.199
+10.997.603.909
+10.298.256.342
+54.119.868.577
+-
+Chenh lech quy dói tièn te
+111.076.079
+1.190.699.994
+1.301.776.073
+só du cuói nǎm
+67.527.156.566
+48.778.869.598
+32.992.811.727
+126.400.541.507
+34.883.099.989
+310.582.479.387
+Giá tri còn lai
+só du dàu nǎm
+660.018.644.201
+243.894.347.993
+142.968.850.817
+23.578.125.314
+16.044.000.005 1.086.503.968.330
+só du cuói nǎm
+650.918.176.628
+227.634.724.794
+131.971.246.908
+15.705.987.889
+16.610.999.299 1.042.841.135.518
+Trong tài sàn có dinh vò hinh tai ngày 31 tháng 12 nǎm 2022 có các tài sàn có nguyèn giá 93.914 trièu VND da kháu hao hét nhung vān dang dugc sir dung
+(1/1/2022: 91.560 trieu VND).
+5
+/TNHH
+IANH
+入
+HIMINH
+40
+a
+1
+Q
+HNYH
+
+Cong ty Có phàn Sira Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mâu B 09 – DN/HN
+(Ban hành theo Thong tu só202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+8.1
+Bát dong san dàu tu
+Quyèn
+Co só
+sir dung dát
+ha tàng
+Nhà cira
+Tóng còng
+VND
+VND
+VND
+VND
+Nguyen giá
+só du dàu nǎm và cuói nǎm
+39.821.793.375
+982.364.06458.018.521.446
+98.822.678.885
+Giá tri hao mòn lūy ké
+só du dàu nǎm
+7.207.929.415
+976.263.639
+30.588.592.155
+38.772.785.209
+Kháu hao trong nǎm
+865.672.684
+6.100.425
+1.584.312.784
+2.456.085.893
+só dur cuói nǎm
+8.073.602.099
+982.364.06432.172.904.939
+41.228.871.102
+Giá tri còn lai
+só du dàu nǎm
+32.613.863.960
+6.100.425
+27.429.929.291
+60.049.893.676
+só du cuói nǎm
+31.748.191.276
+25.845.616.507
+57.593.807.783
+Bát dōng san dàu tr cúa Tap doàn phán ánh quyèn sùr dung dát, nhà cira và co sò ha tàng nám giü dé cho
+thuè.
+Tai ngày báo cáo, Tàp doàn chua xác dinh giá tri hop ly cua bát dòng sàn dàu tr nám giü dě cho thuè dě
+thuyét minh trong báo cáo tài chính hop nhát bói vì các Chuàn muc Ké toán Viet Nam, Ché do Ké toán
+Doanh nghièp Vièt Nam hièn khōng có huóng dǎn vè cách tính giá tri hop ly sù dung các ky thuàt dinh giá.
+Giá tri hop ly cua bát dōng sàn dàu tu nám giü dé cho thuè có thè khác vói giá tri ghi sò cúa chúng.
+Trong bát dōng sán dàu tur nám giü dè cho thuè tai ngày 31 tháng 12 nǎm 2022 có các tài san có nguyèn
+giá 17.421 trieu VND da kháu hao hét nhung vǎn dang dugc si dung (1/1/2022: 4.433 trieu VND).
+9.
+Chi phí san xuát kinh doanh do dang dài han
+Chi phí san xuát kinh doanh dó dang dài han phan ánh giá tri ghi sǒ cua bò sua duói 16 tháng tuòi, và chi
+phí này sě drgc chuyén vào tài sán có dinh huu hinh duói danh muc gia súc khi bò dú muòi sáu tháng tuǎi,
+là khi bò da sǎn sàng cho vièc san xuát sura.
+11
+41
+IG
+11
+2
+
+Cong ty Cô phàn Süra Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+10. Xay dung co ban do dang
+2022
+2021
+VND
+VND
+só du dàu nǎm
+834.818.937.515
+793.821.481.341
+Tang trong nǎm
+1.306.831.083.954
+699.233.714.086
+Chuyěn sang tài san có dinh huu hinh
+(631.395.331.094)
+(584.790.993.983)
+Chuyèn sang tài sán có dinh vo hinh
+(1.209.641.917)
+(9.805.777.108)
+Chuyèn sang hàng tòn kho
+(36.472.947.276)
+(4.145.910.049)
+Chuyèn sang chi phí trá truóc ngán han
+(3.782.041.938)
+(2.394.716.320)
+Chuyěn sang chi phí tra truóc dài han
+(9.167.551.229)
+(9.352.479.360)
+Thanh 1y
+(251.726.812)
+-
+Giám khác
+(6.645.721.227)
+(45.799.778.777)
+Chenh lèch quy dói tièn tè
+17.605.766.249
+(1.694.875.503)
+só dur cuói nǎm
+1.470.582.553.037
+834.818.937.515
+Các còng trinh xay dung co ban do dang lón dang thyc hien theo ting don vi trong Tap doàn nhu sau:
+31/12/2022
+1/1/2022
+VND
+VND
+Cong ty Có phàn Sua Viet Nam
+431.377.363.957
+185.208.805.297
+Cong ty TNHH Mot Thanh Vien Bò Süa Viet Nam
+75.464.917.042
+38.998.571.441
+Lao-Jagro Development Xiengkhouang Co., Ltd.
+723.078.016.500
+385.541.144.205
+Cong ty Có phàn Gióng Bo süa Mòc Chau
+95.736.189.738
+102.119.517.256
+Các còng ty khác
+144.926.065.800
+122.950.899.316
+1.470.582.553.037
+834.818.937.515
+！
+二
+非
+T
+42
+小
+1=11
+
+Cong ty Cǒ phàn Süa Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nām két thúc ngày 31 tháng 12 nam 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+11.
+Chi phí tra trróc
+(a)
+Chi phí trá trróc ngán han
+31/12/2022
+1/1/2022
+VND
+VND
+Bao tri he thóng và triěn khai phàn mèm
+8.657.427.608
+12.701.896.856
+Quàng cáo
+173.480.476
+1.884.131.751
+Thuè hoat dòng
+3.473.362.556
+2.935.474.635
+Vat lieu, còng cu và dung cu
+12.657.028.624
+12.276.634.485
+Cai tao và sira chüa lón
+1.997.822.909
+1.209.272.308
+Bò tàn dáo và tinh bò xuát phói tinh chò két quà
+1.492.271.346
+982.649.464
+Chi phí trà truóc ngán han khác
+69.119.299.524
+25.282.613.602
+97.570.693.043
+57.272.673.101
+(b)
+Chi phí trá trróc dài han
+Chi phí dát
+Cong cu
+Chi phí
+và dung cu
+Tóng còng
+trá truróc
+trá truóc khác
+VND
+VND
+VND
+VND
+só du dàu nǎm
+348.481.131.658
+329.285.505.251
+47.341.464.466
+725.108.101.375
+Tang trong nǎm
+69.866.828.856
+148.877.721.210
+59.758.329.415
+278.502.879.481
+Chuyèn tù xay dung
+co ban dó dang
+274.828.400
+8.186.198.616
+706.524.213
+9.167.551.229
+Phan bó trong nǎm
+(13.210.144.278)(183.119.740.086)
+(51.110.604.396)(247.440.488.760)
+Tang khác
+405.815.495
+2.846.375.488
+3.252.190.983
+-
+Chenh lèch quy dói tièn tè
+3.506.310.003
+170.093.044
+538.025.786
+4.214.428.833
+só du cuói nǎm
+408.918.954.639
+303.805.593.530
+60.080.114.972
+772.804.663.141
+"
+1
+43
+/
+二
+11
+
+Cong ty Cö phàn Süra Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mǎu B 09 – DN/HN
+(Ban hành theo Thöng tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+12. Tài san thué thu nhàp hoān lai yà thué thu nhàp hoān lai phai tra
+(a)
+Tài sán thué thu nhàp hoān lai
+31/12/2022
+1/1/2022
+VND
+VND
+Tai san thué thu nhàp hoān lai
+Chenh lèch ty giá hói doái
+1.170.509.495
+582.265.598
+Chi phí phái tra, các khoàn dy phòng và tài san có dinh
+33.814.693.966
+26.565.255.313
+34.985.203.461
+27.147.520.911
+(b) Thué thu nhàp hoān lai phai tra – thuàn
+31/12/2022
+1/1/2022
+VND
+VND
+Tai sán thué thu nhàp hoān lai
+Giá tri thué cúa các khoàn lǒ mang sang
+48.654.734.310
+45.661.384.440
+Chi phí phái trá
+7.671.837.810
+8.428.646.640
+Phai thu khách hàng
+839.069.070
+1.733.600.040
+Hàng tòn kho
+996.607.440
+-
+Khác
+3.596.732.370
+3.063.120.480
+Tóng tài san thué thu nháp hoān lai
+60.762.373.560
+59.883.359.040
+Thué thu nhàp hoān lai phai trá
+Tài san có dinh
+(293.266.548.176)
+(340.194.799.510)
+Khác
+(55.478.119.993)
+（36.023.821.035)
+Tóng thué thu nhàp hoān lai phai trá
+(348.744.668.169)
+(376.218.620.545)
+CI
+cor
+Thué thu nhàp hoan lai phai trá thuàn
+(287.982.294.609)
+(316.335.261.505)
+1
+THANHI
+Tai san thué thu nhàp hoān lai dugc ghi nhàn trēn chenh lech tam thòi dugc kháu trr và lō tính thué súr
+dung múc thué suát có hieu luc cua Driftwood Dairy Holding Corporation, còng ty con này durgc thành lap
+và hoat dong tai My.
+H
+NHH
+44
+★
+IMNH
+
+Cong ty Có phàn Süra Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bō Tài chính)
+13. Loi thé throng mai
+2022
+2021
+VND
+VND
+só du dàu nǎm
+1.813.007.890.3872.058.548.005.612
+Phan bò trong nām
+(245.540.115.225)(245.540.115.225)
+só dr cuói nǎm
+1.567.467.775.162 1.813.007.890.387
+14. Phai trá ngròi bán ngán han
+Phai tra nguòi bán là các bèn lièn quan
+31/12/2022
+1/1/2022
+VND
+VND
+Các còng ty lièn két
+Cong ty Có phàn APIs
+84.876.556.696
+57.204.285.214
+Cong ty Cò phàn Ché bién Dira A Chau
+2.503.728.482
+2.577.889.096
+Miraka Holdings Limited
+133.471.803.087
+Cong ty Có phàn Nguyen Lieu Thyc Phám A Chau Sai Gòn
+388.800.000
+Khoan phai tra thuong mai cho ben lièn quan khòng dugc dam bao, khòng chiu lāi và phai tra trong vòng
+60 ngày kě tùr ngày ghi trèn hóa don.
+1
+K
+J
+45
+
+Cong ty Co phàn Süa Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022 (tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+15.
+Vay
+(a)
+Vay ngán han
+Chènh lech
+1/1/2022
+Tǎng thèm
+Tra
+quy dói tièn te
+31/12/2022
+VND
+VND
+VND
+VND
+VND
+Vay ngán han
+9.361.726.118.118
+9.568.813.054.585(14.370.324.894.289)
+288.050.210.689
+4.848.264.489.103
+Vay dài han dén han tra
+20.628.000.000
+12.206.272.500
+(14.682.907.500)
+713.985.000
+18.865.350.000
+9.382.354.118.118
+9.581.019.327.085 (14.385.007.801.789)
+288.764.195.689
+4.867.129.839.103
+Dièu khoan và dièu kièn cua các khoàn vay ngán han hien còn só du nhu sau:
+Thuyét
+Loai
+31/12/2022
+1/1/2022
+Ben cho vay
+minh
+tièn
+VND
+VND
+Ngan hang Sumitomo Mitsui Banking Corporation, Chi nhánh Thanh phó Hò Chí Minh
+(i)
+USD
+1.150.000.000.000
+2.991.350.000.000
+Ngan hàng Thuong mai Co phàn Ngoai thuong Viet Nam, Chi nhánh Thành phó Hò Chí Minh
+(i)
+VND
+2.260.267.036.000
+Ngan hàng MUFG Bank, Ltd., Chi nhánh Thanh phó Hò Chí Minh
+(i)
+USD
+3.558.850.000.000
+-
+Ngan hang DBS Bank, Singapore
+(i)
+USD
+1.137.500.000.000
+-
+Ngan hàng BNP Paribas, Chi nhánh Thành phó Hò Chí Minh
+(i)
+USD
+1.138.000.000.000
+-
+Ngan hàng Mizuho Bank, Ltd., Chi nhánh Thanh phó Hò Chí Minh
+(i)
+USD
+1.150.500.000.000
+-
+Ngàn hàng HSBC Viet Nam, Chi nhánh Thành phó Hò Chí Minh
+(i)
+VND
+126.080.577.000
+444.192.575.505
+Ngan hang ANZ Lào
+(i)
+USD
+17.883.094.110
+-
+Ngan hang HSBC Hoa Ky
+(ii)
+USD
+156.533.781.993
+78.833.542.613
+4.848.264.489.103
+9.361.726.118.118
+46
+l
+T
+
+Cong ty Có phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nām két thúc ngày 31 tháng 12 nǎm 2022 (tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tai chính)
+(i)
+Các khoán vay này khòng dugc dam báo.
+(ii)
+Khoan vay này dugc dam bao bàng tài san có giá tri ghi sò la 896.805 trieu VND tai ngày 31 tháng 12 nǎm 2022 (1/1/2022: 801.145 trieu VND).
+(b) Vay dài han
+Chenh lèch
+1/1/2022
+Tang them
+Phan loai lai
+Tra
+Giam khác
+quy dói tièn tè
+31/12/2022
+VND
+VND
+VND
+VND
+VND
+VND
+VND
+Vay dài han
+96.264.000.000
+(12.206.272.500)
+(2.476.635.000)
+3.312.982.500
+84.894.075.000
+Vay dai han dén han tra (20.628.000.000) (12.206.272.500)
+14.682.907.500
+(713.985.000)
+(18.865.350.000)
+75.636.000.000(12.206.272.500)(12.206.272.500) 14.682.907.500 (2.476.635.000)
+2.598.997.500
+66.028.725.000
+Dièu khoan và dièu kien cúa các khoán vay dài han hièn còn só du nhu sau:
+Thuyét
+Loai
+Nǎm
+31/12/2022
+1/1/2022
+tièn
+Bèn cho vay
+minh
+dáo han
+VND
+VND
+Ngan hàng HSBC Hoa Ky
+(i)
+USD
+2024
+84.894.075.000
+96.264.000.000
+(i) Khoán vay này durgc dám bao bàng tài sán có giá tri ghi só la 896.805 trieu VND tai ngày 31 tháng 12 nǎm 2022 (1/1/2022: 801.145 trieu VND).
+47
+211
+111
+
+Cong ty Có phàn Süra Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nām 2022 (tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+16. Thué phai nòp Ngàn sách Nhà nróc
+Chènh lech
+1/1/2022
+Phai nòp
+Dä nop
+quy dói tièn tè
+31/12/2022
+VND
+VND
+VND
+VND
+VND
+Thué giá tri gia tǎng
+182.017.604.2951.951.447.777.690 (1.968.125.136.011)
+15.496.066
+165.355.742.040
+Thué thu nhàp doanh nghiep
+437.000.965.568
+1.956.248.296.285(1.975.289.763.439)
+141.654.474
+418.101.152.888
+Thué thu nhàp cá nhàn
+19.108.677.853
+234.531.900.895
+(247.106.513.572)
+17.812.205
+6.551.877.381
+Thué nhàp khǎu
+8.521.886.871
+125.448.711.961
+(126.501.952.504)
+109.285.787
+7.577.932.115
+Thué khác
+1.497.607.048
+97.134.961.084
+(98.076.967.321)
+(7.176.940)
+548.423.871
+648.146.741.635 4.364.811.647.915 (4.415.100.332.847)
+277.071.592
+598.135.128.295
+48
+GHIMINM
+5
+ANH
+TNHH
+M.S.C.N: 010
+HHN
+110-100
+8
+HNVHI
+
+Cong ty Cò phàn Sura Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nam 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tai chính)
+17. Chi phí phai trá
+31/12/2022
+1/1/2022
+VND
+VND
+Hǒ trg bán hàng và khuyén māi
+886.202.042.098
+1.004.191.792.903
+Chi phí quáng cáo
+339.732.444.471
+334.356.713.062
+Chi phí vàn chuyèn
+80.876.367.744
+109.774.054.216
+Chi phí nhàn còng thuè ngoài
+46.939.692.451
+107.782.976.757
+Chi phí lai vay
+57.977.342.676
+33.242.334.779
+Chi phí bao trì và sua chua
+15.984.085.729
+31.916.483.333
+Chi phí thuè ke trung bày
+18.623.204.640
+41.097.998.583
+Chi phí nhièn lieu
+7.712.203.638
+9.356.705.167
+Chi phí phái tra khác
+166.827.154.996
+145.543.959.120
+1.620.874.538.443
+1.817.263.017.920
+18.
+Phái trá khác
+31/12/2022
+1/1/2022
+VND
+VND
+Nhán ky quy ngán han
+79.829.249.889
+37.079.820.897
+Bào hièm và kinh phí còng doàn
+3.656.536.904
+7.455.897.780
+Cǒ túc phái trá
+2.926.103.293.830
+61.054.000
+Quy hō trg thu tù và quán ly cho các hō nòng dàn
+17.382.287.343
+-
+Phai tra khác
+49.664.289.613
+74.338.939.449
+3.059.253.370.236
+136.317.999.469
+Trong dó:
+Ngán han
+3.055.541.590.234
+114.417.067.658
+Dai han
+3.711.780.002
+21.900.931.811
+1
+H
+49
+N
+K
+1F
+
+Cong ty Có phàn Süa Vigt Nam và các còng ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nam 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bō Tài chính)
+19. Dr phòng phai tra
+31/12/2022
+1/1/2022
+VND
+VND
+Du phòng trg cáp thoi vièc (*)
+8.096.601.309
+6.438.083.860
+Du phòng khác
+18.539.158.003
+3.852.898.463
+26.635.759.312
+10.290.982.323
+(*) Bién dōng dr phòng trg cáp thoi vièc trong nǎm nhu sau:
+2022
+2021
+VND
+VND
+só du dàu nām
+6.438.083.860
+4.769.394.680
+Tang dy phòng trong nǎm
+11.600.758.238
+5.223.050.845
+Sur dung du phòng trong nǎm
+(9.927.124.140)
+(3.477.077.675)
+Hoàn nháp dy phòng trong nǎm
+(15.116.649)
+(77.283.990)
+só dur cuói nǎm
+8.096.601.309
+6.438.083.860
+20.
+Quy khen thurong và phúc loi
+Quy này dugc trích làp tù loi nhuàn chua phàn phói do các có dòng phè duyet tai cuòc hop Dai hòi
+dòng cǒ dòng. Quy này durgc dùng dè tra khen thuóng và phúc lgi cho nhàn vièn cúa Còng ty và các
+cōng ty con theo chính sách khen thuóng và phúc lgi cúa Còng ty.
+Bién dòng quy khen thuóng và phúc lgi trong nǎm nhu sau:
+2022
+2021
+VND
+VND
+só du dàu nǎm
+507.365.624.913
+559.325.621.730
+Trích quy trong nam (Thuyét minh V.21)
+948.573.877.583
+1.116.210.797.835
+Tǎng khác
+11.920.000
+173.789.837
+Sur dung quy trong nǎm
+(1.053.787.780.031) (1.168.344.584.489)
+só dr cuói nǎm
+402.163.642.465
+507.365.624.913
+121
+N
+50
+P
+1Ⅱ
+
+Cong ty Co phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nām 2022 (tiép theo)
+Mǎu B 09 - DN/HN
+(Ban hành theo Thong tusó 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chinh)
+21. Thay dói vón chú só huu
+vón cǒ
+Thǎng du
+vón khác cúa
+Cǒ phiéu
+Chenh lèch
+Quy dàu tur
+Lqi nhuàn chua
+Lgi ích cò dòng
+phàn
+vón cò phàn
+chú só hūnu
+quy
+quy dòi tièn te
+phát trièn
+phàn phói
+khong kiěm soát
+Tóng
+VND
+VND
+VND
+VND
+VND
+VND
+VND
+VND
+VND
+só du tai ngày
+20.899.554.450.000
+-202.658.418.215 (11.644.956.120) 10.647.239.612 3.286.241.911.090 6.909.725.668.453 2.349.939.498.572 33.647.122.229.822
+1 tháng 1 nām 2021
+Cong ty con phát hanh them
+cò phiéu
+(166.137.328.617)
+205.337.998.617
+39.200.670.000
+Cong ty con nhàn vón góp
+-
+218.540.000.000
+218.540.000.000
+Bán cò phiéu quy
+34.110.709.700
+11.644.956.120
+14.364.328.733
+60.119.994.553
+Loi nhuan thuan trong nam
+10.532.477.099.899
+100.058.872.579 10.632.535.972.478
+Trích quy thuòc vón chú só hūu
+1.066.198.750.215(1.066.198.750.215)
+Trích quy khen thuóng và
+phúc loi (Thuyét minh V.20)
+(1.092.036.658.532)
+(24.174.139.303)(1.116.210.797.835)
+Tang/(giam) khác
+673.755
+(9.149.613)
+8.317.135
+(158.723)
+Cò túrc (Thuyét minh V.23)
+(7.523.560.503.000)
+(7.523.560.503.000)
+Cǒ túc cua còng ty con chia cho
+có dong khòng kièm soát
+(97.239.487.900)
+(97.239.487.900)
+Chenh lech quy dói tièn tè
+- (10.393.670.011)
+(10.393.670.011)
+só dur tai ngày
+20.899.554.450.00034.110.709.700202.658.418.215
+253.569.601 4.352.441.335.0607.594.260.378.375 2.766.835.388.433 35.850.114.249.384
+1 tháng 1 nǎm 2022
+51
+1=1
+AH
+
+Cong ty Có phàn Süra Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022 (tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bo Tài chính)
+vón cò
+Thang dur
+Vón khác cǔa
+Cò phiéu
+Chenh lèch
+Quy dàu tur
+Lqi nhuàn chua
+Lqi ích có dòng
+phàn
+vón có phàn
+chǔ só hǔu
+quy dòi tièn te
+phát trién
+khòng kièm soát
+Tông
+quy
+phàn phói
+VND
+VND
+VND
+VND
+VND
+VND
+VND
+VND
+VND
+só dur tai ngày
+20.899.554.450.000 34.110.709.700 202.658.418.215
+253.569.601 4.352.441.335.0607.594.260.378.375 2.766.835.388.433 35.850.114.249.384
+1 tháng 1 nǎm 2022
+Cong ty con nhàn vón góp
+338.100.000.000
+338.100.000.000
+Lqi nhuán thuàn trong nǎm
+8.516.023.694.342
+61.551.625.366
+8.577.575.319.708
+Trích quy thuòc vón chù só hūu
+914.320.249.913
+(914.320.249.913)
+Trích quy khen thuóng và
+phic 1qi (Thuyét minh V.20)
+(924.627.242.747)
+(23.946.634.836)
+(948.573.877.583)
+Sáp nhap hai còng ty con
+54.397.598.859
+(54.397.555.359)
+43.500
+Cǒ túrc (Thuyét minh V.23)
+- (10.972.266.086.250)
+-(10.972.266.086.250)
+Có túrc cua còng ty con chia cho
+có dong khōng kièm soát
+-(120.675.772.300) (120.675.772.300)
+Chenh lech quy dòi tièn té
+92.244.478.626
+92.244.478.626
+só dur tai ngày
+20.899.554.450.000 34.110.709.700 202.658.418.215
+. 92.498.048.227 5.266.761.584.973 3.353.468.092.666 2.967.467.051.304 32.816.518.355.085
+31 tháng 12 nām 2022
+INHH
+NH
+IMINH
+52
+a$
+HdHNYHL
+
+Cong ty Cǒ phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nām 2022
+(tiép theo)
+Mâu B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tai chính)
+22. Vón có phàn
+Vón cò phàn duoc duyèt và da phát hành cúa Còng ty là:
+31/12/2022 và 1/1/2022
+só cò phiéu
+VND
+vón có phàn droc duyet
+2.089.955.44520.899.554.450.000
+Có phiéu dā phát hành
+Có phiéu phò thòng
+2.089.955.44520.899.554.450.000
+Có phiéu dang luu hành
+Cò phiéu phò thòng
+2.089.955.445 20.899.554.450.000
+Có phiéu phò thòng có menh giá là 10.000 VND. Mǒi có phiéu phó thòng tuong úng vói mot phiéu
+bièu quyét tai các cuòc hop cò dòng cua Cong ty, Các cò dòng dugc nhàn có túc mà Cong ty còng bó
+vào tùng thòi diém. Tát cǎ có phiéu phò thòng dèu có thúr tu uu tièn nhu nhau dói vói tài san còn lai
+cúa Cong ty. Các quyèn lgi cúa các có phiéu da dugc Còng ty mua lai dèu bi tam ngirng cho tói khi
+chúng dugc phát hành lai.
+Chi tiét vón cò phàn:
+31/12/2022 và 1/1/2022
+VND
+%
+Tòng Cong ty Dàu tu và Kinh doanh Vón Nhà nuóc
+7.524.766.020.000
+36,00%
+Vón góp cúa các có dōng khác
+13.374.788.430.000
+64,00%
+20.899.554.450.000 100,00 %
+23. Có túrc
+Vao ngày 1 tháng 12 nǎm 2021, ngày 24 tháng 6 nām 2022 và ngay 1 tháng 12 nǎm 2022, Hqi dòng
+μL
+Quan tri Còng ty da thòng qua viec chia có túc dya trèn két quá kinh doanh nām 2021 và nām 2022 vói
+tǒng só tièn là 10.972.266 trieu VND (làn lugt là 1.400 VND/cò phiéu cho dot tam ing có túrc dot 2
+~
+cúa nǎm 2021 và 2.450 VND/cò phiéu cho phàn còn lai cúa nǎm 2021 và tam úng cò túc dot 1 nām
+2022 và 1.400 VND/có phiéu tam úrng có túc dot 2 nǎm 2022). Nǎm két thúc ngày 31 tháng 12 nǎm
+2021: tòng só có tirc da chia la 7.523.561 trieu VND (làn Iugt la 1.000 VND/có phiéu va 1.100 VND/co
+phiéu cho phàn còn lai cia nǎm 2020 và 1.500 VND/có phiéu cho dot tam ing có túc dgt 1 nǎm 2021).
+53
+
+Cong ty Co phàn Süra Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nām 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tài chính)
+24. Các khoán muc ngoài báo cáo tình hình tài chính hgp nhát
+(a)
+Tài sán thué ngoài
+Các khoan tièn thuè tói thièu phai trà cho các hop dòng thuè hoat dòng khòng dugc hùy ngang nhu sau:
+31/12/2022
+1/1/2022
+VND
+VND
+Trong vòng mot nǎm
+70.716.169.179
+33.407.705.100
+Ti hai dén nǎm nǎm
+219.329.158.109
+97.744.848.655
+Trèn nǎm nǎm
+788.339.947.001
+529.551.568.253
+1.078.385.274.289
+660.704.122.008
+(b) Ngoai te
+31/12/2022
+1/1/2022
+Trong drong
+Trong duong
+Nguyen tè
+VND
+Nguyen tè
+VND
+▪ USD
+1.949.585
+45.639.789.532
+22.377.924
+506.636.207.058
+▪EUR
+33.756
+829.950.721
+4.871
+123.691.735
+46.469.740.253
+506.759.898.793
+(c)
+Cam két chi tieu vón
+Tai ngày báo cáo, Tàp doàn có các cam két sau da dugc duyèt nhumng chua dugc phan ánh trong bang
+can dói ké toán:
+1
+31/12/2022
+1/1/2022
+VND
+VND
+止
+Dā dugc duyèt và ky két hop dòng
+2.542.718.016.426 1.533.701.726.846
+N
+儿
+1
+54
+
+Cong ty Co phàn Sra Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia B0 Tai chính)
+VI. THoNG TiN Bo SUNG CHO CAC KHOAN MUC TRiNH BAy TRONG BAo CAO
+KÉT QUA HOAT DONG KINH DOANH HOP NHAT
+1.
+Doanh thu bán hàng và cung cáp dich vu
+Tóng doanh thu thě hien tóng giá tri hàng bán và dich vu dā cung cáp khòng bao gòm thué giá tri gia
+tǎng.
+Doanh thu thuàn bao gòm:
+2022
+2021
+VND
+VND
+Tòng doanh thu
+Bán thành phám
+56.583.366.266.697
+57.932.322.582.280
+Bán hàng hóa
+3.218.309.235.889
+2.855.102.775.305
+Các dich vu khác
+39.602.107.343
+39.701.901.834
+Cho thuè bát dong san dàu tu
+7.706.976.033
+4.956.165.148
+Doanh thu khác
+225.745.637.337
+179.990.723.197
+60.074.730.223.299
+61.012.074.147.764
+Trù di các khoan giam trùr doanh thu
+▪ Chiét kháu thuong mai
+68.389.179.115
+57.048.684.900
+Giam giá hàng bán
+493.094.566
+-
+Hang bán bi tra lai
+50.093.846.766
+35.367.522.152
+118.483.025.881
+92.909.301.618
+Doanh thu thuàn
+59.956.247.197.418
+60.919.164.846.146
+Trong dó, doanh thu vói khách hàng là các bèn lièn quan nhu sau:
+2022
+2021
+VND
+VND
+2
+Các cong ty lièn két
+Del Monte - Vinamilk Dairy Philippines Inc.
+74.571.387.027
+567.188.980
+二
+Cong ty Cò phàn APIS
+Cong ty Có phàn Ché Bién Dira A Chau
+210.648.156
+111
+55
+
+Cong ty Có phàn Süra Viet Nam và các còng ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+2.
+Giá vón hàng bán yà dich vu cung cáp
+2022
+2021
+VND
+VND
+Tòng giá vón hàng bán
+Thành phàm da bán
+32.305.714.096.438
+30.848.721.191.467
+Hàng hoá da bán
+3.061.626.272.799
+2.737.726.621.353
+Hàng khuyén mai
+581.247.707.149
+893.257.186.779
+Chi phí hoat dòng cua bát dōng sán dàu tu
+1.643.358.171
+1.643.358.165
+□
+Dich vu khác
+1.033.584.784
+5.720.963.973
+Dy phòng giám giá hàng tòn kho
+(22.272.945.561)
+25.580.037.887
+Giá vón khác
+130.023.616.931
+128.213.994.215
+36.059.015.690.711
+34.640.863.353.839
+3.
+Doanh thu hoat dong tài chính
+2022
+2021
+VND
+VND
+Lai tièn gui
+1.198.974.626.506
+1.103.472.820.884
+Lai chenh lèch ty giá hói doái
+117.613.345.537
+53.270.754.380
+Thu nhàp có turc
+11.715.092.058
+7.930.883
+Lai thanh ly khoan dàu tu tài chính
+291.222.673
+-
+Doanh thu hoat dong tài chính khác
+51.601.343.639
+57.641.090.574
+1.379.904.407.740
+1.214.683.819.394
+VH
+VHH
+1
+￥
+MINH
+CHII
+CONG
+KF
+56
+
+Cong ty Có phàn Sia Vièt Nam và các còng ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Máu B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tai chính)
+4.
+Chi phí tài chính
+2022
+2021
+VND
+VND
+Chi phí lai vay
+166.039.091.744
+88.799.090.663
+Chi phí lāi cho các khoan ky quy nhàn dugc
+841.917.041
+220.680.833
+Lō chenh lèch ty giá hói doái
+279.985.584.683
+35.671.801.202
+Dy phòng giám giá dàu tu tài chính
+4.499.900.996
+3.845.924.065
+Chiét kháu thanh toán cho khách hàng
+17.601.776.691
+18.967.274.701
+Chi phí tài chính khác
+148.568.911.840
+54.833.460.768
+617.537.182.995
+202.338.232.232
+5.
+Chi phí bán hàng
+2022
+2021
+VND
+VND
+Chi phí dich vy khuyén mai, trumg bày, giói thieu
+san phám yà hō trg bán hàng
+8.717.780.486.455
+9.229.057.850.953
+Chi phí quang cáo, nghièn cúru thi truòng
+1.197.802.874.822
+1.233.350.351.965
+Chi phí nhàn vien
+742.460.039.515
+660.223.065.419
+Chi phí vàn chuyén
+883.656.485.446
+876.997.613.963
+Chi phí dich vu mua ngoài
+679.562.325.002
+669.312.658.542
+Chi phí cōng cu, dung cu
+132.514.400.886
+124.038.885.042
+Chi phí nguyèn vàt liéu
+83.709.353.015
+61.298.483.171
+Chi phí kháu hao
+52.720.135.277
+53.003.930.795
+Chi phí báo hành
+58.006.146.453
+43.387.562.554
+12.548.212.246.871
+12.950.670.402.404
+1
+T
+un
+57
+1=
+
+Cong ty Có phàn Süra Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nam 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tu só 202/2014/T-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+6.
+Chi phí quan ly doanh nghiep
+2022
+2021
+VND
+VND
+Chi phí nhan vién
+556.391.771.664
+573.819.360.808
+Chi phí dich vy mua ngoài
+348.107.136.538
+347.777.620.697
+Chi phí kháu hao
+83.005.211.618
+91.338.899.765
+Còng tác phí
+41.199.620.502
+26.902.387.638
+Chi phí vàt lièu quàn ly
+54.565.711.147
+45.127.448.787
+Chi phí vàn chuyèn
+46.648.088.480
+45.605.841.439
+Chi phí ching tùr nhàp hàng
+18.149.433.658
+24.713.287.238
+Chi phí dò dùng vǎn phòng
+22.520.219.758
+24.456.574.998
+Thuè, phí và lè phí
+62.163.438.673
+42.639.484.562
+Chi phí dich vy ngàn hàng
+11.980.489.731
+10.410.130.912
+Du phòng phai thu khó dòi và du phòng trg cáp thòi vièc
+13.200.119.487
+4.039.667.234
+Chi phí phan bó lgi thé thuong mai
+245.540.115.225
+245.540.115.225
+Chi phí khác
+92.374.324.597
+84.941.607.682
+1.595.845.681.078
+1.567.312.426.985
+7.
+Thu nhàp khác
+2022
+2021
+VND
+VND
+Thu nhap dugc hō trg tiù nhà cung cáp
+117.059.705.435
+180.625.374.966
+Thu nhàp tir thanh ly tài san có dinh và xày dung
+co ban dó dang
+137.273.416.582
+133.916.631.891
+Thu nhàp tùr khoàn vay dugc miēn giam do hō trg bói
+chính phú
+70.747.452.470
+Bòi thuròng nhàn tùr các bèn khác
+10.250.458.524
+8.827.111.365
+Thu nhàp khác
+24.438.218.586
+28.706.621.598
+289.021.799.127
+422.823.192.290
+IV1
+1
+二
+58
+1~1
+
+Cong ty Có phàn Sira Vièt Nam và các còng ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 -– DN/HN
+(Ban hành theo Thong tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tai chính)
+8.
+Chi phí khác
+2022
+2021
+VND
+VND
+Giá tri ghi sǒ cua tài san có dinh và xày dung co ban
+dó dang dā thanh ly/xóa sò
+225.597.996.436
+207.497.318.225
+Chi phí khác
+58.953.953.046
+20.710.207.337
+284.551.949.482
+228.207.525.562
+9.
+Chi phí san xuát và kinh doanh theo yéu tó
+2022
+2021
+VND
+VND
+Chi phí nguyèn vàt liéu trong chi phí san xuát
+28.254.043.965.342
+26.791.762.196.999
+Chi phí nhan còng
+2.584.010.369.890
+2.610.866.195.351
+Chi phí kháu hao và phàn bò
+2.081.613.738.006
+2.114.227.260.665
+Chi phí dich vy mua ngoài
+3.250.849.396.879
+3.328.399.860.750
+Chi phí khác
+11.442.139.103.204
+12.238.525.067.822
+10. Thué thu nhàp
+(a)
+Ghi nhàn trong báo cáo két quá hoat dong kinh doanh hop nhát
+2022
+2021
+VND
+VND
+Chi phí thué hièn hành
+1.956.248.296.2852.320.981.674.175
+Trong dó: tǎng chi phí thué hièn hành
+lien quan dén thu nháp chiu thué cia các nǎm truóc
+17.586.208.221
+65.592.640.708
+Loi ích thué thu nhàp hoan lai
+Phát sinh và hoàn nhàp các chenh lech tam thòi
+(38.288.939.248)
+(31.282.159.734)
+Chi phí thué thu nhàp
+1.917.959.357.037 2.289.699.514.441
+15/
+卜
+小
+59
+1
+
+Cong ty Cò phàn Süa Vigt Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nām 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tai chính)
+(b) Dói chiéu thué suát thyc té
+2022
+2021
+VND
+VND
+Lgi nhuàn ké toán truóc thué
+10.495.534.676.745 12.922.235.486.919
+Thué theo thué suát cúa Cong ty
+2.099.106.935.3492.584.447.097.384
+Anh huóng cúa chenh lèch thué suát cua các còng ty con.
+các chi nhánh và các nhà máy cúa Còng ty
+(97.579.560.790)
+(79.696.711.272)
+Thu nhàp khòng bi tính thué
+(2.343.018.412)
+(1.586.177)
+Chi phí khōng duoc kháu trù thué
+10.833.816.918
+10.776.368.530
+Uu dai thué
+(181.818.411.414)
+(290.245.639.640)
+Thay dòi tài san thué thu nhàp hoān lai chua dugc ghi nhan
+72.173.387.165
+(1.172.655.092)
+Tang chi phí thué hien hành lien quan dén thu nhàp chiu
+thué cúa các nǎm truóc
+17.586.208.221
+65.592.640.708
+Chi phí thué thu nhàp
+1.917.959.357.037 2.289.699.514.441
+(c)
+Thué suát áp dung
+Các cong ty trong Tap doàn chiu thué thu nhàp theo các mirc thué suát khác nhau tir 10% dén 21% tính
+trèn thu nhàp chiu thué tùy thuòc vào hoat dòng kinh doanh chính cúa các nhà máy và chi nhánh. Còng
+ty và tát ca còng ty con da phát sinh chi phí thué thu nhàp.
+11. Lai co ban trèn có phiéu
+Viec tính toán lai co ban trèn có phiéu cho nǎm két thúc ngày 31 tháng 12 nǎm 2022 dugc dua trèn loi
+nhuàn thuòc vè có dong phò thòng sau khi trù di khoán phàn bó vào quy khen thuòng và phúc lgi và só
+luong cò phiéu phó thòng binh quàn gia quyèn. chi tiét nhu sau:
+(a) Lgi nhuàn thuàn thuòc vè cǒ đòng phò thong
+2022
+2021
+VND
+VND
+Lgi nhuàn thuàn trong nām — thuòc vè cò dòng phò thòng
+truóc khi trích quy khen thuóng và phúc lgi
+8.516.023.694.342 10.532.477.099.899
+Trích quy khen thuong và phúc loi – thuōc vè có dòng
+phò thòng
+(924.627.242.747)(1.092.036.658.532)
+Loi nhuàn thuàn trong nām thuòc vè có dong phó thòng
+g7.591.396.451.595 9.440.440.441.367
+sau khi trích quy khen thuóng và phúc lgi
+60
+★
+INH
+
+Cong ty Cǒ phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 - DN/HN
+(Ban hành theo Thong tu só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bō Tài chính)
+(b) só có phiéu phó thòng bình quàn gia quyèn
+2022
+2021
+só cò phiéu
+só cǒ phiéu
+só lrgng cò phiéu phó thòng dàu nǎm
+2.089.955.445
+2.089.645.346
+Anh huóng cua có phiéu quy bán ra trong nǎm
+285.461
+Só lrong binh quàn gia quyèn cia có phiéu phó thòng
+2.089.955.445
+2.089.930.807
+Tai ngày 31 tháng 12 nǎm 2022. Tap doàn khòng có các có phiéu có tièm nǎng suy giám lai trèn cǒ
+phiéu.
+VII. NHUNG THONG TIN KHAC
+1.
+Các giao dich chú yéu vói các bèn lièn quan
+Ngoài các só du và giao dich vói bèn lièn quan dugc trinh bày tai các thuyét minh khác cua báo cáo tài
+chính hgp nhát. trong nǎm Tàp doàn có các giao dich chú yéu vói các ben lièn quan nhu sau:
+Mói
+Loai
+2022
+2021
+Ben lièn quan
+quan hè
+giao dich
+VND
+VND
+Miraka Holdings Limited
+Cong ty Mua hàng hóa
+231.425.301.017
+155.017.742.176
+lièn két Bán hàng hóa
+103.180.923
+Cong ty Có phàn APIS
+Cong ty Mua hàng hóa và 471.997.298.179
+233.374.210.894
+lièn két
+dich vu
+Có tic dugc chia
+2.600.000.000
+Cong ty Cò phàn Ché Bién
+Cong ty Mua hàng hóa
+37.370.417.796
+22.901.079.806
+Dira A Chau
+lièn két Mua cò phàn
+30.900.000.000
+Có túrc dugc chia
+12.360.000.000
+1
+Del Monte – Vinamilk Dairy
+Cong ty Góp vón
+12.275.000.000
+22.810.312.500
+天六
+Inc.. Philippines
+lièn doanh Bán hàng hóa
+46.356.662.890
+Cung cáp dich vu
+2.197.314.167
+-
+Tòng Cong ty Dàu tur và Kinh Có dong Cò túc
+2.897.034.917.7002.708.915.767.200
+doanh Vón Nhà nuóc
+61
+
+Cong ty Cǒ phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hop nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022
+(tiép theo)
+Mau B 09 – DN/HN
+(Ban hành theo Thong tur só 202/2014/TT-BTC
+ngày 22 tháng 12 nǎm 2014 cia Bo Tai chính)
+Thù lao và lrong cúa nguòi quan ly chǔ chót
+2022
+2021
+Trieu VND
+Trieu VND
+Thành vien Hoi dòng quán tri
+Tóng thù lao
+Ong Nguyěn Hanh Phúc – Chù tich
+1.720
+Ba Le Thi Bang Tam – Chú tich
+1.837
+3.646
+Ba Mai Kièu Lien – Thành vièn (i)
+2.067
+2.118
+Ong Lee Meng Tat - Thành vien
+2.398
+2.458
+Ba Dang Thi Thu Hà — Thành vien
+2.398
+2.495
+Ong Le Thanh Liem – Thành vien (ii)
+931
+1.064
+Ong Michael Chye Hin Fah – Thành vièn
+2.646
+2.712
+Ong Dö Le Hùng — Thành vien
+2.398
+2.458
+Ong Alain Xavier Cany - Thanh vien
+2.646
+2.675
+Ba Tieu Yén Trinh – Thành vien
+1.734
+920
+Ong Hoàng Ngoc Thach - Thanh vien
+2.411
+1.280
+(i)
+Thành vien Hoi dòng quan tri kièm Tóng Giám dóc.
+(ii)
+Thành vien Hoi dòng quan tri kièm Giám dóc Dièu hành – Tai chính.
+2022
+2021
+Trieu VND
+Trieu VND
+Tóng Giám dóc
+Tièn luong trung binh mot tháng
+Ba Mai Kièu Lien
+366
+366
+Nhürng ngròi quán ly khác
+Tièn luong trung binh mot tháng cho mot nguòi
+167
+218
+Các Giám dóc Dièu hành
+$\frac$
+NI
+3T
+PI
+正
+62
+
+Cong ty Có phàn Süa Viet Nam và các cong ty con
+Thuyét minh báo cáo tài chính hgp nhát cho nǎm két thúc ngày 31 tháng 12 nǎm 2022 (tiép theo)
+Mǎu B 09 – DN/HN
+(Ban hành theo Thong tur só 202/2014/rT-BTC
+ngày 22 tháng 12 nǎm 2014 cua Bo Tài chính)
+2.
+Báo cáo bô phàn
+Thong tin bo phàn dugc trinh bày theo bo phàn co ban cua Tàp doàn là bo phàn chia theo khu vuc dia ly.
+Két quà cua bo phàn bao gòm các khoán muc phàn bó trrc tiép cho mòt bo phán cung nhu cho các bo phàn dugc phàn chia theo mòt co só hop ly. Các khoan muc
+khòng dugc phan chia bao gòm tài san và ng phai tra. doanh thu hoat dòng tài chính và chi phí tài chính. chi phí bán hàng và chi phí quán ly doanh nghièp. lgi nhuàn
+yà lǒ khác. và thué thu nhàp doanh nghiep.
+Bo phàn theo khu vrc dia ly
+Khi trinh bày thòng tin bò phán theo khu vuc dia ly. doanh thu cua bò phán duqc dya vào vi trí dia ly cua khách hàng tai Viet Nam ("Trong nuóc'") hay o các nuóc
+khác Viet Nam ("Nuóc ngoài"). Tai san bò phàn và chi tieu vón khong duqc trinh bay do vi trí cua tài san và có co so san xuát chú yéu la ó Viet Nam.
+Trong nróc
+Nuóc ngoài
+(Khách hàng tai Viet Nam)
+(Khách hàng o các nuóc khác Vièt Nam)
+Tóng cōng
+2022
+2021
+2022
+2021
+2022
+2021
+VND
+VND
+VND
+VND
+VND
+VND
+Doanh thu thuàn
+50.704.403.447.753
+51.202.029.350.725
+9.251.843.749.665
+9.717.135.495.421
+59.956.247.197.418
+60.919.164.846.146
+Giá vón hàng bán
+(30.148.858.565.457)(29.154.535.362.690)
+(5.910.157.125.254)
+(5.486.327.991.149)
+(36.059.015.690.711)
+(34.640.863.353.839)
+Loi nhuàn gop
+20.555.544.882.29622.047.493.988.035
+3.341.686.624.411
+4.230.807.504.272
+23.897.231.506.707
+26.278.301.492.307
+theo bô phàn
+Ngày 28 tháng 2 nām 2023
+CONGTY
+Nguòi lap:
+COPHAN
+Niduyet:
+SUA
+lu
+VIET NAM
+QUAN7
+CHIMINH
+Le Thành Liem
+Mai Kièu Lièn
+Giám doc Diéu hành Tài chính
+Tóng Giám dóc
+kièm Ké toán trurong
+3
+ANH
+TNHH
+63
+IMINH

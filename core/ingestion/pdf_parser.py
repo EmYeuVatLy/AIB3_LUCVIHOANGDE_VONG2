@@ -102,7 +102,47 @@ class PDFParser:
             print(f"  [CACHE] OCR forced rebuild: {os.path.basename(self.file_path)}")
 
         if not os.path.exists(self.file_path):
-            raise FileNotFoundError(f"Không tìm thấy file PDF: {self.file_path}")
+            raise FileNotFoundError(f"Không tìm thấy file: {self.file_path}")
+
+        if self.file_path.lower().endswith(".txt"):
+            print(f"  [TXT] Đang đọc file text: {os.path.basename(self.file_path)}")
+            try:
+                import chardet
+                with open(self.file_path, "rb") as bf:
+                    raw_data = bf.read(10000)
+                    encoding = chardet.detect(raw_data).get("encoding", "utf-8") or "utf-8"
+                with open(self.file_path, "r", encoding=encoding, errors="replace") as f:
+                    content = f.read()
+            except Exception:
+                with open(self.file_path, "r", encoding="utf-8", errors="replace") as f:
+                    content = f.read()
+            
+            # Chia nhỏ nội dung thành các trang ảo khoảng 4000 ký tự
+            virtual_pages = []
+            chunk_size = 4000
+            for i in range(0, len(content), chunk_size):
+                chunk = content[i : i + chunk_size]
+                virtual_pages.append(
+                    self._build_page_record(
+                        page_number=(i // chunk_size) + 1,
+                        text=chunk,
+                        extraction_method="native_txt",
+                    )
+                )
+            
+            # Lưu cache cho file txt
+            CacheManager.atomic_write_json(
+                cache_path,
+                {
+                    "schema_version": self.CACHE_SCHEMA,
+                    "input_fingerprint": fingerprint,
+                    "file_path": os.path.abspath(self.file_path),
+                    "mode": "txt",
+                    "pages": virtual_pages,
+                },
+                indent=2,
+            )
+            return virtual_pages
 
         doc = fitz.open(self.file_path)
         total_pages = len(doc)

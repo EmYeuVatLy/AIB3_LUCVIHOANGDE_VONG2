@@ -1,3 +1,6 @@
+"""
+Business-facing ESG improvement advisor based on NULL, weak, and negative answers.
+"""
 from __future__ import annotations
 
 from collections import defaultdict

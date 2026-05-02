@@ -692,7 +692,8 @@ def discover_related_pdf_paths(primary_pdf_path: str, company_name: str = "", ye
     if not os.path.exists(primary_abs):
         return [primary_abs]
 
-    if os.path.isdir(primary_abs):
+    is_dir = os.path.isdir(primary_abs)
+    if is_dir:
         directory = primary_abs
         include_primary = False
     else:
@@ -702,24 +703,18 @@ def discover_related_pdf_paths(primary_pdf_path: str, company_name: str = "", ye
     company = (company_name or "").lower().strip()
     year_text = str(year) if year else ""
 
-    # If the folder name matches the company, include ALL relevant files in it.
-    # This is intentional: many VNSI questions allow historical evidence
-    # (`historical_allowed` / `latest_valid_allowed`), so a company dossier may
-    # legitimately contain documents across multiple years.
     folder_name = os.path.basename(directory).lower()
     folder_is_company = company and company in folder_name
 
     candidates = []
     for entry in sorted(os.listdir(directory)):
-        if not entry.lower().endswith((".pdf", ".png", ".jpg", ".jpeg")):
+        if not entry.lower().endswith((".pdf", ".png", ".jpg", ".jpeg", ".txt")):
             continue
         full_path = os.path.abspath(os.path.join(directory, entry))
         lowered = entry.lower()
 
-        if folder_is_company:
-            # A company dossier is treated as a curated evidence folder, not a
-            # single-year-only drop. Current-year-only questions are filtered
-            # later by retrieval/scoring time policy rather than here.
+        # If it's explicitly a directory path provided by user, or if folder name matches company
+        if is_dir or folder_is_company:
             candidates.append(full_path)
         else:
             same_company = not company or company in lowered

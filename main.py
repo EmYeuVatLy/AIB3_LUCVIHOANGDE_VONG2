@@ -66,10 +66,16 @@ def run_pipeline(
     company_name: str = "ACB",
     industry_sector: str = "Financials",
     year: int = 2024,
+    llm_base_url: str | None = None,
+    fast_indexing: bool = False,
 ):
     start_time = time.time()
     print_header()
 
+    if fast_indexing:
+        os.environ["ESG_EMBEDDING_MODEL_SIZE"] = "small"
+        print("  [SYSTEM] Chế độ Fast Indexing được kích hoạt.")
+    
     run_cache = CacheManager(run_key=f"{company_name}:{year}:pending")
 
     # ─── Phase 0: Parse VNSI Rules ────────────────────────
@@ -288,8 +294,8 @@ def run_pipeline(
         )
 
     # ─── Phase 3: LLM Scoring ─────────────────────────────
-    print("\n[3/6] Khởi tạo Qwen3:30b LLM...")
-    llm = OllamaClient(model="qwen3:30b")
+    print(f"\n[3/6] Khởi tạo LLM ({llm_base_url or 'Local Ollama'})...")
+    llm = OllamaClient(model="qwen3:30b", base_url=llm_base_url)
 
     # 3a. Screening
     screener = ScreeningModule("outputs/vnsi_rules.json", llm_client=llm, corpus=corpus, industry_sector=industry_sector, target_year=year, retrieval_engine=retrieval_engine)

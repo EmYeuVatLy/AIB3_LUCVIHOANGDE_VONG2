@@ -1,0 +1,2335 @@
+VINAMILK
+TRANG TRAI BO SUA NGHÉ AN
+PAS2060:2014
+TUYÉn Bo GIÅI T
+THíCH DU DIEU KIEN
+QUALIFYING EXPLANATORY STATEMENT
+Năm
+trung
+hòa/Achievement period
+2022
+
+Muc luc/Contents
+0
+1. Cam ket trung hòa/ Neutral commitment
+2. Giói thièu/ Introduction
+3. Pham vi và ranh giói/ Scope and Boundary
+4. Dinh luong vet carbon/ Quantification of carbon footprint
+4.1. Phuong pháp/ Methodology
+4.2. Kět quá kiēm kè giai doan co só và giai doan trung hòa/
+Baseline and neutral period inventory results
+4.3. Nguön dür lièu/ Data requirements
+4.4. Giá dinh và uóc tính/ Assumptions and estimations
+4.5. Loai trùr/ Exclusions
+4.6. Dô khòng dám báo do/ Uncertainties
+4.5.QA/QC
+5. Kě hoach quán ly carbon/ Carbon management plan
+一
+6. Báng kiém tra QES/ Checklist QES
+7. Chúng nhan BUREAU VERITAS/ Certificate of BUREAU VERITAS
+一
+
+CAM KÉt TrunG HòA
+NEUTRALITY COMMITMENT
+Cam kët trung hòa Carbon cho Trang trai bò süa Nghe An và phän rùrng
+só hüu boi Còng ty cö phän süa Viet Nam (Vinamilk) - Pham vi 1,2 dat
+duoc qua vièc Vinamilk tuàn thú theo PAS 2060:2014 tai thòi diēm
+31/12/2022 và cam kët duy tri trung hòa carbon dën 31/12/2023 tuong
+úng vói năm tài chính 2022 (tù 01/01/2022 dën 31/12/2022), dugc chúng
+nhan bói Bureau Veritas Certification.
+Carbon neutrality of Nghe An Dairy Farm and a part of Forest owned by
+Vietnam Dairy Products Joint Stock Company (Vinamilk) - Scope 1, 2
+achieved by Vinamilk in accordance with PAS 2060:2014 at 31/12/2022
+with commitment to maintain to 31/12/2023 for the period commencing
+to fiscal year 2022 (from 01/01/2022 to 31/12/2022), Bureau Veritas
+Certification certified.
+DUOC KY BOI/ SIGNED BY:
+TonG GIÁm Doc ConG TY/ CHIEF ExECutIVE OFFICEr
+CONGTY
+CC PHAN
+SUA
+QUANI
+VET NAMI
+MINH
+MAI KIEU LIEN
+Tuyèn bö giái thích dú diěu kièn (QEs) bao gǒm tat cá các thòng tin can thiět vě tính trung hòa carbon cúa döi
+tuong cy thē. Tät cá thòng tin dugc cung cap trong báo cáo này dä dugc bèn thú ba (Bureau Veritas
+Certification) xem xét và dugc cho là chính xác. Něu có bät ky thòng tin nào ánh huóng děn tính hop lè cúa các
+tuyèn bō, thì tài lièu này sě dugc càp nhàt tuong úrng dě phán ánh tinh trang hièn tai cúa Trang trai bò süa Nghè
+An döi vói tính trung làp carbon. Báo cáo này dugc còng khai trèn trang web: https://vinamilk.com.vn.
+Tuyèn bö thäm tra tùr Bureau Veritas Certification có thě dugc tim thäy trong Myc 7.
+Tong giám döc còng ty Vinamilk cǔng Ià Chú tich cong ty TNHH MTV Bò süa Vièt Nam và TNHH Phát triěn Lào
+Jagro Xiēng Khoàng
+The Qualifying Explanatory Statement (QES) contains all the required information on the carbon neutrality of the
+given subject. All information provided within this report has been reviewed by a third party (Bureau Veritas
+Certification) and is believed to be correct. If provided with any information affecting the validity of the
+following statements, this document will be updated accordingly to reflect Nghe An Dairy Farm's current status
+towards carbon neutrality. This report is publicly available on website: https://vinamilk.com.vn.
+Verification statement from Bureau Veritas Certification can be found in Section 7.
+Chief Executive Officer of Vinamilk, The Chairperson of Vietnam Dairy Cow One Member Company Limited and
+Lao Jagro Xieng Khouang Development.
+1
+
+GIÓI THIEU
+INTRODUCTION
+Tài lièu này tao thành Tuyèn bö giái thích dú diěu kiēn (QEs) dě chúng minh
+ràng Trang trai bò süa Nghè An và phän rùrng só hüru bói Còng ty cö phän süa
+Viet Nam (Vinamilk) dä dat dugc múrc trung hòa carbon cho pham vi 1 & 2,
+trong khoáng thòi gian co só tùr ngày 01/01/2022 và kēt thúc vào ngày
+31/12/2022, theo PAS 2060:2014. Töc dô tǎng truóng cho nǎm tài chính 2022
+cúa Vièt Nam là 8,02%.
+This document forms the Qualifying Explanatory Statement (QES) to
+demonstrate that Nghe An Dairy Farm and a part of forest owned by Vietnam
+Dairy Products Joint Stock Company (Vinamilk) has achieved carbon neutrality
+for scope 1 & 2, for the period starting 01/01/2022 and ending 31/12/2022, in
+accordance with PAS 2060:2014. The growth rate for Viet Nam's fiscal year
+2022 was 8.02%.
+2
+
+DiÉU NAY DAT DUQC THONG QUA
+THIS HAS BEEN ACHIEVED THROUGH
+Giám CO,e lièn tuc thòng qua các kě hoach hành dòng dugc áp dung cho quá trinh chǎn
+nuòi: kiēm soát lugng phát thái tùr bò bē nhò thay döi chě do ǎn cúa bò bē, súr dung khí
+biogas sinh hoc dě thay thē cho hoat dòng súr dung nǎng luong tai trang trai, tǎng
+cuòng hièu suãt phán úng tao khí biogas sinh hoc
+Continually reduce CO₂e through action plans applied to the livestock production
+process: reduction of GHG emissions from livestocks by adjusting the diet, use of
+biogas as alternative manner for energy-related activities, enhancing efficiency of
+biogas production process.
+Giám COze liēn tyc thòng qua viec tièu thy nǎng luong mǎt tròi thay thě cho dièn luói
+quöc gia, vói luong súr dung nǎng luong tái tao chiēm 12% trèn töng luong dien tièu thy
+trong nǎm tài chính 2022
+Continually reduce CO₂e through the use of solar energy as an alternative to the
+national grid, with renewable energy usage accounting for 12% of total power
+consumption in fiscal year 2022.
+Tǎng cuòng súr dung thiēt bi tièu thy nǎng luong tái tao và sinh hoc
+Enhanching use of renewable energy and bioenergy consuming equipment.
+Duy trì, báo ton cày xanh và rùng tùr doi tuong duoc trung hòa
+Maintain and conserve trees and forest from objects to be neutralized.
+3
+
+Báo cáo này bao gòm các thòng tin chúrng minh cho tuyèn bö dat dugc tính trung
+hòa carbon cúa döi tuong dǎ cam kět cho giai doan áp dung thú nhàt (nǎm tài
+chính 2022) và cam ket vě tính trung hòa carbon dēn nǎm tài chính 2023 (1 nǎm,
+bát däu tùr nǎm co só 2022) theo tièu chuän PAS 2060:2014.
+This report includes the information which substantiates committed object
+declaration of achievement of carbon neutrality for first application period (fiscal
+year 2022) and commitment on carbon neutrality up to fiscal year 2023 (1 years,
+started from the baseline year 2022) in compliance with PAS 2060:2014 standard.
+Trang trai Bò sua Nghè An cǔng dǎ thiēt làp Kě hoach quán ly carbon dě giám
+luong phát thái khí nhà kính lièn quan děn chuyēn döi và súr dung nǎng luong tái
+tao de thě hièn cam ket trung hòa carbon theo PAS 2060:2014.
+Nghe An Dairy Farm has also set up a Carbon Management Plan to reduce the
+GHG emissions associated to conversion and use of renewable energy to
+demonstrate commitment to being carbon neutral in accordance with PAS
+2060:2014
+VINAMNLKNEDZERO
+4
+
+Bàng 2.1. Tóm tát thong tin Tuyèn bö giài thích dù
+diëu kien QES theo PAS 2060:2014
+Table 2.1. PAS 2060:2014 Qualifying Explanatory
+Statement QES Information Summary.
+Noi dung
+Mo tà chi tiet
+Contents
+Description
+Thyc thě pháp ly thuc hiēn còng bö
+Cong ty cö phän Süa Viet Nam
+PAS 2060:2014
+Vietnam Dairy Products Joint Stock
+Entity making PAS 2060 declaration
+Company
+(Nhǔng) cá nhàn chiu trách nhiem
+dánh giá và cung cap dür lièu can thiēt
+Nguyěn Hoài Anh _ Quyěn Giám döc
+dē chúrng minh còng bō
+Trang trai – Trang trai Bò süra Nghè An
+Individual(s) responsible for the
+Nguyen Hoai Anh_Farm Manager
+evaluation and provision of data
+Representative - Nghe An Dairy Farm
+necessary for the substantiation of
+the declaration
+Pham vi 1 và Pham vi 2 phát sinh tùr
+các hoat dòng liēn quan děn chǎn nuòi
+bò süa, súr dung nǎng luong dièn, cày
+tröng trong trang trai bò süa Nghè An
+Döi tuong cúa PAS 2060:2014
+và phän rùrng só hüru bói Vinamilk
+Subject of PAS 2060
+Scope 1 and Scope 2 arise from
+activities related to Dairy Farming, the
+use of electrical energy, trees grown
+in the Nghe An Dairy Farm and forest
+part owned by Vinamilk.
+5
+
+Noi dung
+Mö tà chi tiēt
+Contents
+Description
+Dǎc tính (myc dich hoǎc muc tieu,
+Cung cãp luong süa tuoi nguyèn lieu cho
+hoǎc chúc nǎng) vōn có cúa doi
+các Nhà máy thuòc Còng ty cö phan Sua
+tuong
+Viet Nam và hoat dong hap thy carbon
+Characteristics (purposes,
+cúa cây xanh
+objectives, or functionality) inherent
+Supplying raw milk for Vinamilk and
+to that subject
+carbon sequestration activity of trees.
+Vàn hành hoat dòng Chǎn nuòi bò, Thú y
+Các hoat dōng cän thiēt dě doi
+— Phöi giōng và Vát süa và duy trì cày
+tuong thyc hièn myc dích hoǎc myc
+xanh và rùrng hièn hüru
+tièu hoǎc chúc nǎng cúa nó
+Operation in dairy farming, veterinary
+Activities required for subject to
+care, insemination, milking,
+fulfil its purposes, objectives, or
+maintainance of existing trees and a part
+functions
+of forest.
+Lua chon phuong thúrc kiēm soát vàn
+hành vì có the tham gia kiém soát tryc
+tiēp các hoat dòng trong ranh giói và
+Co só lua chon döi tuong
+tính sǎn có cúa các dür lièu tính toán
+Rationale for selection of the subject
+Selecting the approach of operational
+control option due to ability to directly
+manage activities within the boundaries
+and the availability of data.
+6
+
+Nöi dung
+Mö tà chi tiēt
+Contents
+Description
+•IPCC (2019) & IPCC (2006)
+• Giá tri tiěm nǎng nóng lèn toàn cǎu dugc sú dung theo
+GHG Protocol (AR6)/ Global warming potential value used
+according to GHG Protocol (AR6).
+• Quy dinh cúa pháp luat Viet Nam/ Vietnamese Regulations:
+• Nghi dinh 06/2022/ND-CP: Quy dinh giám nhe phát thái
+khí nhà kính và báo vè täng δ-dôn/ Decree 06/2022/ND-
+CP on mitigation of greenhouse gas emissions and ozone
+layer protection.
+•Quyět dinh 2626/QD-BTNMT:còng bö danh myc he sö
+phát thái phyc vy kiēm kè khí nhà kính do Bo truóng Bo Tài
+nguyèn và Möi truòng ban hành/ Decision No. 2626/QD-
+Phuong pháp
+BTNMT publish the list of emission factors for the
+tính toán vět
+greenhouse gas inventory promulgated by the Minister of
+carbon
+Natural Resources and Environment.
+Methodology
+• Thòng tu 17/2022/TT-BTNMT quy dinh ky thuat do dac,
+for Carbon
+báo cáo, thâm dinh giám nhe phát thái khí nhà kính và kiēm
+Footprint
+kè khí nhà kính lǐnh vyc quán ly chat thái do Bò truòng Bā
+Calculation
+Tài nguyèn và Môi truòng ban hành/ Circular No.
+17/2022/TT-BTNMT on Methods for Measurement,
+Reporting， Appraisal of Reduction Of Green House Gas
+(GHG) Emissions And GHG Inventory Development In
+Waste Management.
+• Thòng tu 01/2022/TT-BTNMT huóng dan Luat Báo vè môi
+truòng vě úng phó vói biēn döi khí hàu do Bo truóng Bô Tài
+nguyèn và Möi truòng ban hành/ Circular No. 01/2022/TT-
+BTNMT on Guidelines for Implementation of Law on
+Environmental Protection regarding Response to Climate
+Change
+7
+
+Noi dung
+Mo tà chi tiēt
+Contents
+Description
+Loai hình dánh giá su phù hgp dugc
+I3P-3 - Chúrng nhàn cúa bèn thúr ba dòc
+thuc hièn
+làp - phuong pháp hgp nhät
+Type of conformity assessment
+Independent third- party certification -
+undertaken
+unified.
+Năm co só cho PAS 2060:2014
+01/01/2022-31/12/2022
+Baseline year for PAS 2060:2014
+Jan 1st, 2022 – Dec 31st, 2022
+Giai doan dat duoc tính trung hòa
+01/01/2022-31/12/2022
+Achievement period
+Jan 1st, 2022 – Dec 31st, 2022
+Thòi gian cam kět
+01/01/2023-31/12/2023
+Commitment period
+Jan 1st, 2023 – Dec 31st, 2023
+8
+
+PHAM VI VA RANH GIÓI
+3
+SCOPE AND BOUNDARY
+Dat dugc tính trung hoà carbon áp dung cho tat cá luong phát thái khí nhà kính phát sinh tù
+hoat dòng thuòc Pham vi 1 & 2 cúa Trang trai bò süa Nghè An và phän rùrng só hǔu bòi
+Vinamilk. Các nguön phát thái này duoc kiēm soát theo phuong pháp tiěp càn KiEM soÁT
+VAN HÅNH. Nguön phát thái có thě tác dòng thòng qua các hoat dòng lièn quan děn chǎn
+nuòi và sú dung dièn.
+Achieving carbon neutrality applies to all greenhouse gas emissions arising from Scope 1 & 2
+activities of Nghe An Dairy Farm anda part of forest owned by Vinamilk. These emission
+sources are controlled under the OPERATIONAL CONTROL approach. Emission sources can
+be impacted through activities related to livestock and electricity use.
+Trang trai bò süa Nghè An báo cáo và giái thích cho nhǔng hoat dòng này liēn quan dēn myc
+tièu và hoat dòng kinh doanh cúa doanh nghièp, döng thòi cung cap nhǔng thòng tin dáng
+tin cày. Phát thái tùr Pham vi 3 khòng bao göm trong cam kět trung hòa carbon cúa trang trai
+vì khòng có dú dü lièu dáng tin cày cho các hoat dòng phát sinh tùr pham vi này, hon nüa, tat
+cá các phát thái chú yěu děn tùr các hoat dòng cúa Pham vi 1 và 2.
+Nghe An Dairy Farm reports and accounts for these activities that are relevant to the
+business activities and goals, with the aim of providing reliable information. Scope 3
+emissions are not included in this site-specific commitment to carbon neutrality due to a lack
+of sufficient reliable data for Scope 3 activities, and the fact of all emissions came primarily
+from Scope 1 and 2 activities.
+9
+
+Hinh 1 - Pigure 1
+Pham vi và ranh gidi cúa aói tuong dugc trung hòa cacbon
+Scope and boundaries of cacbon neutral subject
+Scope 1- Phát thai Carbon - Carbon E
+Emissions
+Khí GAS
+Chǎn thá bò bē
+GAS
+Grazing cow
+Lèn men duòng ruòt bò bè
+Enteric fermentation
+Nhièn lièu hóa thach
+Phàn húy chòn xác bò bē
+Fossil fuel
+Cow carcasses
+L
+xú ly phàn bò bē
+Moi chat lanh
+Nuóc thái
+Refrigerant
+Wastewater
+Cow manure treatment
+Scope 1 - Be háp thy Carbon - Carbon Sink
+Rùng
+Cay xanh trong trang trai
+Forest
+Trees grown on the Farm
+Scope 2 - Phát thai Carbon - Carbon emission
+Dièn
+Electricity
+10
+
+DINHLUONG VET CARBON
+QUANTIFICATION OF CARBON
+FOOTPRINT
+4.1. Phuong pháp/ Methodology
+Töng phát thái và hap thy có liēn quan cúa döi tuong trung hòa dugc dinh luong
+theo/ Total GHG emissions associated with objects to be neutralized have been
+quantified according to:
+- IPCC (2019) & IPCC (2006)/ IPCC (2019) and IPCC (2006).
+- Giá tri tiěm nǎng nóng lèn toàn cäu dugc súr dung theo GHG Protol (AR6)/ Global
+Warming Potential Values based on GHG Protol (AR6).
+- Quy dinh cúa pháp luat Viet Nam/ Vietnamese Regulations:
+- Nghi dinh 06/2022/ND-CP: Quy dinh giám nhe phát thái khí nhà kính và báo vè
+tang δ-dôn/ Decree 06/2022/ND-CP on mitigation of greenhouse gas emissions and
+ozone layer protection.
+Quyět dinh 2626/QD-BTNMT: còng bö danh myc he sö phát thái phuc vy kiēm
+kè khí nhà kính do Bô truóng Bô Tài nguyèn và Moi truòng ban hành/ Decision
+No. 2626/QD-BTNMT publish the list of emission factors for the greenhouse gas
+inventory promulgated by the Minister of Natural Resources and Environment.
+Thòng tu 17/2022/TT-BTNMT quy dinh ky thuat do dac, báo cáo, thäm dinh
+giám nhe phát thái khí nhà kính và kiēm kè khí nhà kính lǐnh vuc quán ly chat thái
+do Bô truóng Bô Tài nguyèn và Möi truòng ban hành/ Circular No. 17/2022/TT-
+BTNMT on Methods for Measurement, Reporting， Appraisal of Reduction Of
+Green House Gas (GHG) Emissions And GHG Inventory Development In Waste
+Management.
+Thòng tu 01/2022/TT-BTNMT huóng dãn Luàt Báo vè möi truòng vě úrng phó vói
+biēn döi khí hàu do Bo truóng Bô Tài nguyèn và Mòi truòng ban hành/ Circular
+No. O1/2022/TT-BTNMT on Guidelines for Implementation
+of Law on
+Environmental Protection regarding Response to Climate Change.
+- i-Tree còng cu tính hap thy Carbon cày xanh hgp tác cúa Só làm nghièp
+USDA,Cöng ty chuyèn gia Davey Tree, Tö chúc Arbor Day, Hiep hoi các nhà tröng
+trot thành phö, Hiep hoi tröng trot quöc tě, Casey Trees và Dai hoc Khoa hoc Moi
+truòng và Lâm nghiep SUNY/i-Tree-Tree Carbon Absorption Calculator has been a
+cooperative, public/private partnership between the USDA Forest Service, Davey
+Tree Expert Company, The Arbor Day Foundation, Society of Municipal Arborists,
+International Society of Arboriculture, Casey Trees, and SUNY College of
+Environmental Science and Forestry.
+- Phuong pháp tính toán luong Carbon hap thy theo cay trong do thi và ngoai ò cúa
+Bô Nǎng luong Hoa Ky, Co quan Quán Iy Thòng tin Nǎng lugng/ Method for
+Calculating Carbon Sequestration by Trees in Urban and Suburban Setting of U.S.
+Department of Energy, Energy Information Administration
+11
+
+DINH LUONG VET CARBON
+QUANTIFICATION OF CARBON
+FOOTPRINT
+4.1. Phuong pháp/ Methodology
+Phuong pháp tiēp càn vàn hành dugc súr dung dě tính toán. Phuong pháp luàn da dugc
+chon là phuong pháp thyc hành tot nhat dugc càp nhat tai thòi diēm tính toán dám báo
+dò chính xác theo yèu cǎu quöc gia Viet Nam. Phuong pháp này dugc thùa nhàn phù
+hop hoàn toàn bói PAS 2060:2014 něu áp dung chúng mòt cách chính xác.
+The operational control approach was used to define the scope and calculate the
+emissions. This methodology was chosen as it represents best practice at inventory
+periods and updated with high accuracy as Vietnamese legal requirements. PAS
+2060:2014 endorses it as being fully compliant with standard's requirements, when
+applied correctly.
+Nǎm loai khí nhà kính dugc dě càp trong Nghi dinh thu Kyoto cúa Còng uóc khung cúa
+Lièn hgp quōc vě biēn döi khí hàu da dugc báo cáo bao gǒm/ Five types of
+greenhouse gases included in the Kyoto Protocol to the United Nations Framework
+Convention on Climate Change have been reported:
+• Carbon dioxide (CO2)
+Methane (CH)
+Nitrous oxide (N2O)
+C
+Hydrofluorocarbons (HFCs)
+Hydrofluorochlorocarbons (HCFCs)
+Các loai khí khác trong Nghi dinh thu Kyoto cúa Còng uóc khung cúa Lièn hop quöc vě
+biēn doi khí hàu khòng phát sinh tai doi tuong dugc trung hòa.
+The other gases in the Kyoto Protocol to the United Nations Framework Convention on
+Climate Change do not arise at the neutralized subjects.
+Töng luong phát thái dugc do bàng tan carbon dioxide tuong duong và chúng hoàn
+toàn tuân thú yèu cäu cúa PAS 2060:2014.
+The total gross emissions are measured in tonnes (metric tons) of carbon dioxide
+equivalent (ton CO2 equivalent), and they are in full compliance with the requirement
+of PAS 2060:2014.
+Kiem ke thyc hien trèn 10o% lugng phát thái KNK cúa các hoat dōng kinh doanh và vàn
+hành mà Trang trai bò süa Nghe An có quyěn kiēm soát tryc tiēp và toàn quyěn dua ra
+và thyc hiēn các chính sách vàn hành cúa minh.
+The inventory accounts for 100% of GHG emissions of business activities and
+operations in which Nghe An Dairy Farm has direct operational control and the full
+authority to introduce and implement its operating policies.
+Tat cá các phát thái khí nhà kính ó pham vi 1 và 2 lièn quan dēn ranh giói hè thōng děu
+dugc bao gǒm và dinh lugng, cǔng nhu tat cá các phát thái khí nhà kính ó pham vi 3 có
+lièn quan và sǎn có, theo Nghi dinh thu KNK, Kiém kè doanh nghiep và Tieu chuân báo
+cáo.
+All scope 1 and 2 greenhouse gas emissions relevant to the system boundary are
+included and quantified, as well as all relevant and available scope 3 greenhouse gas
+emissions, in accordance with the GHG Protocol, Corporate Accounting and Reporting
+Standard.
+12
+
+4.2. Kět quá kiēm kè giai doan co so và giai doan trung hòa
+Results of the baseline and neutral period inventory.
+Bang 4.1: Dinh Iuong vet Carbon
+Table 4.1: Quantification of Carbon Footprint
+Pham vi
+Chi tiët Phát thai/ Loai bò
+Tän CO2e/
+Ty lē
+Scope
+Detail Emission/ Removal
+Tons CO2e
+Proportion
+Töng phát thai/ Sub-Total Emission
+12,533
+100%
+Pham vi 1/ Scope 1
+AFOLU
+6,988
+55.76%
+Pham vi 1/ Scope 1
+Rác thái/ Waste
+3,700
+29.52%
+Nǎng luong phi sinh hoc (Däu
+Pham vi 1/ Scope 1
+251
+2.01%
+DO, Xäng)/Non Bio-Energy
+Pham vi 1/ Scope 1
+Moi chat lanh/ Refrigerant
+74
+0.59%
+Pham vi 2/ Scope 2
+Dien luói/ Electricity Grid
+1,520
+12.13%
+Dièn mǎt tròi (chiem 12% tong
+tièu thy dièn)/
+Pham vi 2/ Scope 2
+0.00%
+Solar electricity (accounting
+for 12% of total electricity use)
+Töng loai bò/ Sub-Total Removal
+(12,560)
+Bē hap thy carbon: Cay tröng
+tai trang trai và phän rùrng só
+hüu bói Vinamilk/
+(12,560)
+Pham vi 1/ Scope 1
+Carbon sink: Trees grown in
+the farm and a part of forest
+owned by Vinamilk
+Töng phát thai ròng/ Total Net Emission
+(27)
+*AFOLU: Nòng nghièp, Lam nghiep và Su dung dät khác
+AgriCulture, Forestry and'Other Land Use
+13
+
+4.3. Nguön dür lieu/ Data requirements
+Báng 4.2/ Table 4.2
+Data requirements/ Yèu cäu du lieu
+a. Phiēu xuat kho däu DO, xǎng, LPG, mòi chat lanh
+b. Báo cáo chǎn nuöi- Daily Report
+c. Báo cáo dan - Herd Report
+d. Danh sách còng nhàn vièn tháng
+e. Töng sö bò bè chēt trong tháng
+f. Phieu kiem nghièm
+- % Nito trong nuóc phàn truóc khi vào hö Biogas
+- % Nito trong nuóc phàn sau hö Biogas
+Tinh huöng 1:
+- % Nito trong phan rán
+quy trinh do còng ty
+- CoD trong nuóc phàn truóc khi vào hö Biogas
+quàn ly
+Pham vi 1/
+- COD trong nuóc phân sau hö Biogas
+Situation 1:
+Scope 1
+- COD trong nuóc phàn sau xúr ly
+process run by the
+- Ty trong nuóc phân truóc khi vào hö Biogas
+company.
+g. Phän měm tính toán khâu phän AMTs
+h. Trong luong bò bē theo nhóm tuong duong cúa
+Growth Chart for Dairy Heifers tùr nguön College of
+Agriculture Sciences – The Pennsylvania State
+University
+i. Quy trinh chǎm sóc bò bē - W-BS-CN-02
+j. Tièu chuãn giöng bò bè cao sán thuong mai loai 2
+- S-BS-PG-02
+k. Quy trinh xúr ly xác bò bè – W-BS-TY-03
+Tinh huong 2:
+Quy trinh khòng do
+còng ty diěu hành và
+khòng có quyěn truy
+càp vào thòng tin cy thě
+Pham vi 2/
+• Hóa don tiěn dièn luói quōc gia cúa trang trai
+cúa còng ty
+Scope 2
+• Hóa don tiěn dièn nǎng luong mǎt tròi
+Situation 2:
+Process not run by the
+company and without
+access to company-
+specific information
+14
+
+4.4. Già dinh và uróc tính
+Assumptions and estimations
+Các giá dinh phù hgp nhàt dugc dua ra trong quá trinh dánh giá dugc mò tá duói dày/
+The most relevant assumptions made during the assessment are described below:
+• Luong hap thy carbon cúa các cày trong trong trang trai dugc tính tren các cay trung
+và dai mōc (cao trèn 10 mét), các cày tiēu mòc dugc giá dinh là hãp thy carbon
+khòng dáng ke/ The amount of carbon sequestration of the farm's trees is calculated
+on the medium and big trees (over 10 meters tall), the small trees are assumed to be
+insignificant carbon sequestration.
+• Phän rùrng só hüu bói Vinamilk dugc kiēm kè, phàn bö lai hàng nǎm cho trang trai
+(năm 2022 theo quyët dinh sö 004514/TT/04/CNTY/23). Phän rùrng này bào tön
+nguyèn trang nèn dugc giá dinh sö luong cày chět di tuong duong sö luong cày moc
+mói/A part of forest owned by Vinamilk is inventoried and reallocated annually to the
+farm (in 2022 according to decision No. 004514/TT/04/CNTY/23). This forest is
+conserved is similar as its original status, so it is assumed that the number of trees
+died is equivalent to the number of new trees.
+Dü liéu phàn bö trong luong bò, bè dugc súr dung dě tính toán hè sō phát thái CH4,
+NgO tùr phát thái phàn chuöng dugc giá dinh là tuong duong tài lieu Growth Chart for
+Dáiry Heifers tùr nguön College of Agriculture Sciences – The Pennsylvania State
+University/ The weight distribution profile of cows and calves used to calculate CH4
+and NyO emission factors from manure management activities is assumed to be
+equivalent to the Dairy Cow Growth Chart document from the College of Agricultural
+Sciences.— Pennsylvania State University.
+Thòi gian chǎn thá bò, bè dùng dě tính toán phát thái Nz O tùr hoat dòng chǎn thá bò
+bè dugc súr dung theo thòi gian ngǎn nhat trong quy trinh chǎm sóc bò bè nài bò (W-
+BS-CN-02)/ The time of exercise cow and calves on yard used to calculate N2O
+emissions from these activities are applied over the shortest time in the internal cow
+and calf herd care procedure (W-BS-CN-02).
+Khöi luong bè so sinh dùng dě tính toán phát thái N2 O dugc súr dung theo khöi luong
+nhó nhàt trong tièu chuàn giōng bò/bè cao sán loai 2 theo tièu chuàn ky thuàt nòi
+bô/Weight of newborn calves used to calculate N2 O emissions is used according to
+the minimum weight in the high yielding cow/calf breed standard class 2.
+• Luong CH₄ chi tao trong bě ty hoai tùr nhà vè sinh cúa cán bò còng nhàn vièn, luong
+cháy tràn Vào hè thöng xúr ly nuóc thái là khòng dáng ke/ The amount of CH₄ is only
+created in the septic tank from the toilets of employees, the amount that overflows
+into the wastewater treatment system is negligible.
+• Lugng chät rán dě phàn húy tùr xác bò bè dugc bát däu tùr nǎm 2017, các luong chat
+rán truóc thòi diem' này dugc xem nhu dä phan húy het/ Decomposable solids from
+cows and calves started in 2017, solids before this time are considered to have
+decomposed.
+AWMS (animal waste management system) súr dung dě tính toán CH4 trong quán Iy
+phân chuöng dugc giá dinh ià 100%/ AWMS (animal waste management system)
+used to calculate CH4in manure management is assumed to be 100%
+• Tat cá lugng CH4 dugc tao ra tùr hè thöng biogas dugc döt cháy hoàn toàn/ All CH4
+generated from biogas system is completely burned.
+15
+
+4.5.Loai trùr/ Exclusions
+Luong khí thái carbon pham vi 1,2 dugc dinh luong bao göm 98,91% tong lugng phát thái
+tùr döi tuong (Báng 4.3)
+Quantified Scope 1,2 carbon emissions include 98.91% of total emissions from the object
+(Table 4.3).
+Báng 4.3/Table 4.3:
+Pham vi
+Tän CO2e
+Ty lē
+Scope
+Ton CO₂e
+Proportion
+Töng phát thai/ Total emission
+12,671
+100.00%
+Pham vi 1/ Scope 1
+11,013
+86.92%
+Pham vi 2 - Scope 2
+1,520
+11.99%
+Pham vi 3 - Scope 3
+138
+1.09%
+16
+
+4.6. Dô khòng dám báo do/ Uncertainties
+Dô khòng dam báo do dugc tính toán theo phuong pháp truyěn lǒi bàc 1 (lPCC 2019, vol 1,
+chuong 3)
+Uncertainty is calculated based on first order error propagation method (IPCC 2019, Vol 1,
+chapter 3)
+Dô khòng dám báo do dēn tùr vièc sú dung và chon lya hē sō phát thái và dǔ liéu hoat
+dòng. Dô khòng dám báo do dugc tiēp càn uu tièn theo vièc tính toán do khòng dám báo
+do bàng cách tính toán dya trèn sú dung dür lièu thyc nghièm và kēt hgp vói su goi y tùr
+chuyèn gia theo co só dü lièu cúa IPCC (2019)
+The measurement uncertainty comes from the use and selection of emission factors and
+activities data. Uncertainty is the preferred approach to uncertainty calculation by using
+sample data and combined with expert elicitation according to IPCC database (2019)
+Nói chung， vièc súr dung dü lièu thúr cãp trong suōt quá trinh dánh giá là nguòn göc chính
+cúa do khòng dám báo. Các hành dòng dugc thyc hièn dē giám thiēu nhüng diěu khòng
+chác chán này dugc mò tá duói day/ Generally, the use of secondary data throughout the
+assessment represents the major source of uncertainties on results. Actions taken to
+minimize these uncertainties are described below:
+• Hè sö phát thái phy (thú cãp): do khòng dám báo liēn quan děn viēc sú dung các hè sō
+phát thái phy (thú cãp) do khòng có các dǔ liēu hē sö phát thái dugc còng bö bói Vièt
+Nam. Trong truòng hgp khòng có các dü lièu quöc gia, dü liēu dugc tiēp càn theo
+nguyèn tác các hē sö phát thái dugc phát triēn bói IPCC (2o19) và chon lua dua trèn
+còng nghè tuong duong, dói khí hàu tuong duong hoǎc vùng/khu vyc làn càn Vièt Nam
+dē giám su sai lèch, uu tièn tiēp càn tính toán theo bàc 2 dě giám thiéu dò khòng dám
+báo do/ Secondary emission factor: uncertainty associated with the use of secondary
+emission factors due to the absence of published emission factor data by Viet Nam
+legal. In the absence of national data, emission factors was taken from developed data
+by IPCC (2019) and select based on equivalent technology, equivalent climate zone or
+region/ areas neighboring Vietnam to reduce bias, prefer a tier 2 method for
+calculating GHG.
+Dü lièu thúr cap dugc súr dung cho tính toán phát thái khí nhà kính tùr phàn húy ky khí do
+[
+chòn xác bò bē, chǎn thá bò bè trèn sân choi (calves grazing on the playground), phát
+thái tùr quán ly phàn chuòng, nhung các giá dinh hop ly và thàn trong da dugc thyc
+hièn/ Secondary data are used for the calculation of greenhouse gas emissions from
+anaerobic digestion from burying cow carcasses, calves grazing on the playground,
+manure management, but reasonable and conservative assumptions were taken.
+17
+
+Báng 4.4. Dô khòng dám báo do cúa dü lièu
+Table 4.4. Uncertainty of data
+Dóng góp vào do
+Dóng góp vào xu
+Phát thai, loai
+Phát thài,
+khòng
+dàm bào
+huóng dō khòng
+bò trong nǎm
+loai bò trong
+tōng theo linh vyc
+dàm bào tōng
+Linh vyc
+co sà
+näm 2022
+trong nǎm 2022
+theo|
+lǐnh vuc
+Emissions,
+Emissions,
+Contribution to
+Contribution to
+Sector
+removals in
+removals in
+total uncertainty
+total trend
+baseline year
+year 2022
+by sector in year
+uncertainty by
+2022
+sector
+Gg CO2
+Gg CO2 turong
+tuong
+duong/
+duong/
+%
+%
+Gg co,
+Gg CO2
+equivalént
+2
+equivalent
+Năng luong/ Energy
+1.77
+1.77
+0.19
+0.00
+IPPU
+0.00
+0.00
+0.00
+0.00
+AFOLU
+21.46
+21.46
+94.39
+0.00
+Rác thái/ Waste
+1.79
+1.79
+5.4
+0.00
+Khác/ Other
+0.07
+0.07
+0.01
+0.00
+Tong/ Total
+25.59
+25.59
+100.00
+0.00
+Dò khòng dám báo
+trong tōng kiēm kè/
+9.9
+0.00
+Uncertainty in total
+inventor
+Tong còng khòng bao
+gòm
+danh
+myc
+dä
+25.59
+25.59
+9.9
+0.00
+chon/ Total excluding
+selected categories
+*IPPU: Các quá trinh còng nghiep và su dung san phâm/Industrial Processes and Product Use
+*AFOLU: Nong nghiep, Lâm nghiep và Su dung dat khác/Agriculture, Forestry and Other Land Use
+18
+
+4.7. Dám bào chat luong- Kiém soát chat luong
+QA/QC
+Quy trinh QA/QC dáp úng Huóng dǎn cúa IPCC vě kiēm kè khí nhà kính quöc gia
+2019, dugc thyrc hien theo các buóc sau/ QA/QC procedure adapt 2019 IPCC
+Guidelines for National Greenhouse Gas Inventories that is carried out according
+to the following steps:
+1.Thiet làp Nhóm kiem kè chat luong/ Establish Inventory Quality Team.
+2.Phát trien kě hoach quán Iy Chat luong/ Develop Quality Management Plan.
+3.Thuc hien Kiem tra Chat luong Töng quát/ Perform Generic Quality Checks
+4.Thyc hièn kiem tra chat luong nguön cy the/ Perform Source-Specific Quality Checks
+5.Xem xét báo cáo và uóc tính kiem kè cuöi cùng/ Review Final Inventory Estimates and
+Reports.
+6.The chě hoá quy trinh phán höi chính thúrc/ Institutionalize Formal Feedback Loops.
+7.Báo cáo, Tai lieu, và Luu trür/ Report, Document, and Archive.
+Kë hoach QC/ QC plan:
+• Thu thàp dü liéu, däu vào, xúr ly hoat dòng/ Data gathering, input, and handling
+activities.
+•
+Ho so dür lieu/ Data documentation.
+• Tinh toán phát thái và kiem tra ket quá/ Calculating emissions and checking calculations.
+19
+
+KE HOACH QUAN LY CARBON
+5
+CARBON MANAGEMENT PLAN
+Kě hoach quan ly giam thiéu carbon trong các giai doan O1 nǎm tiēp theo (tù o1/o1/2o23 dēn
+31/12/2o23) sě tiēp tuc duoc thuc hièn vói muc tièu cát giam phát thài tù các hoat dōng (Bang 5.1)
+The carbon reduction management plan considers a 1-year period (from 01/01/2023 to 31/12/2023)
+with the aim (Table 5.1)
+Bang 5.1/ Table 5.1:
+Khoàng thài gian
+Kë hoach
+Uóc luong giam vēt carbon
+STT
+Timeline
+Action plan
+Estimated reduction of total carbon
+No.
+footprint
+Duy trì sö luong cày xanh hiēn tai và
+trong thèm cay xanh tai trang trai
+(du kiēn 150 cây)/
+Hap thy khoáng 4,5 tan CO2e/nǎm/
+12/2022-12/2023
+Maintain the current number of
+Absorb about 4.5 tons of CO2e/year
+trees and plant new trees
+(estimated 150 trees)
+Thay thě súr dung dièn luói bàng
+Giám phát thái khoáng 338,45 tan
+dièn nǎng luong mǎt tròi/
+CO2e/nǎm/
+2
+12/2022-12/2027
+Replacing grid electricity by solar
+Reduce emissions by about 338.45
+power
+tons of CO2e/year
+Thay thě các xe co giói dùng dau
+Giám phát thái khoáng 50,52 tan
+bàng xe diēn/
+CO2e/nǎm/
+3
+12/2022-12/2027
+Replacing oil-fueled motor vehicles
+Reduce emissions by about 50.52 tons
+by electric vehicles
+of CO2e/year
+Thay thě các dung cy máy móc phy
+trg dùng xǎng/dau bàng thiet bi
+Giám phát thái khoáng O,35 tan
+dùng dièn/
+CQe/nǎm/
+4
+12/2022 -12/2023
+Replacing gasoline/oil-powered
+Reduce emissions by about O.35 tons
+auxiliary machinery tools by electric
+of CO2e/year
+ones
+Giám phát thái khoáng O,6 tan
+Thay thě běp gas bàng běp dien/
+CO2 e/nǎm/
+5
+12/2022-12/2023
+Replacing gas stoves by electric
+Reduce emissions by about O.6 tons of
+stoves
+CO2e/year
+Súr dung khí methane thuc hièn sãy
+Sú dung khí methane thyc hièn say có/
+6
+12/2022-12/2024
+có/
+Using methane gas to dry grass
+Using methane gas to dry grass
+Súr dung nhien lieu khí Hydro phát
+Giám phát thái tính tùr sau nǎm 2025
+dièn súr dung vào thòi diém ban
+khoáng 1.353,25 tan CO₂e/nǎm/
+7
+12/2022-12/2025
+dèm/
+Emission reduction after 2025 is about
+Using hydrogen gas fuel to generate
+1,353.25 tons of CO2e/year
+electricity used at nighttime
+20
+
+BAng KIem TrA QES
+6
+CHECKLIST QES
+Bang 6. 1 - Danh sách kiém tra QES hǒ tro còng bö cam kět vè tính trung tính cúa carbon
+Table 6. 1 — Checklist for QES supporting declaration of commitment to carbon neutrality
+Dánh däu
+X něu dáp
+Tièu chí QES
+Mô tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+8) Chon 1 trong 3 phuong án theo PAS 2060 mà tö chúc dyr dinh làm theo/ Select
+Báng 2.1/
+X
+which of the 3 options within PAS 2060 you intend to follow
+Table 2.1
+9) Xác dinh ngày mà thyc thě pháp ly có kě hoach dat dugc trang thái "trung tính
+Muc 1 và
+carbon" cúa aöi tuong và chi ro khoáng thòi gian mà don vi dy dinh duy trì trang
+Bàng 2.1/
+thái dó/
+X
+Section 1
+Identify the date by which the entity plans to achieve the status of "carbon
+and Table
+neutrality" of the subject and specify the period for which the entity intends to
+2.1
+maintain that status.
+10) Lya chon mōt tiēu chuân và phuong pháp luàn thích hop dě xác dinh döi tuong,
+Muc 1và
+luong phát thái KNK lièn quan dēn döi tuong dó và tính toán vět carbon cho doi
+Bang 2.1/
+tuong da xác dinh/
+X
+Section 1
+Select an appropriate standard and methodology for defining the subject, the GHG
+and Table
+emissions associated with that subject and the calculation of the carbon footprint
+2.1
+for the defined subject.
+11) Cung cap ly luàn cho vièc lya chon phuong pháp luàn da chon. (Phuong pháp
+Báng 2.1
+luàn dugc súr dung phái giám thiēu dō khòng dám báo và mang lai kět quá chính
+và muc
+xác, nhat quán và có thě lǎp lai)/
+4.1/Table
+X
+Provide justification for the selection of the methodology chosen. (The
+2.1 and
+methodology employed shall minimize uncertainly and yield accurate, consistent
+Section
+and reproducible results
+4.1
+12) xác nhàn ràng phuong pháp dä chon da dugc áp dung phù hgp vói các quy
+Muc 4.1/
+dinh cúa nó và các nguyèn tac dugc nèu trong PAS 2060/
+X
+Section
+Confirm that the selected methodology was applied in accordance with its
+4.1
+provisions and the principles set out in PAS 2060
+13) Mo tá các loai phát thai KNK thyc tě, phan loai phát thai (Pham vi 1, 2 hoǎc 3)
+Muc 4.1
+và quy mò vět carbon cúa doi tugng khòng bao gǒm bat ky khoán mua bù dáp
+và 4.2/
+carbon nào/
+X
+Section
+Describe the actual types of GHG emissions, classification of emissions (Scope 1, 2
+4.1 and
+or 3) and size of carbon footprint of the subject exclusive of any purchases of
+4.2
+carbon offsets:
+Muc 4.1/
+a) Tat cá các khí nhà kính phái dugc bao gǒm và dugc chuyěn dōi thành tCOze/ All
+X
+Section
+greenhouse gases shall be included and converted into tCOze
+4.1
+21
+
+BAnG KIEM TrA QES
+6
+CHECKLIST QES
+Bang 6. 1 - Danh sách kiém tra QES hǒ tro còng bö cam kět vè tính trung tính cua carbon
+Table 6. 1— Checklist for QES supporting declaration of commitment to carbon neutrality
+Dánh däu
+X nēu dáp
+Tièu chí QES
+Mö tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+b) 100% phát thái Pham vi 1 (trrc tiëp) lièn quan dēn döi tugng phái dugc dua vào
+khi xác dinh lugng khí thái carbon/
+Muc 4.2/
+X
+100% Scope 1 (direct) emissions relevant to the subject shall be included when
+Section 4.2
+determining the carbon footprint
+c) 10o% phát thái Pham vi 2 (gián tiëp) lièn quan děn doi tuong phái dugc dua vào
+khi xác dinh luong khí thái carbon/
+Muc 4.2
+X
+100% Scope 2 (indirect) emissions relevant to the subject shall be included when
+/ Section 4.2
+determining the carbon footprint
+d) Khi các giá dinh vě lugng phát thái KNK dugc súr dung trong vièc dinh luong
+luong vět carbon cúa döi tuong (dǎc bièt là khi lièn quan dēn phát thái pham vi 3)
+thì các uóc tính này phái dugc xác dinh theo cách ngǎn chǎn viēc dánh giá thãp/
+Muc 4.4/
+X
+Where estimates of GHG emissions are used in the quantification of the subject
+Section 4.4
+carbon footprint (particularly when associated with scope 3 emissions) these shall
+be determined in a manner that precludes underestimation
+e) Nguòn phát thái ó pham vi 1, 2 hoǎc 3 dugc uóc tính là lón hon 1% tong lugng khí
+thái carbon sě dugc xem xét trùr khi có thē cung cap bàng chúng dě chúrng minh
+ràng vièc dinh lugng nhu vày sě khòng khá thi vě mǎt ky thuàt hoǎc hièu quá vě chi
+phí. (Các nguön phát thái uóc tính chiěm duói 1% có thě duoc loai trùr chi dya trèn
+Muc 3 và 4.5/
+co só dó.)/
+X
+Section 3 and
+Scope 1, 2 or 3 emission sources estimated to be more that 1% of the total carbon
+4.5
+footprint shall be taken into consideration unless evidence can be provided to
+demonstrate that such quantification would not be technically feasible or cost
+effective. (Emission sources estimated to constitute less than 1% may be excluded
+on that basis alone).
+f) Luong khí thái carbon dugc dinh lugng phái bao göm ít nhat 95% luong khí thái
+tùr doi tuong/
+Muc 4.5/
+X
+The quantified carbon footprint shall cover at least 95% of the emissions from the
+Section 4.5
+subject
+g) Truòng hop mòt nguön dóng góp hon 50% tōng lugng phát thái thì nguong 95%
+áp dung cho các nguòn phát thái còn lai/
+Muc 4.5/
+X
+Where a single source contributes more than 50% of the total emissions, the 95%
+Section 4.5
+threshold applies to the remaining sources of emissions.
+h) Mgi loai trùr và ly do loai trùr dó sě dugc ghi lai/ Any exclusion and the reason for
+Muc 4.5/
+X
+that exclusion shall be documented.
+Section 4.5
+22
+
+BAng Kiem TrA QES
+6
+CHECKLIST QES
+Bang 6. 1 - Danh sách kiém tra QES hǒ tro còng bö cam kět vè tính trung tính cua carbon
+Table 6. 1 — Checklist for QES supporting declaration of commitment to carbon neutrality
+Dánh däu
+X nēu dáp
+Tièu chí QES
+Mö tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+14) Truòng hop döi tugng là to chúc / còng ty hoǎc mòt phan cúa tō chúrc / còng
+ty, hay dam báo ràng/ Where the subject is an organization/company or part
+thereof, ensure that:
+a) Ranh giói dugc mò tá trung thyc và còng bang vě luong phát thái KNK cúa tō
+chúrc (nghīa là sě bao gǒm tat cá các phát thái KNK lièn quan dēn các hoat dòng
+cot lōi bao gǒm các còng ty con do to chúc só hüu và dieu hành). Diěu quan trong
+là phái dám báo các tuyèn bö là dáng tin cày - vì vày něu mòt thyc thě pháp ly
+chon mòt doi tuong rat hep và loai trùr các hoat dong súr dung nhieu carbon cúa
+minh hoǎc něu tō chúrc dó thuè ngoài các hoat dòng sú dung carbon, thì diěu này
+Muc 3/
+cän duoc làp thành vǎn ban/
+X
+Section 3
+Boundaries are a true and fair representation of the organization's GHG emissions
+(i.e. shall include all GHG emissions relating to core operations including
+subsidiaries owned and operated by the organization). It will be important to
+ensure claims are credible — so if an entity chooses a very narrow subject and
+excludes its carbon intensive activities or if it outsources its carbon intensive
+activities, then this needs to be documented.
+b) Phuong pháp tiēp càn vōn cō phän hoǎc kiēm soát vàn hành da dugc súr dung
+dě xác dinh loai phát thái KNK nào dugc bao göm. Theo cách tiēp càn vōn cö phan,
+thuc thē pháp ly chiēm mòt luong phát thái KNK tùr aöi tuong theo vōn co phän cúa
+doi tugng dó. Theo cách tiēp càn kiēm soát, don vi phái giái quyět 100% lugng phát
+thái KNK mà don vi có quyěn kiēm soát tài chính và / hoǎc kiém soát vàn hành.
+Muc 4.1/
+X
+Either the equity share or control approach has been used to define which GHG
+Section 4.1
+emissions are included. Under the equity share approach, the entity accounts for
+GHG emissions from the subject according to its share of equity in the subject.
+Under the control approach, the entity shall account for 100% of the GHG
+emissions over which it has financial and/or operational control.
+15) xác dinh xem döi tuong có phái là mòt phän cúa tō chúc hay mòt nhà xuóng
+hoǎc dia diēm cy thē hay khòng và coi dó là mòt hoat dòng ròi rac vói muc dích,
+Báng 2.1/
+muc tièu và chúrc nǎng rièng/
+X
+Table 2.1
+Identify if the subject is part of an organization or a specific site or location, and
+treat as a discrete operation with its own purpose, objectives and functionality
+16) Trong truòng hop döi tuong là sán pham hoǎc dich vy, bao göm tat cá các phát
+thái trong Pham vi 3 (vi vòng dòi cúa san phâm / dich vy cǎn dugc xem xét)./
+NA
+Where the subject is a product or service, include all Scope 3 emissions (as the
+lifecycle of the product/service needs to be taken into consideration).
+23
+
+BANG KIEM TRA QES
+6
+CHECKLIST QES
+Bang 6.1 - Danh sách kiém tra QES hǒ tro còng bö cam kēt vě tính trung tính cúa carbon
+Table 6. 1— Checklist for QES supporting declaration of commitment to carbon neutrality
+Dánh däu
+X něu dáp
+Tièu chí QES
+Mö tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+17) Mô tá các phuong pháp thyc tě dugc súr dung dě dinh luong phát thái KNK (ví
+dy: súr dung dür liēu so cãp hoǎc thúr câp), (các) don vi do luòng duoc áp dung, thòi
+gian áp dung và quy mò cúa luong khí thái carbon. (Lugng khí thái carbon phái
+dugc dya trèn dü lieu hoat dòng so cap càng nhiěu càng tot.) Khi vièc dinh luong
+dya trèn các tính toán (ví dy dü lièu hoat dòng KNK nhàn vói hè sō phát thái khí
+nhà kính hoǎc sú dung các mò hình càn bàng khoi luong / vòng dòi) thì luong phát
+thái KNK sě dugc tính toán súr dung hè sö phát thái tùr các ân phâm quöc gia (Chính
+phú). Khi các yěu tō này khòng có sǎn, các huóng dǎn quōc tē hoǎc ngành sě duoc
+Muc 4.1 và
+súr dung. Trong mqi truòng hop, các nguòn cúa dür liēu dó phái dugc xác dinh/
+báng 2.1/
+X
+Describe the actual methods used to quantify GHG emissions (e.g. use of primary
+Section 4.1
+or secondary data), the measurement unit(s) applied, the period of application and
+and Table 2.1
+the size of the resulting carbon footprint. (The carbon footprint shall be based as
+far as possible on primary activity data.) Where quantification is based on
+calculations (e.g. GHG activity data multiplied by greenhouse gas emission factors
+or the use of mass balance/lifecycle models) then GHG emissions shall be
+calculated using emission factors from national (Government) publications. Where
+such factors are not available, international or industry guidelines shall be used. In
+all cases the sources of such data shall be identified.
+18) Cung cap chi tiet và giái thích vě vièc loai trùr bat ky phát thái nào thuòc pham
+Muc 4.5/
+vi 3/ Provide details of, and explanation for, the exclusion of any Scope 3
+X
+Section 4.5
+emissions.
+19) Ghi lai tat cá các giá dinh và tính toán dugc thyc hien trong vièc dinh luong
+phát thái KNK và trong viec lua chon hoǎc phát triēn các hè sö phát thái khí nhà
+kính. (Các hè sō phát thái dugc súr dung phái phù hop vói hoat dōng liēn quan và
+hièn tai tai thòi diēm dinh luong.)/
+Muc 4.4/
+X
+Document all assumptions and calculations made in quantifying GHG emissions
+Section 4.4
+and in the selection or development of greenhouse gas emission factors. (Emission
+factors used shall be appropriate to the activity concerned and current at the time
+of quantification.)
+24
+
+BANG KIEM TRA QES
+6
+CHECKLIST QES
+Bang 6. 1 - Danh sách kiém tra QES hǒ tro còng bö cam kět vè tính trung tính cua carbon
+Table 6. 1— Checklist for QES supporting declaration of commitment to carbon neutrality
+Dánh däu
+X nēu dáp
+Tièu chí QES
+Mö tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+20) Vǎn bán hoá các dánh giá cúa ban vě sy khòng chác chán và sy thay dōi liēn
+quan děn vièc xác dinh ranh giói và dinh luong phát thái KNK bao göm cá dung sai
+duong dugc thòng qua lièn quan děn uóc tính phát thái. (Tuyèn bö có thē ó dang
+mò tá dinh tính liēn quan dēn dò khòng dám báo cúa kēt quá hoǎc dánh giá dinh
+luong vě dò khòng dám báo něu có (ví dy lugng khí thái carbon dya trèn 95% khá
+nǎng phát thái khí nhà kính; các nguòn chính có thě thay doi theo thòi gian; vět
+cacbon dugc uóc tính tot nhat dua tren chi phí dánh giá hgp ly))/
+Muc 4.6/
+X
+Document your assessments of uncertainty and variability associated with defining
+Section 4.6
+boundaries and quantifying GHG emissions including the positive tolerances
+adopted in association with emission estimates. (The statement could take the
+form of a qualitative description regarding the uncertainty of the results, or a
+quantitative assessment of uncertainty if available (e.g.carbon footprint based on
+95% of likely greenhouse gas emissions; primary sources are subject to variation
+over time; footprint is best estimate based on reasonable costs of evaluation)).
+21) Vǎn bán hoá kě hoach quan ly khí thai carbon:/ Document carbon footprint
+X
+management plan:
+a) Tuyèn bö cam kět vě tính trung tính cúa carbon doi vói döi tuong dǎ xác dinh/
+Muc 1/ Section
+X
+Make a statement of commitment to carbon neutrality for the defined subject.
+1
+Báng 2.1 và
+b) Xác dinh khoáng thòi gian dē dat dugc tính trung tính carbon cho döi tuong da
+Muc 1/ Table
+X
+xác dinh/ Set timescales for achieving carbon neutrality for the defined subject.
+2.1 and
+Section 1
+c) Chi dinh các myc tiēu giám thiěu KNK cho doi tuong da xác dinh phù hop vói
+khoáng thòi gian dē dat dugc tính trung hòa carbon bao gòm ngày co só, ngày
+chúrng nhàn dau tiēn và thòi gian áp dung däu tièn/
+Muc 5/
+X
+Specify targets for GHG reduction for the defined subject appropriate to the
+Section 5
+timescale for achieving carbon neutrality including the baseline date, the first
+qualification date and the first application period.
+d) Vǎn bán hoá các phuong pháp dä lèn kě hoach dě dat dugc và duy trì vièc giám
+phát thái KNK bao gǒm các già dinh dugc dua ra và bat ky ly giái nào vě các ky
+thuàt và bièn pháp dugc áp dung dě giám phát thái KNK/
+Muc 5/
+X
+Document the planned means of achieving and maintaining GHG emissions
+Section 5
+reductions including assumptions made and any justification of the techniques and
+measures to be employed to reduce GHG emissions.
+25
+
+BANG KIEm TRA QES
+6
+CHECKLIST QES
+Bang 6. 1 - Danh sách kiém tra QES hǒ tro còng bö cam kět vè tính trung tính cua carbon
+Table 6. 1 — Checklist for QES supporting declaration of commitment to carbon neutrality
+Dánh däu
+X nēu dáp
+Tièu chí QES
+Mö tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+e) Chí ro chiēn lugc bù dǎp bao göm uóc tính lugng phát thái KNK can bù dǎp, bán
+chàt cúa các khoán bù dǎp, sō lugng và loai tín chi có thē dùng/
+NA
+Specify the offset strategy including an estimate of the quantity of GHG emissions
+to be offset, the nature of the offsets and the likely number and type of credits.
+22) Thuc hien mòt quy trinh dě thyc hièn dánh giá dinh ky viec thyc hiēn so vói kě
+hoach và thuc hiēn hành dōng khác phuc dē dám báo dat dugc các muc tièu. Tan
+suat dánh giá kět quá hoat dòng so vói Kě hoach phái tuong xúng vói khoáng thòi
+gian dě dat dugc tính trung hoà cúa carbon/
+Muc 4.7/
+X
+Implement a process for undertaking periodic assessments of performance against
+Section 4.7
+the Plan and for implementing corrective action to ensure targets are achieved.
+The frequency of assessing performance against the Plan should be
+commensurate with the timescale for achieving carbon neutrality.
+23) Trong truòng hop döi tuong là mot sy kien khòng lǎp lai nhu dám cuói hoǎc
+buöi hòa nhac, hay xác dinh các cách giám phát thái KNK děn múc toi da tuong
+xúrng vói vièc giúp su kièn dat dugc các muc tiēu da dinh truóc khi sy kien diěn ra
+và bao gǒm dánh giá sau sy kièn dě xác dinh xem hoǎc khòng dat dugc múrc giám
+thieu phát thái nhu mong dgi/
+NA
+Where the subject is a non-recurring event such as weddings or concert, identify
+ways of reducing GHG emissions to the maximum extent commensurate with
+enabling the event to meet its intended objectives before the event takes place
+and include post event review to determine whether or not the expected
+minimisation in emissions has been achieved.
+24) Döi vói bat ky múrc giám phát thái KNK nào tùr döi tuong xác dinh dugc thyc
+hièn trong khoáng thòi gian ngay truóc ngày co só và khòng dugc tính den trong
+bat ky dinh luong phát thái KNK nào (múrc giám truóc dày), hǎy xác nhàn:/
+For any reductions in the GHG emissions from the defined subject delivered in the
+period immediately prior to the baseline date and not otherwise taken into account
+in any GHG emissions quantification (historic reductions), confirm:
+- Khoáng thòi gian mà các khoán cǎt giám này sě dugc tính vào;/ the period from
+which these reductions are to be included;
+NA
+- Dǔr lièu can thiēt có sān và các phép tính da dugc thyc hièn bàng cách súr dung
+cùng mòt phuong pháp;/ that the required data is available and that calculations
+have been undertaken using the same methodology throughout;
+Dánh giá vě múrc giám trong lich súr da dugc thyc hièn theo PAS này, báo cáo sō
+luong giám trong lich súr dugc yèu cau song song vói báo cáo vě tōng múc giám/
+that assessment of historic reduction has been made in accordance with this PAS,
+reporting the quantity of historic reductions claimed in parallel with the report of
+total reduction.
+26
+
+BANG KIEM TRA QES
+6
+CHECKLIST QES
+Bang 6. 1 - Danh sách kiém tra QES hǒ tro còng bö cam kēt vè tính trung tính cúa carbon
+Table 6. 1 — Checklist for QES supporting declaration of commitment to carbon neutrality
+Dánh däu
+X něu dáp
+Tièu chí QES
+Mö tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+25) Ghi sö län gia han còng bö cam kět mà khòng cän còng bö dat duoc/ Record
+the number of times that the declaration of commitment has been renewed
+NA
+without declaration of achievement.
+26) Chi dinh loai dánh giá su phù hgp:/ Specify the type of conformity assessment:
+a.Chúng nhan cúa ben thú ba doc lâp;/ independent third-party certification;
+Bang 2.1/
+X
+b.Tham dinh cúa bèn khác;/ other party validation;
+Table 2.1
+c.Tu tham dinh/ self-validation;
+27) Bao gǒm các tuyèn bö thäm dinh trong dó các còng bö cam kět vě tính trung
+tính cúa carbon dugc xác nhàn bói nguài chúng nhàn bèn thú ba hoǎc các tō chúrc
+Muc 7/
+cúa bèn thú hai/
+X
+Section 7
+Include statements of validation where declarations of commitment to carbon
+neutrality are validated by a third-party certifier or second party organizations.
+28) Ghi ngày QES và có chü ky cúa dai dièn cap cao cúa don vi lièn quan (ví dy:
+Giám döc dieu hành cúa mòt còng ty; Giám döc Bò phàn, noi doi tugng là mòt bò
+phàn cúa mòt thuc thě pháp ly lón hon; Chú tich hoi dòng thi tran hoǎc chú hò gia
+dinh cho mòt nhóm gia dinh)/
+Muc 1/ Section
+X
+Date the QES and have it signed by the senior representative of the entity
+1
+concerned (e.g. CEO of a corporation; Divisional Director, where the subject is a
+division of a larger entity; the Chairman of a town council or the head of the
+household for a family group).
+29) Còng khai QES và cung cap tham chieu děn nhüng thòng tin có thē truy càp
+bat ky lúc nào mà dya trèn dó chúrng minh phy thuòc (ví du: thòng qua các trang
+Muc 1/ Section
+web)/
+X
+1
+Make QES publicly available and provide a reference to any freely accessible
+information upon which substantiation depends (e.g. via websites).
+30) Càp nhàt QEs dě phán ánh nhǔng thay aoi và hành dòng có thē ánh huòng děn
+Muc 1 và 5/
+hièu lyc cúa tuyèn bö cam kět vě tính trung tính carbon/
+X
+Section 1 and
+Update the QES to reflect changes and actions that could affect the validity of the
+5
+declaration of commitment to carbon neutrality.
+27
+
+BANG KIEM TRA QES
+6
+CHECKLIST QES
+Bang 6.2 - Danh sách kiém tra cho QES hô tro còng bö dat duoc tính trung tính cúa carbon
+Table 6.2 — Checklist for QES supporting declaration of achievement of carbon neutrality
+Dánh däu
+X nēu dáp
+Tièu chí QES
+Mö tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+1) Xác dinh vièc súr dung tièu chuãn và phuong pháp luàn dě xác dinh múrc giám
+Muc 4.1/
+phát thái KNK/ Define standard and methodology use to determine its GHG
+X
+Section 4.1
+emissions reduction.
+2) Xác nhàn ràng phuong pháp luàn dugc sú dung da dugc áp dung phù hgp vói
+các quy dinh cúa nó và dáp úng các nguyèn tac nèu trong PAS 2060/ Confirm that
+Muc 4.1/
+X
+the methodology used was applied in accordance with its provisions and the
+Section 4.1
+principles set out in PAS 2060 were met.
+3) Cung cap ly do cho vièc lya chon các phuong pháp luàn dugc lua chon dě dinh
+luong múrc giám luong khí thái carbon, bao gǒm tat cá các giá dinh và tính toán
+dugc thuc hiēn và bat ky dánh giá nào vě do khòng chǎc chǎn. (Phuong pháp luàn
+dugc súr dung dě dinh lugng lugng giám thiěu phái giōng nhu phuong pháp dugc súr
+dung dě dinh lugng luong khí thái carbon ban dau. Něu có sǎn phuong pháp luàn
+thay thē dē giám do khòng dám báo và mang lai kět quá chính xác, nhat quán và
+có thě tái làp dugc thì phuong pháp này có thě dugc súr dung vói diěu kièn là
+carbon ban dau lugng vět dugc dinh luong lai theo cùng mot phuong pháp, cho
+muc dích so sánh. Vět carbon duoc tính toán lai sě sú dung các hè sō phát thái có
+sān gǎn dày nhat, dám báo ràng cho myc dích so sánh vói tính toán ban däu, bat
+Muc 4.1/
+ky thay döi nào trong các hè sō dugc súr dung děu dugc tính děn)/
+X
+Section 4.1
+Provide justification for the selection of the methodologies chosen to quantify
+reductions in the carbon footprint, including all assumptions and calculations made
+and any assessments of uncertainty. (The methodology employed to quantify
+reductions shall be the same as that used to quantify the original carbon footprint.
+Should an alternative methodology be available that would reduce uncertainty and
+yield more accurate, consistent and reproducible results, then this may be used
+provided the original carbon footprint is re-quantified to the same methodology,
+for comparison purposes. Recalculated carbon footprints shall use the most
+recently available emission factors, ensuring that for purposes of comparison with
+the original calculation, any change in the factors used is taken into account).
+4) Mò tá các phuong tièn mà vièc cǎt giám dä dat dugc và mgi giá dinh hoǎc bièn
+Muc 5/
+minh có thē áp dung dugc/ Describe the means by which reductions have been
+X
+Section 5
+achieved and any applicable assumptions or justifications.
+28
+
+BANG KIEM TRA QES
+6
+CHECKLIST QES
+Bang 6.2 - Danh sách kiém tra cho QES hô tro còng bö dat duoc tính trung tính cúa carbon
+Table 6.2 — Checklist for QES supporting declaration of achievement of carbon neutrality
+Dánh däu
+X nēu dáp
+Tièu chí QES
+Mö tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+5) Dám báo ràng khòng có thay dōi nào doi vói dinh nghǐa cúa döi tuong. (Thuc thě
+Dày là còng bō
+pháp ly phái dám báo ràng dinh nghǐa cúa doi tuong khòng thay dōi qua tùng giai
+làn dau nèn
+doan cúa phuong pháp luàn. Trong truòng hgp có sy thay döi quan trong döi vói
+chua có sy
+döi tuong dó, trinh ty sě dugc bát däu lai trèn co só mòt döi tugng mói dugc xác
+thay dōi vě dōi
+dinh.)/
+X
+tuong/ No
+Ensure that there has been no change to the definition of the subject. (The entity
+change in the
+shall ensure that the definition of the subject remains unchanged through each and
+subject due to
+every stage of the methodology. In the event that material change to the subject
+the first
+occurs, the sequence shall be re-started on the basis of a newly defined subject.)
+publication.
+6) Mo tá múrc giám thyc tě dat dugc vě cuòng do và tuyèt doi và theo ty lè phan
+trǎm cúa lugng khí thái carbon ban dau. (Các múc giám phát thái KNK dugc dinh
+luong phái dugc biēu thi bàng các thuàt ngǔ tuyèt döi và phái lièn quan děn giai
+doan áp dung dǎ chon và / hoǎc phái dugc biéu thi bàng các thuàt ngǔ cuòng do
+phát thái (ví dy trèn mǒi don vi sán phâm hoǎc dich vy cy thē))/
+Muc 4.2/
+X
+Describe the actual reductions achieved in absolute and intensity terms and as a
+Section 4.2
+percentage of the original carbon footprint. (Quantified GHG emissions reductions
+shall be expressed in absolute terms and shall relate to the application period
+selected and/or shall be expressed in emission intensity terms (e.g. per specified
+unit of product or instance of service)).
+Báng 2.1 và
+Muc 1/ Table
+7) Nèu ngày co so/ dú dieu kien/ State the baseline/qualification date
+X
+2.1 and
+Section 1
+8) Ghi lai phän trǎm ty le tǎng truóng kinh tě trong khoáng thòi gian áp dung nhat
+dinh dugc súr dung làm nguǒng dě ghi nhàn các múc giám cuòng dō/
+Muc 2/
+X
+Record the percentage economic growth rate for the given application period used
+Section 2
+as a threshold for recognising reductions in intensity terms.
+9) Dua ra lòi giái thích cho các truòng hgp mà vièc giám thieu KNK vě cuòng dò di
+kèm vói vièc tǎng vě tōng pháp thái cho doi tugng xác dinh/
+NA
+Provide an explanation for circumstances where a GHG reduction in intensity
+terms is accompanied by an increase in absolute terms for the determined subject.
+10) Lua chon và vǎn bán hoá tièu chuàn và phuong pháp luàn dugc súr dung dě dat
+dugc bù dap carbon/ Select and document the standard and methodology used to
+NA
+achieve carbon offset.
+29
+
+BAnG KIEm TrA QES
+6
+CHECKLIST QES
+Bang 6.2 - Danh sách kiém tra cho QES hô tro còng bö dat duoc tính trung tính cúa carbon
+Table 6.2 — Checklist for QES supporting declaration of achievement of carbon neutrality
+Dánh däu
+X něu dáp
+Tièu chí QES
+Mö tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+11) Xác nhan rang:/ Confirm that:
+a) Các khoán bù dáp dugc tao ra hoǎc các khoán tín chí bö sung dugc chuyěn giao thě
+hien múrc giám phát thái KNK thyc sy, bö sung ó nhüng noi khác/ Offsets generated or
+NA
+allowance credits surrendered represent genuine, additional GHG emission reductions
+elsewhere.
+b) Các dy án liēn quan dēn vièc cung càp bù dǎp dáp úng các tiēu chí vě tính bô sung, tính
+lâu dài, tính rò rí và tính kép. (Xem Nghi dinh thu vě khí nhà kính cúa WRl aě biét các dinh
+nghǐa vě tính bō sung, tính làu dài, rò rí và tính kép)/
+NA
+Projects involved in delivering offsets meet the criteria of additionality, permanence,
+leakage, and double counting. (See the WRI Greenhouse Gas Protocol for definitions of
+additionality, permanence, leakage, and double counting).
+c) Bù dap carbon dugc tham tra boi mòt bēn tham tra dòc làp thúr ba/ Carbon offsets are
+NA
+verified by an independent third-party verifier.
+d) Các tín chí tùr các dy án bù dǎp các bon chi duoc cap sau khi quá trinh giám phát thái
+da dugc thuc hien/ Credits from Carbon offset projects are only issued after the emission
+NA
+reduction has taken place.
+e) Các tín chí tùr các dy án bù dáp các-bon dugc'nghi huu' trong vòng 12 tháng kě tùr ngày
+còng bö dat dugc/ Credits from Carbon offset projects are retired within 12 months from
+NA
+the date of the declaration of achievement.
+f) Dy phòng cho tùy chon lièn quan děn sy kien trong 36 tháng sě dugc thèm vào day/
+NA
+Provision for event related option of 36 months to be added here.
+g) Các khoán tín chí tùr các dy án bù dáp các-bon dugc hǒ trg bói tài lièu dy án còng khai
+trèn mòt co quan dǎng ky sě cung cap thòng tin vě dy án bù dǎp, phuong pháp dinh luong
+và các thú tuc thâm dinh và thâm tra/
+NA
+Credits from Carbon offset projects are supported by publically available project
+documentation on a registry which shall provide information about the offset project,
+quantification methodology and validation and verification procedures.
+h) Các tín chi tùr các dy án bù dáp các-bon dugc hō trg bói tài lièu dy án còng khai trèn
+mòt co quan dǎng ky sě cung cãp thòng tin vě dy án bù dǎp, phuong pháp dinh luong và
+NA
+các thú tuc tham dinh và tham tra/ Credits from Carbon offset projects are stored and
+retired in an independent and credible registry.
+30
+
+BAnG KIEm TrA QES
+6
+CHECKLIST QES
+Bang 6.2 - Danh sách kiém tra cho QES hô tro còng bö dat duoc tính trung tính cúa carbon
+Table 6.2 — Checklist for QES supporting declaration of achievement of carbon neutrality
+Dánh däu
+X nēu dáp
+Tièu chí QES
+Mô tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+12. Vǎn bán hoá sö lugng tín chí phát thái KNK và loai và bán chat cúa các khoán tín chi
+thyc tě mua bao gǒm sō luong và loai tín chí dugc sú dung và khoáng thòi gian mà các
+khoán tín chi dugc tao ra bao gǒm:/
+Document the quantity of GHG emissions credits and the type and nature of credits
+actually purchased including the number and type of credits used and the time period
+over which credits were generated including:
+a) Nhüng phát thái KNK nào da dugc bù dap/ Which GHG emissions have been offset.
+NA
+b) Lugng carbon bù dap thyc tě/ The actual amount of carbon offset.
+NA
+c) Loai tín chi và du án lièn quan/ The type of credits and projects involved.
+NA
+d) sö lugng và loai tín chí các-bon dugc súr dung và khoáng thòi gian mà các tín chí da
+dugc tao ra/ The number and type of carbon credits used and the time period over which
+NA
+the credits have been generated.
+e) Döi vói các sy kièn, can tính dēn co só ly luàn dě hǒ trg vièc 'nghí huu'cúa các khoán
+tín chi vugt quá 12 tháng, bao gǒm các chi tiēt vě nhüng khoán phát thái còn ton dòng
+dugc tính dēn
+NA
+For events, a rationale to support any retirement of credits in excess of 12 months
+including details of any legacy emission savings, taken into account.
+f) Thòng tin liēn quan děn viēc 'nghi huu'/ húy bó tín chí carbon dě ngǎn chǎn vièc nguòi
+khác súr dung chúng, bao gǒm lièn kět děn co quan dǎng ky hoǎc hǒ so còng khai tuong
+duong, noi tín chi da hēt hieu luc/
+NA
+Information regarding the retirement/cancellation of carbon credits to prevent their use
+by others including a link to the registry or equivalent publicly available record, where the
+credit has been retired.
+13) Chi dinh loai dánh giá sy phù hop:/ Specify the type of conformity assessment:
+a. chúrng nhan cúa bèn thúr ba dòc làp;/ independent third party certification;
+NA
+b. tham dinh cúa bèn khác;/ other party validation;
+c. ty tham dinh/ self-validation.
+31
+
+BÅNG KIEM TRA QES
+6
+CHECKLIST QES
+Bang 6.2 - Danh sách kiém tra cho QES hǒ tro còng bö dat duoc tính trung tính cua carbon
+Table 6.2 — Checklist for QES supporting declaration of achievement of carbon neutrality
+Dánh däu
+X nēu dáp
+Tièu chí QES
+Mö tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+14) Bao gǒm các tuyèn bö thäm dinh trong dó các còng bö dat dugc tính trung tính cúa
+Muc 7/
+carbon dugc xác nhàn bói chúng nhàn bèn thúr ba hoǎc các to chúc cúa bèn thú hai/
+X
+Section
+Include statements of validation where declarations of achievement of carbon neutrality
+7
+are validated by a third-party certifier or second party organizations.
+15) Ghi ngày QES và có chǔ ky cúa dai dièn cap cao cúa don vi liēn quan (ví dy: Giám doc
+dieu hành cúa mòt còng ty; Giám döc Bo phàn, noi döi tugng là mòt bò phàn cúa mòt thuc
+thē pháp ly lón hon; Chú tich hòi dòng thi tran hoǎc chú hò gia dinh cho mòt nhóm gia
+Muc 1/
+dinh)/
+X
+Section
+Date the QES and have it signed by the senior representative of the entity concerned (e.g.
+1
+CEO of a corporation; Divisional Director, where the subject is a division of a larger entity;
+the Chairman of a town council or the head of the household for a family group).
+16) Còng khai QES và cung cap tham chieu děn nhüng thòng tin có thě truy càp bat ky lúc
+Muc 1/
+nào mà dya trèn dó chúrng minh phy thuòc (ví dy: thòng qua các trang web)/
+X
+Section
+Make QES publicly available and provide a reference to any freely accessible information
+1
+upon which substantiation depends (e.g. via websites).
+32
+
+BAnG KIeM TrA QES
+6
+CHECKLIST QES
+Bàng 6.3 - Tính ma và rö ràng cúa QEs
+Table 6.3—QES openness and clarity
+Dánh däu
+X něu dáp
+Tièu chí QES
+Mö tà
+úng
+QES Criteria
+Describe
+Type X if
+satisfied
+Các thyc the pháp ly phái ty dam báo rang QEs/ Entities should satisfy themselves that
+the QES
+Muc 5/
+1) Khòng dě xuat vièc giam thieu khòng tön tai, mòt cách truc tiēp hoǎc ngu y/ Does not
+X
+Section
+suggest a reduction which does not exist, either directly or by implication
+5
+2) Khòng dugc trinh bày theo cách ngu y ràng tuyèn bö dugc chúng thuc hoǎc chúng
+Muc 7/
+nhàn bói mòt to chúrc bèn thúr ba dòc làp khi nó khòng duoc chúng thyc/ Is not presented
+X
+Section
+in a manner which implies that the declaration is endorsed or certified by an independent
+7
+third party organization when it is not.
+Muc 4/
+3) Khòng có khá nǎng bi hiēu sai hoǎc gày hiēu làm do bó sót các dǔ kièn lièn quan/ ls not
+X
+Section
+likely to be misinterpreted or be misleading as a result of the omission of relevant facts.
+4
+Muc 1/
+4) Có sãn cho bät ky bèn quan tam/ Is readily available to any interested party
+X
+Section
+1
+33
+
+CHUNG NHAN CUA BUREAU VERITAS
+7
+CERTIFICATE OF BUREAU VERITAS
+BUREAU
+VERITAS
+INDEPENDENT REASONABLE ASSURANCE STATEMENT
+BUREAU
+VERITAS
+To: The Stakeholders of VIETNAM DAIRY PRODUCTS JOINT STOCK COMPANY
+(VINAMILK).
+Introduction and objectives of work
+BUREAU VERITAS CERTIFICATION VIETNAM (Bureau Veritas) has been engaged by
+VIETNAM DAIRY PRODUCTS JOINT STOCK COMPANY (VINAMILK) to provide reasonable
+assurance over Declaration of Carbon Neutrality in the Quality Explanatory Statement (the QES)
+for Nghe An Dairy Farm and a part of Forest owned by VINAMILK. The QES is made by
+VINAMILK for the achievement period from 01st Jan 2022 to 31st Dec 2022.
+Scope of work
+The scope of our work was reasonable to assurance over the following information included
+within the QES for the period 1st Jan 2022 to 31st Dec 2022 (the'Selected Information') as listed
+below:
+Achievement period
+1st Jan 2022 to 31st Dec 2022
+U
+n
+ea
+Scope 1- Direct GHG emissions
+11,013.34tCO2eq.
+Scope 2 - Indirect GHG emissions
+1,519.68 tc02eq.
+NOO
+1828
+MSDN
+Scope 1- Direct GHG removals
+(12,559.84)tCO2eq.
+V:0303
+Total quantified
+-26.81tcO2eq.
+Assessment Standard
+neaun
+We performed our work in accordance with the PAS 2060:2014 and ISO 14064-3:2019.
+Conclusion
+On the basis of our methodology and the activities described above, nothing has come to our
+attention to indicate that the Selected Information has not been prepared, in all material respects,
+in accordance with the Reporting Criteria.
+B
+Responsibilities
+This preparation and presentation of the Selected Information in the QES are the sole
+responsibility of the management of VINAMILK.
+Bureau Veritas was not involved in the drafting of the QES. Our responsibiities were to:
+Obtain reasonable assurance about whether the Selected Information has been
+0
+appropriately and accurately prepared;
+Form an independent conclusion based on the assurance procedures performed and
+-
+evidence obtained; and
+Provide our conclusions to the management of VINAMILK.
+Page 1 of 2
+BUREAU
+VFRITAS
+34
+
+CHUnG NHAn CUA BUREAU VeRITAS
+7
+CERTIFICATE OF BUREAU VERITAS
+Limitations and exclusions
+Our assurance process was subject to the following limitations as we have not been engaged to:
+BURＥＡU
+VERITAS
+•
+Determine which, if any, recommendations should be implemented,
+Provide assurance on information outside the defined reporting boundary and period,
+•
+Other information included in the QES other than scope defined above,
+•
+Verify positional statements (expressions of opinion, belief, aim or future intention by
+VINAMILK) and statement of future commitment.
+This reasonable assurance engagement relies on a risk based selected sample of data and the
+associated limitations that this entails. This independent statement should not be relied upon to
+detect all errors, omissions or misstatements that may exist.
+Summary of work performed
+As part of its independent verification, Bureau Veritas undertook the following activities:
+1. Assessed the appropriateness of the Reporting Criteria for the Selected Information;
+Conducted interviews with relevant personnel of VINAMILK;
+3.
+Carried out detailed on-site review of data from VINAMILK;
+4.
+Reviewed the data collection and consolidation processes used to compile the Select
+Information, including assessing assumptions made, the data scope and reportin
+boundaries;
+5.
+Reviewed documentary evidence produced by VINAMILK;
+6.
+Agreed a sample of the Selected Information to the corresponding souitee
+documentation; and
+7. Re-performed aggregation calculations of the Selected Information.
+Statement of Independence, Integrity and Competence
+Bureau Veritas is an independent professional services company that specialises in quality,
+environmental, health, safety and social accountability with over 190 years history. Its assurance
+team has extensive experience in conducting verification over environmental, social, ethical and
+health and safety information, systems and processes. Bureau Veritas operates a certified
+Quality Management System which complies with the requirements of ISO 9001:2015, and
+accordingly maintains a comprehensive system of quality control including documented policies
+and procedures regarding compliance with ethical requirements, professional standards and
+applicable legal and regulatory requirements.
+Bureau Veritas has implemented and applies a Code of Ethics, which meets the requirements of
+the International Federation of Inspections Agencies (IFlA) across the business to ensure that its
+employees maintain integrity, objectivity, professional competence and due care, confidentiality,
+professional behaviour and high ethical standards in their day-to-day business activities.
+Best regards,
+For Bureau Veritas Certification Vietnam
+Ho ChiMinh City
+30
+BU
+8n8
+IONVIE
+1828
+13B1
+ong
+1188
+Certification Manager
+Page 2 of2
+BUREAU
+VERITAS
+35
+
+PHU LUC A/ APPENDIX A
+CHI TiET CAc NGUOn PHAT ThAI DUoC LOAI TRU (BAO GOM PHam VI 3)
+DETAILS OF ExCLUDED EMISSION SOurCeS (INCLUDING ScOpE 3)
+Bao göm/ Loai
+Phân loai theo 14069
+Pham vi
+Phát thài
+Mô tà
+trù
+Bièn minh cho vièc loai trù
+Category according
+Scope
+Emissions
+Description
+Inclusion/
+Justification for Exclusion
+to 14069
+Exclusion
+Phát thái tryc tiēp tùr quá
+Döt cháy LPG súr dyng cho nau ăn và các hoat dong lién
+Pham vi 1/
+Phan nhóm 1/
+trinh dot cháy cō dinh/
+Bao göm/
+quan děn ky thuàt/ Burning LPG for cooking and technical
+Scope 1
+Category 1
+Direct emissions from
+Included
+related activities
+stationary combustion
+Phát thái tryc tiēp tùr quá
+Dōt cháy dau DO, xǎng cho quá trinh sán xuat và vàn
+Pham vi 1/
+Phàn nhóm 2/
+trinh dōt cháy di dòng/
+Bao gòm/
+chuyen/ Burning DO oil, gasoline for production and
+Scope 1
+Category 2
+Direct emissions from
+Included
+transportation
+mobile combustion
+Phát thái lèn men duòng
+Pham vi 1/
+Phàn nhóm 3.1/
+Bò bè trong quá trinh tièu hóa thúrc ăn g hoi CH4/ The
+ruòt cúa bò bè/
+Bao gǒm/
+Scope1
+Sub-category 3.1
+Emissions from enteric
+process of digestion and belching of cows produces CH4
+Included
+fermentation
+gas.
+Phát thái chǎn thá bò bè
+Phàn bò phát thái trèn dat khi dugc vui choi và vàn dòng
+Pham vi 1/
+Phàn nhóm 3.2/
+trèn sàn choi/
+Bao gòm/
+trèn san choi/ Dairy cow manure is emitted on the land
+Scope 1
+Sub-category 3.2
+Emissions grazing cows and
+Included
+when grazing on the playground.
+calves on the playground
+Phát thái tùr phàn húy ky khí
+Xác bò bē bi phàn húy ky khí bòi phuong pháp chòn duói
+Pham vi 1/
+Phan nhóm 3.3/
+xác bò bè/
+Bao gǒm/
+dat/ Burying cow carcasses underground causes
+Scope1
+Sub-category 3.3
+Emissions from anaerobic
+Included
+anaerobic decomposition.
+decomposition of cow
+Phàn bò bē dugc gom vě hè thōng xúr ly nuóc thái, tách ra
+thành phàn rǎn và nuóc phàn lóng/ Cow manure is
+Phát thái tùr quán ly phàn
+collected into the wastewater treatment system,
+Pham vi 1/
+Phan nhóm 3.4/
+chuòng/
+Bao göm/
+separated into solid manure and liquid manure
+Scope 1
+Sub-category 3.4
+Emissions from manure
+Included
+Phan rǎn này phát thái NzO trurc tiēp, gián tiēp tùr bay hoi
+management
+và rò ri/ Solid manure emits direct and indirect NzO from
+evaporation and leakage.
+
+PHU LUC A/ APPENDIX A
+CHI Tiet CAc NGuOn PHAT THAI DUOC LOAI TrU (BAO GOm PHam VI 3)
+DETAILS OF ExCLUDED EMISSION SOurCeS (INCLUDING ScOpE 3)
+Bao göm/ Loai
+Phân loai theo 14069
+Pham vi
+Phát thài
+Mo tà
+trù
+Bièn minh cho vièc loai trù
+Category according
+Scope
+Emissions
+Description
+Inclusion/
+Justification for Exclusion
+to 14069
+Exclusion
+Phàn bò bè dugc gom vě hē thōng xúr ly nuóc thái, tách ra
+thành phàn rǎn và nuóc phàn lóng/ Cow manure is
+Phát thái tùr xúr ly nuóc thái
+collected into the wastewater treatment system,
+Pham vi 1/
+Phàn nhóm 3.5/ Sub-
+còng nghièp/
+Bao gǒm/
+separated into solid manure and liquid manure.
+Scope 1
+category 3.5
+Emissions from industrial
+Included
+Phát thái sau khi nuóc phàn lóng dugc xúr ly bàng hè thōng
+wastewater
+xúr ly ky khí và hiēu khí/ Emissions after liquid manure is
+treated by anaerobic and aerobic treatment systems.
+Phát thái tùr xùr ly nuóc thái
+Phát thái tùr nuóc thái cúa Cán bò còng nhàn viēn trong
+Pham vi 1/
+Phân nhóm 3.6/ Sub-
+sinh hoat/
+Bao gǒm/
+trang trai/ Emissions from wastewater of office and
+Scope 1
+category 3.6
+Emissions from domestic
+Included
+employees in the farm
+wastewater
+Phát thái tùr nuóc sau xúr ly
+ra mòi truòng bèn ngoài/
+Phát thái tù nuóc thái sau quá trinh xúr ly nuóc thái ra mòi
+Pham vi 1/
+Phan nhóm 3.10/
+Bao gǒm/
+Emissions from treated
+truòng bèn ngoài/Emissions from wastewater after
+Scope 1
+Sub-category 3.10
+Included
+water to the outside
+wastewater treatment to the outside environment
+environment
+Phát thái tùr rò ri mòi chat
+Phát thai tùr các mòi chat lanh dugc súr dung HCFC-22 và
+Pham vi 1/
+Phân nhóm 4.1/
+Bao gòm/
+lanh/ Emissions from
+HFC-134a/ Emissions from refrigerants such as HCFC-22
+Scope 1
+Sub-category 4.1
+Included
+refrigerant leaks
+and HFC-134a
+Có hoat dòng kiēm soát rò rí cúa
+Phát thái tùr rò rí xǎng, dau
+Phát thái tùr rò ri xǎng, dau DO, LPG, CH tùr Biogas, hē
+Biogas. Rò ri xǎng, däu DO, LPG,.. tù
+Pham vi 1/
+Phàn nhóm 4.2/
+DO, LPG, CH tr Biogas, hè
+thōng xúr iy nuóc thai cōng nghiep và sinh hoat/ Emissions
+Khòng bao
+thiēt bi sú dung khòng dáng kě
+Scope 1
+Sub-category 4.2
+thōng xúr ly nuróc thái còng
+from leaking gasoline, DO oil, LPG, CH4from Biogas,
+gom/ Excluded
+/ Biogas leak control is available.
+nghièp và sinh hoat
+industrial and domestic wastewater treatment systems
+Leaking gasoline, DO oil, LPG,.. from
+equipments is not significant
+
+PHU LUC A/ aPPenDIX A
+CHi Tiet CAc NGuon PHAt THAI DUoC LOAI TrU (BAO GOm PHam VI 3)
+DETAILS OF ExCLUDED EMISSION SOurCeS (INCLUDING ScOpE 3)
+Phan loai theo
+Bao göm/
+14069
+Pham vi
+Phát thài
+Mò tà
+Loai trùr
+Bièn minh cho vièc loai trù
+Category
+Scope
+Emissions
+Description
+Inclusion/
+Justification for Exclusion
+according to
+Exclusion
+14069
+Phát thái tùr dièn/
+Pham vi 2/
+Phàn nhóm 6/
+Phát thái tùr viec súr dung nǎng luong dièn luói quōc gia/ Emissions from
+Bao gǒm/
+Emissions from
+Scope 2
+Category6
+the use of electricity from the national grid
+Included
+electricity
+Phát thái tùr khai thác, sán xuat và vàn chuyěn (bao gǒm rò ri) nhièn liéu
+dugc tièu thy bòi to chúrc (phát thái thugng nguòn lièn quan dēn loai 1
+Phát thái tù các
+và 2)/ Emissions from extraction, production and transportation
+hoat dòng liēn
+(including leaks) of fuel consumed by the organization (upstream
+quan děn nǎng
+emissions related to categories 1 and 2).
+luong khòng bao
+Phát thái tùr khai thác, sán xuat và vàn chuyēn (bao gòm rò ri) nhièn lièu
+Các phát thái này phy thuòc rat nhieu vào còng
+gǒm phát thái trurc
+trong viec tao ra dièn, hoi nuóc, làm mát suòi âm và khí nén dugc nhàp
+nghè sán xuat, phàn phoi cúa nhà cung càp. Hièn
+tiep và phát thái
+khau bói to chúrc báo cáo (phát thái thuong nguǒn liēn quan děn loai 6
+Khòng bao
+tai chua có nguòn dü liēu dáng tin cày dēn tùr nhà
+Pham vi 3/
+Phàn nhóm 8/
+nǎng lugng gián
+và 7)/ Emissions from mining, production and transportation (including
+gǒm/
+cung cap dě tính toán/ These emissions depend
+Scope 3
+Category 8
+tiep/ Energy-
+leaks) of fuels in electricity generation, steam, heating cooling and
+Excluded
+heavily on the supplier's distribution methol and
+related activities
+compressed air imported by the reporting organization (related
+technology applying. Currently, there is no
+not included in
+upstream emissions) to categories 6 and 7)
+reliable data from the suppliers.
+direct emissions
+Phát thái Dièn, hoi nuóc, suòi am, làm mát và khí nén duoc tōng hop
+and energy
+trong truyěn tái và phàn phoi nǎng luong mang Emissions from
+indirect emissions
+electricity, steam, heating, cooling and compressed air are aggregated
+in network energy transmission and distribution.
+Trang trai chú yěu mua nguyèn vàt lièu cho bò bè
+súr dung bao göm/ The farm mainly purchases
+raw materials for cows, including:
+-Cám dugc gia còng tùr nguyèn vàt lièu nhàp khãu
+cúa nhiěu quōc gia phy thuòc vào giá thành và
+Phát thái tùr sán
+Phát thái tùr mua dich vy, hàng hóa, thuē ngoài lièn quan dēn nhà cung
+chat lugng/ Bran is processed from imported raw
+phâm mua/
+Khòng bao
+materials of many countries depending on the
+Pham vi 3/
+Phàn nhóm 9/
+cap tryc tiēp, xúr ly chat thái dugc tao ra trong sán xuat dau vào/
+Emissions from
+gǒm/
+Scope 3
+Emissions from purchasing services, goods, outsourcing related to
+price and quality
+Category 9
+purchased
+Excluded
+-Thúc ǎn thò xanh, thò khò dugc thu mua tùr rat
+direct suppliers, waste treatment generated in input production.
+products
+nhiěu hò nòng dàn khác nhau/ Green & Dry
+Forage are purchased from many farmers
+Hièn chua dú nguōn luc và dür liéu dáng tin cày dě
+tính toán/ Currently, there is no resources and
+reliable data for calculation.
+
+PHU LUC A/ aPPenDIX A
+CHI TieT CAc NGuOn PHAT THAI DUOC LOAI TrU (BAO GOm PHAm VI 3)
+DETAILS OF ExCLUDED EMISSION SOURCES (INCLUDING SCOPE 3)
+Phan loai theo
+Bao göm/ Loai
+14069
+Pham vi
+Phát thài
+Mo tà
+trù
+Bièn minh cho vièc loai trù
+Category
+Scope
+Emissions
+Description
+Inclusion/
+Justification for Exclusion
+according to
+Exclusion
+14069
+-Trang trai hoat dong tùr nǎm 2009. Xay dung ha tang, mua
+Phát thái tùr xày dung, thiet bi, máy móc,
+mói các máy móc thiēt bi trong sán xuat và vàn chuyěn
+Phát thái tùr thiét bi chính/
+xe trong sán xuat và vàn chuyēn/
+Pham vi 3/
+Phàn nhóm 10/
+Khòng bao göm/
+khòng có nhieu thay döi / Operation of the farm was in 2009.
+Emissions from capital
+Emissions from construction, equipment,
+Scope 3
+Category 10
+Excluded
+Construction activity, purchases of machinery, equipment,
+equipment
+machinery, vehicles in production and
+vehicles for production and transportation as similar as
+transportation.
+previous status.
+Phát thái tùr xúr ly chat thái sinh hoat, chat
+Phát thái tù chat thái phát
+Phát thái này phy thuòc rat nhiěu vào còng nghē xúr ly cúa
+thái nguy hai và vàn chuyěn chat thái phát
+sinh tùr hoat dòng cúa tō
+bèn thu gom/ This emission is highly dependent on the
+Pham vi 3/
+Phan nhóm 11/
+sinh trong van hành/ Emissions from
+Khòng bao gòm/
+chúrc/ Emissions form
+technology of the waste collection contractor.
+Scope 3
+Category 11
+treatment of domestic waste, hazardous
+Excluded
+waste generated from
+Hièn chua có nguön dür lièu dáng tin cày dě tính toán/
+waste and transportation of waste
+organizational activities
+Currently, there is no reliable data for calculation.
+generated during operation
+-Cám và ngò cay chiēm ty trong lón nhat vě chi phí mua hàng
+hóa cúa trang trai. Phát thái tùr vàn chuyěn và phàn phoi
+thuong nguòn döi vói nhóm này dugc uóc tính 76,46 tan
+Phát thái tùr vàn chuyēn và phàn phoi
+thugng nguǒn: mua nguyèn vàt liéu, còng
+CO2 e (chiēm O,60% töng phát thai)/ Bran and corn plant are
+main proportion of material purchases of the farm. Emission
+cu dung cu & vàt tu ky thuàt, thuōc thú y,
+from upstream transportation and distribution for these
+Phát thái tùr vàn chuyēn
+vaccine, hóa chat, vǎn phòng pham, mua
+materials is estimated 76.46 tons C02 e (0.60% of total
+và phàn phoi thuong
+nhièn liéu, và các vàn chuyēn khác/
+Pham vi 3/
+Phàn nhóm 12/
+Khòng bao gòm/
+emission)
+nguön/ Emissions from
+Emissions from upstream transportation
+Scope 3
+Category 12
+-Döi vói các hàng hóa khác vièc vàn chuyěn và phàn phōi
+and distribution: purchase of raw
+Excluded
+upstream transportand
+thuong nguòn phy thuòc vào nhà cung cap: lò trinh tùr kho
+distribution
+materials, tools & technical supplies,
+děn các khách hàng khác nhau, phuong tiēn vàn chuyēn.,..
+veterinary drugs, vaccines, chemicals,
+Hièn chua có nguön dü lièu dáng tin cày dě tính toán / The
+stationery, fuel purchases, and other
+upstream transportation and distribution depends on the
+transportation
+suppliers: the route from the warehouse to the different
+customers, the means of transport, etc. Currently, there is no
+reliable data for calculation.
+
+PHU LUC A/ ApPEnDIX A
+CHI Tiet CAc NGuOn PHAT THAI DUOC LOAI TrU (BAO GOm PHam VI 3)
+DETAILS OF ExCLUDED EMISSION SOurCeS (INCLUDING ScOpE 3)
+Phàn loai theo
+Bao göm/ Loai
+14069
+Pham vi
+Phát thài
+Mo tà
+trù
+Bièn minh cho vièc loai trù
+Category
+Scope
+Emissions
+Description
+Inclusion/
+Justification for Exclusion
+according to
+Exclusion
+14069
+Phát thái tùr di còng tác
+Phát thái tù hoat dòng di còng tác do
+Uóc tính 1,67 tan CO2 e (chiēm 0.01% tong phát thái)/
+Pham vi 3/
+Phàn nhóm 13/
+cúa cán bò còng nhàn
+nhien lièu dot trong các nguōn dōt di
+Khòng bao gǒm/
+Estimated 1.67 tons of CO 2e (accounting for 0.01% of total
+Scope 3
+Category 13
+vièn/ Emissions from
+dòng khòng thuòc só hüu hoǎc kiēm soát
+Excluded
+emissions).
+business travel
+cúa tō chúrc/
+Trang trai chǎn nuòi và sán xuat süra phái dáp úrng các dieu
+Phát thái di chuyěn hai
+kièn vě dich tě. Ngoài các truòng hop can thiet thì vièc ra vào
+chièu cúa khách dēn
+và tham quan trang trai sě dugc giói han nèn phát thái này
+Pham vi 3/
+Phàn nhóm 16/
+Phát thái di chuyěn hai chiěu cúa khách
+Khòng bao gǒm/
+trang trai/ Emissions
+dugc coi là khòng dáng ke/ Dairy farm as milk production
+Scope 3
+Category 16
+dēn trang trai
+Excluded
+from client and visitor
+must meet epidemiological conditions. Except in necessary
+transport
+cases, access to and visits to the farm will be limited, so this
+emission is considered negligible.
+-Uóc tính phát thái do vàn chuyēn süa tuoi nguyèn lièu tù
+trang trai děn nhà máy Vinamilk và ngugc lai là 13,12 tan
+CO2 e (chiēm 0,10% töng lugng phát thái)/ Estimated
+emissions by back and fort transporting raw milk from farm
+Phát thái tùr vàn chuyěn süa tuoi nguyèn
+to Vinamilk factory is 13.12 tons of CO2 e (accounting for
+Phát thái vàn chuyěn và
+lièu tùr trang trai dēn nhà máy và vàn
+0.10% of total emissions)
+phàn phōi ha nguòn/
+chuyēn bò bè bán ra bèn ngoài bói khách
+-Các san pham khác giao dich mua bán giüra trang trai và
+Pham vi 3/
+Phàn nhóm 17/
+Khòng bao gǒm/
+Emissions from
+hang/ Emissions from transportation of
+khách hàng dugc xác dinh tai cōng trang trai.Vièc vàn
+Scope 3
+Category 17
+Excluded
+downstream transport
+raw milk from farm to factory, and
+chuyēn sán pham di dàu và bàng phuong tièn gì phy thuòc
+and distribution
+transportation of cow sold outside by
+hoàn toàn vào khách hàng. Hien chua có nguōn luc và dǔr lièu
+customers.
+dáng tin cay dē tính toán/ Other product purchase and sale
+transactions between the farm and the customer are
+determined at the farm gate. Shipping products to where and
+by what means depends entirely on the customer. There are
+currently no reliable resources and data for calculations.
+
+PHU LUC A/ APPENDIX A
+CHI TieT CAc NguOn PHAT ThAI DUOC LOAI TRU (BAO GOM PHam VI 3)
+DETAILS OF EXCLUDED EMISSION SOuRCeS (INCLuDING SCOpE 3)
+Phàn loai theo
+Bao göm/ Loai
+14069
+Pham vi
+Phát thài
+Mò tà
+trù
+Bièn minh cho vièc loai trù
+Category
+Scope
+Emissions
+Description
+Inclusion/
+Justification for Exclusion
+according to
+Exclusion
+14069
+- Süra tuoi nguyèn lièu thu mua vě nhà máy dugc chě biēn
+thành nhieu sán pham bàng nhiěu còng nghè khác nhau (süra
+thanh trùng, süra tièt trùng, süra chua,..) hien chua có dú
+nguǒn dǔ liēu tin cày cǔng nhu nguòn luc dě tính toán/
+Phát thái trong giai doan súr dung sán
+Purchased raw milk is made into a variety of products by
+phâm süra tuoi nguyèn liēu và súr dung
+different technologies (pasteurized milk, pasteurized milk,
+Phát thái tùr giai doan súr
+phân sau ép, nuóc phàn sau xúr ly cúa
+Pham vi 3/
+dung sán phãm/
+Khòng bao gǒm/
+yogurt, etc.). There are currently no reliable resources and
+Phàn nhóm 18/
+khách hàng/ Emissions during the use of
+Scope 3
+Category 18
+Emissions from use
+Excluded
+data for calculations.
+raw milk products and the use of post-
+- Phàn sau ép và nuóc phàn sau xúr ly tùy vào muc dích súr
+stage of the product
+pressed manure and treated fecal water
+dung và còng nghè xúr ly cúa khách hàng. Hièn chua có
+from customers
+nguön dür lieu dáng tin cày dě tính toán/ Compressed and
+liquid manure depends on the intended use and treatment
+technology of the customer. There is currently no reliable
+data source for the calculation.
+Süa tuoi nguyèn liéu dugc dua vào nhieu san phàm vói ty lè
+Phát thái kět thúc tudi
+Phát thái tùr vièc xúr ly các sán phàm da
+khác nhau nèn hièn chua tính toán dugc luong bao bì phàn
+Pham vi 3/
+Phàn nhóm 19/
+tho cúa sán phãm/
+bán vào cuöi vòng dòi/ Emissions from
+Khòng bao gǒm/
+bō rièng cho phän süra tuoi nguyèn liéu/ Raw milk is used in
+Scope 3
+Category 19
+Emissions from end
+disposing of sold products at the end of
+Excluded
+many products at different rates, so it is not possible to
+of life of the product
+product life cycle.
+calculate the amount of packaging allocated to the raw milk
+portion.
+Phát thái tùr vièc di lai cúa nhàn vièn di
+Uóc tính phát thái tùr di lai cúa nhan vièn là 46,63 tan COze
+Phát thái tù nhàn vièn di
+Pham vi 3/
+Phàn nhóm 22/
+chuyēn và nhàn vièn làm vièc tùr xa/
+Khòng bao gǒm/
+(chiem 0,37% töng luong phát thái)/ Emissions from
+lai/ Emissions from
+Scope 3
+Category 22
+Emissions from commuting employees,
+Excluded
+commuting employees are estimated at 46.63 tons CO2e
+employee commuting
+and employees working remotely.
+(accounting for 0.37% of total emissions).
