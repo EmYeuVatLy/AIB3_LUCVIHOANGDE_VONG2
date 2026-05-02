@@ -1,0 +1,1309 @@
+W
+VINAMILK
+C
+G
+Vietnam
+Beverage Factory
+□
+PAS 2060 Qualifying
+Explanatory Statement
+Application Period: 01/01/2022 - 31/12/2022
+
+Contents
+1. Introduction
+Giói thiēu
+2.(
+Carbon Neutrality Declaration
+Còng bó trung hòa carbon
+3.
+Boundaries of the Subject
+Ranh giói cúa dói tuong
+4. Carbon footprint
+Dáu chàn carbon
+5.
+Carbon management plan
+Ké hoach quán ly carbon
+6.
+Carbon offsets
+Bù dáp carbon
+APPENDIX PAS 2060 checklist
+
+1. Introduction
+Giói thieu
+This Qualifying Explanatory Statement (QES) contains all the required information on the carbon
+neutrality of the given subject. All information provided within this report will be reviewed by a third
+party and is believed to be correct. If provided with any information affecting the validity of the
+following statements, this document will be updated accordingly to reflect Vietnam Beverage
+Factory's current status towards carbon neutrality.
+Tuyèn bó Giai thích Dú dièu kièn (QEs) này chúra tát cá các thòng tin càn thiét vè carbon trung
+tính cúa dói tuong nhát dinh. Tát cá thòng tin duoc cung cáp trong báo cáo này sě dugc xem xét
+vè tính dúng dán bói bēn thú 3. Néu duoc cung cáp bát ky thòng tin nào ánh huóng dén tính
+hop lè cúa các tuyèn bó sau dày, tài lièu này sē dugc càp nhàt tuong úng dě phán ánh tinh trang
+hiēn tai cúa Nhà máy Nuóc Giai Khát VN aói vói carbon trung tính.
+This report will be made publicly available on Vinamilk's webpage: https://www.vinamilk.com.vn
+Tuyèn bó này sě duoc còng bó trèn trang web cúa Vinamilk: https://www.vinamilk.com.vn
+Based on the roadmap of Vietnam Dairy Products Joint Stock Company on business development
+associated with sustainable development, the Company currently focuses on neutralizing direct
+GHG emissions and GHG emissions from importing energy. Therefore, the factory chooses to be
+carbon neutral from Scope 1 and 2 emission sources for this period. This is Vietnam Beverage
+Factory's first declaration of commitment to carbon neutrality for scope 1 and scope 2 GHG
+emissions.
+Dua vào lo trinh cúa Cong ty CP Süa Viet Nam vè viec phát trién kinh doanh gán lièn vói phát
+trién bèn vǔng, hiēn tai Cong ty tàp trung vào vièc trung hòa nguòn phát thai KNK tryc tiép và
+nguòn phát thai KNK tùr vièc nhàp nǎng luong. Do dó, Nhà máy chon trung hòa Carbon các
+nguòn phát thai thuòc Scope 1 và 2 cho giai doan này. Dày là tuyèn bó dàu tiēn cúa Nhà máy
+Nuóc Giai Khát VN vè cam két trung tính carbon aói vói phát thai KNK pham vi 1 và pham vi 2.
+Vietnam Beverage Factory's carbon neutrality declaration will be reviewed and verified by an
+independent third party, BSI.
+Tuyèn bó vè tính trung tính carbon cúa Nhà máy Nuóc Giai Khát VN sě duoc bèn thú ba dòc làp
+là BSl xem xét và xác minh.
+
+2. Carbon Neutrality Declaration
+Tuyèn bó Carbon trung tính
+"Vietnam Beverage Factory achieved carbon neutrality of Scope 1 and
+Scope 2 GHG Emissions in accordance with PAS 2060:2014 on 31
+December 2022, with commitment to maintain to 31/12/2023 for the
+period commencing 1 January 2022, BSl certified".
+"Nhà máy Nuóc Giài Khát VN da trung hòa luong phát thai KNK aóivói
+các nguòn phát thai khí nhà kính pham vi 1 và 2 phù hop vói tièu chuàn
+PAS 2060:2014 vào ngày 31/12/2022 và cam két duy tri dén hét ngày
+31/12/2023 cho giai doan bát dàu tùp ngày 01/01/2022, duoc kièm tra xác
+nhàn bòi BsI".
+DUOC KY BOI SIGNED BY:
+CHIEF EXECUTIVE OFFICER/ TONG GIAM DOC CONG TY
+CONGTY
+CO PHAN
+SUA
+VIETNAM
+MAI KIEU LIEN
+
+Information as it relates
+PAS 2060 Information Requirement
+Thòng tin lièn quan
+Yēu càu cúa PAS 2060
+Entity making declaration
+Branch of Vietnam Dairy Products Joint Stock Company -
+Thyc thě cúa tuyèn bó
+Vietnam Beverage I
+Factory
+Chi nhánh Cong ty CP Süra Viet Nam - Nhà máy Nuóc
+Giai Khát VN
+Individual responsible
+Nguyen The Hoa, Plant Director
+Cá nhàn chiu trách nhièm
+Nguyěn Thé Hòa, Giám Dóc Nhà máy
+Subject of the declaration
+Vietnam Beverage Factory
+Dói tuong cúa tuyèn bó
+Nhà máy Nuóc Giai Khát VN
+Characteristics of the subject
+Vietnam Beverage Factory is a Branch of Vietnam Dairy
+Dǎc tính cúa dói tuong
+Products Joint Stock Company
+Nhà máy Nuóc Giai Khát VN là 1 chi nhánh cúa Còng ty
+CP Süa Viet Nam (VINAMILK)
+Business sectors: Manufacturing of Tea Drinks, Bottled
+Drinking Water, Water Base Flavoured Drinks, Dairy Based
+Drinks, Fermented Milk Drinks, Sterilized Milk, Cereal
+Based Drinks
+Lǐnh vuc hoat dòng kinh doanh, san xuát: San xuát Trà các
+loai, Nuóc uóng dóng chai, Nuóc uóng trái cày， thúc uóng
+tùr süra, süa uóng lèn men, süa dang lóng tiet trùng, thúrc
+uóng tùr ngǔ cóc
+Tiēu chuàn và phuong pháp luàn
+ISO 14064-1, PAS 2060 va IPCC
+Lí do cho viec lura chon phuong pháp
+These Standards and methodologies (ISO 14064-1, PAS
+luàn
+2060 and IPCC) are International standards, used in the
+calculation of GHG and Carbon neutrality, consistent with
+the operating model of the Plant.
+Các Tiēu chuàn và phuong pháp luàn này (ISO 14064-1,
+PAs 2060 và IPCC) là tièu chuàn Quóc Té, dugc súr dung
+trong viec tính toán KNK và trung hòa Carbon, phù hop
+vói mo hinh hoat dòng cúa Nhà máy.
+The methodology has been applied in accordance with its
+provisions and meets the principles outlined in ISO 14064-
+1, PAS 2060
+Phuong pháp luàn duoc sú dung dä duoc áp dung phù
+hop vói các quy dinh cúa nó và dáp úng các nguyèn tác
+nèu trong ISO 14064-1, PAS 2060
+Rationale for the selection of the subject
+At the request of Vietnam Dairy Products Joint Stock
+Co só ly luàn cúa viēc lua chon dói
+Company on the orientation of sustainable development
+tuong
+
+Information as it relates
+PAS 2060 Information Requirement
+Thòng tin lièn quan
+Yēu càu cúa PAS 2060
+and combating climate change, Viet Nam Beverage Factory
+was selected to evaluate carbon neutrality in this period.
+Theo yèu càu cúa Cong ty CP Süa Viet Nam vè dinh huóng
+phát triēn bèn vǔng và chóng bién dói khí hàu, Nhà máy
+Nuóc Giai Khát Viet Nam dugc chon dé dánh giá trung hòa
+Carbon giai doan này
+Cá nhàn chiu trách nhièm dánh giá và
+Department for assessment, calculation and reporting of
+cung cáp dǔ lièu càn thiét cho chúng minh
+GHG
+inventory
+and
+carbon
+neutrality:
+Technical
+cúa tuyèn bó
+Department & ISO
+Bo phàn thyc hiēn dánh giá, tính toán só lièu báo cáo kiēm
+kè KNK và trung hòa Carbon: Phòng Ky thuàt & NV ISO
+Department in charge of providing data: all GHG emission
+departments
+Bo phàn cung cáp dü lieu: tát ca Bo phàn có phát thai KNK
+Conformity assessment type
+Independent third-party certification
+Loai dánh giá sy phù hop
+Chúrng nhàn cúa bèn thúr 3 dòc làp
+Baseline period
+01/01/2022-31/12/2022
+Giai doan co' só
+Achievement period
+01/01/2022-31/12/2022
+Giai doan dat duoc
+Commitment period
+01/01/2023-31/12/2023
+Giai doan cam két
+Standard for assessment of GHG
+ISO14064-1:2018
+emissions
+Tièu chuán dánh giá khí thai nhà kính
+Justification of assessment method
+The methodology meets PAS 2060 requirements
+Chúng minh cho phuong pháp dánh giá
+Phuong pháp dánh giá phù hgp theo yèu càu cúa PAS
+2060
+3. Boundaries of the Subject
+Ranh giói cúa dói tuong
+3.1 Factory Information (Thong tin vè Nhà máy)
+Vietnam Beverage Factory is a Branch of Vietnam Dairy Products Joint Stock Company
+Nhà máy Nuóc Giai Khát VN Ià 1 chi nhánh cúa Cöng ty CP Süa Viet Nam (VINAMILK)
+
+Address: Lot A (A_9_CN & A_2_CN), NA7 Street, My Phuoc Industrial Park, My Phuoc Ward,
+Ben Cat District, Binh Duong Province, Vietnam
+Dia chi: Lö A (A_9_CN & A_2_CN), Duòng NA7, KCN My Phuóc 2, Phuòng My Phuóc, Thi xã
+Bén Cát, Tinh Binh Duong, Viet Nam
+The factory's area is 40000m² with a capacity of 240 million liters of products/year including 3
+production lines. The factory has a wastewater treatment system with a capacity of 1130 m³/day
+and night, meeting grade A Vietnam Standard 40:2011/BTNMT.
+Diēn tích cúa Nhà máy là 40000m² vói còng suát 240 triēu lit san phám/ nǎm bao gòm 3 dày
+chuyèn san xuát. Nhà máy có hè thóng xúr ly nuóc thai còng suát 1130m³/ ngày dēm dat tiēu
+chuán loai A QCVN 40:2011/ BTNMT.
+3.2 Factory Policy on Climate Change
+3.2 Chính sách cúa Nhà máy vè bién aòi khí hàu
+Vietnam Beverage Factory assumes responsibility for its production activities and for the
+CO2 emissions resulting from these activities. This responsibility is based on the following
+principles:
+Nhà máy Nuóc Giai Khát VN chiu trách nhiēm vè các hoat dong sán xuát cúa minh và vè
+luong khí thai CO2 do các hoat dòng này gày ra. Trách nhièm này dyra trèn các nguyèn
+tác sau:
+Vietnam Beverage Factory will put effort into mitigating climatic change.
+Nhà máy Nuóc Giai Khát VN sē nô lyc giám thiéu bién dói khí hàu.
+Vietnam Beverage Factory will reduce its annual emissions of greenhouse gases
+and will act responsibly to maintain the climate. In so doing, the factory contributes
+to reducing its factory carbon footprint.
+Nhà máy Nuóc Giai Khát VN sē giám phát thai khí nhà kính hàng nǎm và sē hành
+dōng có trách nhièm dé duy tri. Làm nhu vày, Nhà máy góp phàn làm giám luong
+khí thai carbon cúa Nhà máy.
+Vietnam Beverage Factory will look for solutions, which will lead to sensible
+investments resulting in reductions in greenhouse gas emissions.
+Nhà máy Nuóc Giai Khát VN sě tim kiém các giai pháp dãn dén các khoán dàu tu
+hop ly nhàm giám phát thai khí nhà kính.
+Vietnam Beverage Factory will maintain a system for the annual monitoring and
+reporting of greenhouse gas emissions. This system must be stable, precise,
+transparent and in accordance with ISO standard 14064-1:2018
+Nhà máy Nuóc Giai Khát VN sě duy tri he thóng giám sát và báo cáo phát thái khí
+nhà kính hàng nǎm. Hē thóng này phai ón dinh, chính xác, minh bach và phù hop
+vói tieu chuán ISO 14064-1: 2018.
+Vietnam Beverage Factory will clearly communicate its factory policy, emissions
+reduction targets and the achieved reduction.
+Nhà máy Nuóc Giai Khát VN sě thòng báo rö ràng vè chính sách cúa Nhà máy,
+các myc tièu giam phát thai và múrc giám dǎ dat duoc.
+
+Vietnam Beverage Factory will strive to raise a positive attitude towards the
+environment in its customers, suppliers and employees.
+Nhà máy Nuóc Giai Khát VN sē nǒ lyc nàng cao thái do tích cyc dói vói mòi
+truò'ng cúa các khách hàng, nhà cung cáp và nhàn viēn cúa minh
+3.3 GHG emission sources
+3.3 Nguòn phát thai KNK
+Operational boundaries define the direct and indirect GHG emission sources to be included in the
+carbon footprint. Emission sources are classified as Scope 1 and Scope 2
+Các ranh giói hoat dōng xác dinh các nguòn phát thai KNK truc tiép và gián tiép duoc tính vào
+dáu chàn carbon. Các nguòn phát thai duoc phàn loai thành phát thai Pham vi 1 và Pham vi 2.
+Scope
+Category
+Sources
+Symbol of
+Pham vi
+Nhóm
+Nguòn phát thái
+source
+Ky hièu
+cúa nguòn
+Scope 1
+Category 1
+Use diesel oil for direct - stanby-generator, boiler,
+1.1
+Pham vi 1
+Nhóm 1
+operate and test fire pump
+Dàu DO dùng chay cho các thiét bi có dinh nhu: Máy
+phát diēn, lò hoi, vàn hành và kiém tra bom chǔa cháy
+Category 1
+Diesel Oil for transportation of office staff by passenger
+1.2
+Nhóm 1
+car (Direct - Transportation)
+Dàu DO dùng cho xe Cöng ty
+Category 1
+Use diesel oil for forklift
+1.3
+Nhóm 1
+Dàu DO dùng xe nàng
+Category 1
+Use gasoline for transportation of office staff by
+1.5
+Nhóm 1
+passenger car (Direct - Transportation)
+Xǎng dùng cho xe Cöng ty
+Category 1
+Use LPG for forklift
+1.6
+Nhóm 1
+LPG dùng xe nàng
+Category 1
+Use LPG for cooking
+1.7
+Nhóm 1
+LPG dùng dě ché bién thúc ăn
+Category 1
+Use diesel oil for direct - stanby-generator, boiler
+1.8
+Nhóm 1
+CNG dùng chay cho các thiét bi có dinh (lò hoi, ..)
+Category 1
+Use Refrigerant for direct - operation of Refrigeration
+1.9
+Nhóm 1
+Equipment
+Möi chát lanh súr dung cho các máy lanh trung tàm và
+máy lanh cyc bo bi rò ri, thát thoát ra mòi truò'ng
+Category 1
+CO2 directly used from fire extinguishers
+1.10
+Nhóm 1
+Luong CO2 tryrc tiép súr dung tùr các binh chüra cháy
+(khi sy có; diěn tàp hay rò ri)
+Category 1
+From wastewate
+1.11
+
+Nhóm 1
+Phát sinh tùr xúr ly nuóc thai
+Category 1
+N2O from fertilizer
+1.12
+Nhóm 1
+NzO tùr phàn bón
+Category 1
+Loai bò khí nhà kính tùr viēc tròng cay xanh
+1.13
+Nhóm 1
+Removal of greenhouse gas from planting trees
+Scope 2
+Category 2
+Electric sever for lighting, machine operate (purchased
+2.1
+Pham vi 2
+Nhóm 2
+electricity)
+Diēn nǎng phuc vy chiéu sáng， vàn hành máy móc thiét
+bi (Mua diēn tùr Dièn lyc)
+Category 2
+Purchased solar electricity consumption
+2.2
+Nhóm 2
+Tièu thy dièn mua tùr diēn mǎt tròi
+3 Carbon footprint
+Dáu chân carbon
+4.1 The result of Carbon Emission in 2021
+4.1 Két quá phát thai Carbon nǎm 2021
+To calculate the carbon footprint, we comply with the requirements established in Standard
+14064-1:2018: "Greenhouse gases. Part 1: Specification with guidance at the organisation level
+for quantification and reporting of greenhouse gas emissions and removals".
+Dè tính toán dáu chàn carbon, chúng toi tuàn thú theo các yēu càu duoc thiét làp trong tiēu chuán
+14064-1: 2018: "Khí nhà kính. Phàn 1: Quy dinh ky thuàt và huóng dãn dè dinh luong và báo
+cáo các phát thai và loai bó nhà kính ó cáp do tó chúc".
+The year 2021 was the moment when the carbon footprint was first calculated to the required
+extent.
+Nǎm 2021 dugc chon là thòi dièm mà dáu chàn carbon làn dàu tiēn duoc tính toán theo yèu càu.
+Total emissions (scope 1 and scope 2): 4663 tons CO2e
+Tòng phát thai (pham vi 1 và pham vi 2): 4663 tán C02e
+Intensity: 0.39 ton CO2e per ton of product
+Ty lè: 0.39 tán CO2e trèn tán san phám
+Emissions by scope:
+Luong phát thai theo pham vi
+
+Tòng CO2e
+CO2
+CH4
+N₂O
+HCFs
+só
+Scopes and categories
+(tán)
+(tán)
+(tán)
+(tán)
+(tán)
+_
+EMISSION SOURCES
+Danh muc 1: Nguòn phát thai và háp
+thu KNK tryc tiép
+1
+1,708.81
+1,600.09
+3.80
+0.01
+19.60
+Category 1: Direct GHG emissions
+and removals
+Dàu DO dùng chay cho các thiét bi có
+dinh nhu: Máy phát dièn, lò hoi, bom
+1.1
+chüra cháy
+18.432
+18.370
+0.001
+0.0001
+Use diesel oil for direct - 02 stanby-
+generator, 02 boiler, fire Pump.
+Dàu DO dùng cho xe Cong ty/
+Diesel Oil for transportation of office
+1.2
+65.424
+64.403
+0.003
+0.003
+staff by passenger car (Direct -
+Transportation)
+Dàu DO dùng xe nàng/
+1.3
+1.61
+1.45
+0.0001
+0.001
+Use diesel oil for forklift
+Xǎng dùng cho các thiét bi có dinh (máy
+cát co...)/
+1.4
+0.04
+0.04
+0.00002
+0.000002
+Use gasoline for fixed equipment
+(dynamite, lawn mower, …..)
+Xǎng dùng cho xe Còng ty/
+Use gasoline for transportation of office
+1.5
+20.03
+19.52
+0.01
+0.001
+staff by passenger car (Direct -
+Transportation)
+1.6
+Gas dùng xe nàng/ Use LPG for forklift
+14.11
+13.72
+0.01
+0.00004
+Gas dùng dě ché bién thúrc ăn/
+1.7
+3.03
+3.03
+0.00005
+0.000005
+Use LPG for cooking
+CNG dùng chay cho các thiét bi có dinh
+1.8
+(lò hoi, ..
+1,461.38
+1,459.94
+0.03
+0.003
+Use CNG for boiler
+Moi chát lanh súr dung cho các máy
+lanh trung tam và máy lanh cuc bò bi rò
+1.9
+ri, thát thoát ra mòi truòng
+19.60
+19.60
+19.60
+Use Refrigerant for direct - operation of
+Refrigeration Equipment
+Luong CO2 truc tiép súr dung tùr các
+binh chura cháy (khi sy có; diěn tàp hay
+1.10
+rò ri)
+0.02
+0.02
+CO2 directly used from fire
+extinguishers
+N2O tùr phàn bón/
+1.11
+0.17
+0.001
+N2O from fertilizer
+
+Phát sinh tùr xú ly nuóc thai/
+1.12
+104.98
+3.75
+From wastewater
+Danh muc 2: Phát thai/ Háp thy gián
+tiép tù vièc nhap nǎng luong
+2
+Category 2: Indirect greenhouse gas
+2,954.61
+2,954.61
+-
+-
+emissions / removals from energy
+purchases
+Diēn nǎng phuc vy chiéu sáng, vàn
+hành máy móc thiét bi (Mua diēn tùr
+2.1
+Diēn luc
+2,913.42
+2,913.42
+Electric sever for lighting, machine
+operate (purchased electricity)
+Tièu thy dièn mua tùr dièn mǎt tròi/
+2.2
+41.19
+41.19
+Purchased solar electricity consumption
+Tong phát thai (Pham vi 1 và 2)
+4,663
+Total emissions (Scope 1 and 2)
+For more details, refer to Vietnam Beverage Factory GHG Report Period 2021.
+Chi tiét xem thèm tai Báo cáo kiém kè khí nhà kính cúa Nhà máy Nuóc Giai Khát VN giai doan
+nǎm 2021.
+4.2 The result of Carbon Emission in 2022:
+4.2 Két qua phát thai Carbon năm 2022:
+só
+Scopes and categories
+Tong CO2e
+CO2
+CH4
+N2O
+HCFs
+(tán)
+(tán)
+(tán)
+(tán)
+(tán)
+_
+EMISSION SOURCES
+1
+Danh muc 1: Nguòn phát thai và háp
+thy KNK tryc tiép
+1,988.79
+13.39
+0.01
+1,612.80
+Category 1: Direct GHG emissions and
+removals
+1.1
+Dàu DO dùng chay cho các thiét bi có
+dinh nhu: Máy phát dièn, lò hoi, bom
+28.198
+0.001
+0.0002
+chüra cháy
+28.104
+Use diesel oil for direct - 02 stanby-
+generator, 02 boiler, fire Pump.
+1.2
+Dàu DO dùng cho xe Còng ty/
+Diesel Oil for transportation of office staff
+80.853
+0.004
+0.004
+79.592
+by passenger car (Direct -
+Transportation)
+1.3
+Dàu DO dùng xe nàng/
+Use diesel oil for forklift
+0.79
+0.72
+0.0000
+0.000
+
+Xǎng dùng cho các thiét bi có dinh (máy
+cát co.../
+0.06
+0.00000
+0.000000
+0.06
+Use gasoline for fixed equipment
+(dynamite, lawn mower, …..)
+1.5
+Xǎng dùng cho xe Cöng ty/
+Use gasoline for transportation of office
+19.85
+0.01
+0.001
+19.35
+staff by passenger car (Direct -
+Transportation)
+1.6
+Gas dùng xe nâng/ Use LPG for forklift
+14.92
+0.01
+0.00005
+14.51
+1.7
+Gas dùng dě ché bién thúc ăn/
+Use LPG for cooking
+2.55
+0.00004
+2.55
+0.000004
+1.8
+CNG dùng chay cho các thiét bi có dinh
+(lò hoi, ..)/
+1,437.94
+0.03
+0.003
+1,436.53
+Use CNG for boiler
+1.9
+Moi chát lanh súr dung cho các máy lanh
+trung tam và máy lanh cuc bō bi rò ri, thát
+31.36
+31.36
++
+thoát ra mòi truòng
+31.36
+Use Refrigerant for direct - operation of
+Refrigeration Equipment
+1.10
+Luong CO2 tryrc tiép súr dung tùr các
+binh chua cháy (khi sy có; diēn tàp hay
+0.03
+0.03
+rò rǐi)
+CO2 directly used from fire extinguishers
+1.11a
+Phát sinh tùr xúr ly nuóc thai/
+From wastewater
+361.87
+12.97
+1.11b
+Phát sinh tùr xúr ly nuóc thai sinh hoat
+From wastewater domestic
+10.24
+0.37
+1.12
+N2O tùr phàn bón/
+N2O from fertilizer
+0.13
+0.000
+2
+Danh muc 2: Phát thai/ Háp thy gián
+tiép tùr vièc nhàp nǎng luong
+2,935.61
+-
+Category 2: Indirect greenhouse gas
+2,935.61
+emissions / removals from energy
+purchases
+2.1
+Diēn nǎng phuc vy chiéu sáng, vàn hành
+máy móc thiét bi (Mua dièn tùr Dièn luc
+2,893.45
+2,893.45
+Electric sever for lighting, machine
+operate (purchased electricity)
+2.2
+Tièu thy dièn mua tù dièn mǎt tròi/
+Purchased solar electricity consumption
+42.16
+42.16
+Tòng phát thai (Pham vi 1 và 2)
+4924
+Total emissions (Scope 1 and 2)
+
+GHG emissions (Scope 1 and 2) in 2022
+4924 tan CO2e
+Lugng phát thai (Nguòn 1 và 2) nǎm 2022
+GHG removal sinks from trees in 2022
+2.49 + 5000 tan CO2e
+Bé háp thu KNK tùr cày xanh nǎm 2022
+Total of GHG emissions and removals in 2022
+-78.49 tán CO2e
+Tòng phát thai và loai bó KNK nǎm 2022
+Carbon Offsetting in 2022
+Unnecessary
+Carbon càn bù dáp nǎm 2022
+Therefore,Total of GHG emissions and removals in 2022 is negative number with GHG removal
+sinks from trees only.
+Nhu vày, tòng phát thai và loai bó KNK nǎm 2022 là só âm, dya vào bě háp thy KNK tùr cày xanh
+4.3 Achievements in GHG emission reduction
+4.3 Thành tích vè cát giam phát thai KNK
+In 2022, Vietnam Beverage Factory has no record of GHG emission reduction. The total GHG
+emissions of scope 1 and 2 in 2022 has been completely neutralized by GHG removal sinks from
+trees.
+Trong nǎm 2022, Nhà máy Nuóc Giai Khát Viet Nam chua có thành tích ghi nhàn vè cát giam
+phát thai KNK. Tóng phát thai KNK pham vi 1 và 2 trong nǎm 2022 duoc trung hòa hoàn toàn boi
+bè háp thy KNK tùr cày xanh.
+5 Carbon management plan
+Ké hoach quan ly carbon
+Vietnam Beverage Factory is committed to reducing the impact on the global climate by setting
+reduction action plan below
+Nhà máy Nuóc Giai Khát VN cam két giám thiéu tác dōng dén khí hàu toàn càu bàng cách dǎt
+ra các ké hoach hành dòng giam phát thái duói dày
+
+Nǎng
+Loai
+luong
+Tán
+Bô Phàn
+Ap
+nǎng
+dy
+cOze
+chiu
+Giai pháp
+dung/
+STT
+Chuong trinh hành dāng
+luong
+DVT
+duoc
+trách
+thyc hièn
+Hoàn
+sú
+tiét
+cát
+nhiēm
+thành
+dung
+giam/
+giam
+thyc hièn
+nǎm
+Thyc hiēn báo trì dúng
+Nàng cao hièu
+ké
+hoach， giám thòi sy có MMTB
+suát OEE dày
+KTCD và
+T1/23-
+trong
+trinh sán
+xuát.
+Dièn
+kW
+12.71
+quá
+chuyèn tǎng
+17,600
+PSXSX
+T12/23
+Thuòng xuyèn dào tao nhàn
+thēm 2% so vói
+viēn vàn hành， nhàn viēn bao
+1
+nǎm 2022
+trì di ca chia sé kinh nghiēm xú
+(Tuong ú'ng
+ly
+sy
+có
+trong
+Ca;
+giam thòi gian
+Kiēm soát còng tác vàn hành
+KTCD và
+T1/23-
+MMTB hop ly, phói hop tót giü
+CNG
+mmBtu
+5.93
+sán xuát ~ 16
+100
+PSXSX
+T12/23
+các tó han ché thòi gian chò
+giò)
+phám
+Thay Dèn LED
+Dàu tu thay thé khoang 33
+cho dèn cao áp
+bóng sodium có còng suát
+250W bàng dèn led Cöng suát
+chiéu sáng
+2
+Dién
+kW
+14.23
+KTCD
+T3/2023
+100W.
+19,710
+hành lang bèn
+Thòi gian vàn hành: 12h/ngày
+ngoài xuóng
+Chi phí uóc tính 1.5 trièu/bóng
+Tǎng các hoat
+Thuòng xuyèn kiēm tra giám
+Tát các
+sát các hoat dòng
+nhà máy,
+Dièn,
+kW;
+T1/23-
+3
+dōng quán ly
+Duy tri
+các BP;
+phát hiēn xúr ly kip thòi các hoat
+CNG
+mmBtu
+T12/23
+nāi quy
+Ban QLNL
+dōng làm thát thoát nǎng luong
+Thyc hiēn ky hop dòng mua
+hoi vói NCC súr dung biomass
+Mua hoi
+thay thé cho lò hoi súr dyng khí
+Biomass thay
+Ban
+4
+CNG, khoi còng xày dyng nǎm
+Hoi
+Tán hoi
+2023
+thé cho hoi súr
+KTCD
+2023, dy kién hoàn thành Quí
+dung khí CNG
+IV nǎm 2023 (Dy kién tiét giam
+1300 tán CO2e /nǎm.)
+6.Carbon offsets
+Bù dáp carbon
+Nhà máy khòng càn thiét làp carbon offset program vi tong phát thai và loai bo KNK nǎm 2022
+dä là só àm
+The Factory does not need a carbon offset program because the total GHG emissions and
+removals in 2022 is negative number already.
+
+APPENDIX PAS 2060 checklist
+Table B1. Checklist for QES supporting declaration of commitment to carbon neutrality
+Bang B1. Danh myc kiém tra cho QEs hö tro tuyèn bó cam két vè carbon trung tính
+QES Checklist Requirements
+Response
+1) Identify the individual responsible for the evaluation and provision of data
+Refer to Section 2
+necessary for the substantiation of the declaration including that of
+preparing, substantiating, communicating and maintaining the
+declaration.
+Xác dinh cá nhàn chiu trách nhiēm dánh giá và cung cáp dü liēu càn thiét
+cho chúng minh cúa còng bó, bao gòm cá viēc chuán bi, chúrng minh,
+truyèn dat và duy trì còng bó.
+2) Identify the entity responsible for making the declaration.
+Refer to Section 2
+Xác dinh thyc thě chiu trách nhièm còng bó.
+Identify the subject of the declaration.
+Refer to Section 2
+Xác dinh dói tuong cúa còng bó.
+4)
+Explain the rationale for the selection of the subject.
+Refer to Section 2
+Giài thich co so ly luàn cúa vièc lya chon dói tuong.
+5) Define the boundaries of the subject.
+Refer to Section 3
+Xác dinh ranh giói cúa dói tuong.
+6)
+Identify all characteristics (purposes, objectives or functionality) inherent
+Refer to Section 2
+to that subject.
+Xác dinh tát cá các dǎc diém (muc dich, muc tiēu hoǎc chúc nǎng) vón
+có cúa dói tuong dó.
+7）
+Identify and take into consideration all activities material to the fulfilment,
+Refer to Sections 2
+achievement or delivery of the purposes, objectives or functionality of the
+and 3
+subject.
+Xác dinh và xem xét tát ca các hoat dōng quan trong dói vói vièc thyc
+hiēn, dat duoc hoǎc cung cáp các myc dich, myc tiēu hoǎc chúc nǎng
+cúa dói tuong
+8)
+Select which of the 3 options within PAS 2060 you intend to follow.
+Refer to section 2
+Chon tùy chon nào trong só 3 tùy chon trong PAs 2060 mà ban dinh làm
+theo.
+9) Identify the date by which the entity plans to achieve the status of "carbon
+Refer to section 2
+neutrality" of the subject and specify the period for which the entity
+intends to maintain that status.
+Xác dinh ngày mà don vi có ké hoach dat duoc trang thái "carbon trung
+tính" cúa dói tuong và chi rō khoáng thòi gian mà don vi dy dinh duy tri
+trang thái dó.
+10) Select an appropriate standard and methodology for defining the subject,
+Refer to section 2
+the GHG emissions associated with that subject and the calculation of
+the carbon footprint for the defined subject.
+Chon mōt tiēu chuán và phuong pháp luàn thích hop dě xác dinh aói
+tuong, luong phát thài KNK lièn quan dén chú dè dó và tính toán luong
+khí thai carbon cho dói tuong dä xác dinh.
+11) Provide justification for the selection of the methodology chosen.
+Refer to section 2
+
+QES Checklist Requirements
+Response
+Cung cáp ly do cho viec lya chon phuong pháp luān da chon.
+12) Confirm that the selected methodology was applied in accordance with its
+Refer to section 2
+provisions and the principles set out in PAS 2060.
+Xác nhàn ràng phuong pháp dā chgn dā duoc áp dung phù hgp vói các
+dièu khoán cúa nó và các nguyèn tác nèu trong PAS 2060.
+13) Describe the actual types of GHG emissions, classification of emissions
+Refer to section 4
+(Scope 1, 2 or 3) and size of carbon footprint of the subject exclusive of
+any purchases of carbon offsets.
+Mô ta các loai phát thai KNK thyc té, phàn loai phát thai (Pham vi 1, 2
+hoǎc 3) và quy mò khí thai carbon cúa dói tuong khòng bao gòm bát ky
+khoán mua bù dáp carbon nào.
+a) All greenhouse gases shall be included and converted into tCO2e.
+Refer to section 4
+Tát cá các khí nhà kính phai dugc bao gòm và chuyěn aói thành tCO2e.
+b)
+100% Scope 1 (direct) emissions relevant to the subject shall be included
+Refer to section 3
+when determining the carbon footprint.
+100%_ phát thai Pham vi 1 (truc tiép) liēn quan dén dói tuong phai duoc
+bao gòm khi xác dinh luong khí thai carbon.
+c)
+100% Scope 2 (indirect) emissions relevant to the subject shall be
+Refer to section 3
+included when determining the carbon footprint.
+Luong khí thai carbon dugc dinh luong phai bao gòm ít nhát 95% luong
+khí thái tùr dói tuong.
+d)
+Where estimates of GHG emissions are used in the quantification of the
+Refer to section 3
+subject carbon footprint (particularly when associated with scope 3
+emissions) these shall be determined in a manner that precludes
+underestimation.
+Khi các wóc tính vè luong phát thai KNK dugc súr dung dě dinh luong
+luong khí thai carbon cúa dói tuong (dǎc biēt khi lièn quan dén phát thái
+pham vi 3), các uóc tính này sě duo'c xác dinh theo cách loai trù viec
+dánh giá tháp.
+e)
+Scope 1, 2 or 3 emission source estimated to be more that 1% of the
+Refer to section 3.
+total carbon footprint shall be taken into consideration unless evidence
+can be provided to demonstrate that such quantification would not be
+technically feasible or cost effective.
+Nguòn phát thai trong pham vi 1, 2 hoǎc 3 uóc tính lón hon 1% tóng
+luong khí thai carbon sě dugc xem xét trù khi có thè cung cáp bàng
+chúng dě chúng minh ràng viēc dinh luong nhu vày sē khōng kha thi vè
+mǎt ky thuàt hoǎc hiēu quá vè chi phí. (Các nguòn phát thai uóc tính
+chiém duói 1% có thě duoc loai trùr chi dya trèn co' só dó.)
+The quantified carbon footprint shall cover at least 95% of the emissions
+Refer to section 3
+from the subject.
+and 4
+Luong khí thái carbon dugc dinh luong phai bao gòm it nhát 95% luong
+khí thái tùr aói tuong.
+g)
+Where a single source contributes more than 50% of the total emissions,
+Refer to section 3
+the 95% threshold applies to the remaining sources of emissions.
+and 4
+Trong truò'ng hop mòt nguòn dóng góp hon 50% tóng luong phát thái,
+nguǒng 95% duoc áp dung cho các nguòn phát thai còn lai.
+h) Any exclusion and the reason for that exclusion shall be documented.
+Refer to section 3
+Mgi loai trùr và ly do loai trùr dó sē duoc ghi lai.
+
+QEs Checklist Requirements
+Response
+14) Where the subject is an organization/company or part thereof, ensure
+that
+Trong truòng hop dói tuong là tó chúrc / còng ty hoǎc mòt phàn cúa tó
+chúrc / còng ty, hǎy dam bao ràng:
+a)
+Boundaries are a true and fair representation of the organization's GHG
+Refer to section 3
+emissions (i.e., shall include all GHG emissions relating to core
+operations including subsidiaries owned and operated by the
+organization).
+Ranh giói là sy trinh bày trung thyc và còng bàng vè luong phát thái
+KNK cúa tó chúrc (nghīa là sē bao gòm tát cá các phát thai KNK liēn
+quan dén các hoat dōng cót löi bao gòm các còng ty con do tó chúrc só
+hüu và dièu hành).
+b)
+Either the equity share, or control approach has been used to define
+Refer to section 3
+which GHG emissions are included. Under the equity share approach,
+the entity accounts for GHG emissions from the subject according to its
+share of equity in the subject. Under the control approach, the entity shall
+account for 100% of the GHG emissions over which it has financial
+and/or operational control.
+Phuong pháp chia sé còng bàng hoǎc phuong pháp kiém soát dā dugc
+sir dung dě xác dinh loai phát thái KNK nào duoc bao gòm. Theo cách
+tiép càn chia sé vón chú so hǔru, don vi tính luong phát thai KNK tùr aói
+tuong theo ty trong vón chú so hǔu cúa dói tugng dó. Theo cách tiép
+càn kiēm soát, don vi phai giai quyét 100% luong phát thai KNK mà don
+vi có quyèn kiém soát tài chính và / hoǎc hoat dōng.
+15) ldentify if the subject is part of an organization or a specific site or
+Refer to section 3
+location and treat as a discrete operation with its own purpose, objectives
+and functionality.
+Xác dinh xem dói tuong có phai là mòt phàn cúa tó chúc hay mōt dia
+diém hoǎc vi trí cy thě hay khōng và coi dó là mòt hoat dōng ròi rac vói
+muc dich, myc tiēu và chúrc nǎng riēng.
+16) Where the subject is a product or service, include all Scope 3 emissions
+Subject is not a
+(as the lifecycle of the product/service needs to be taken into
+product or
+consideration).
+service.
+Trong truòng hop dói tuong là sán phám hoǎc dich vu, hay bao gòm tát
+cá các phát thai trong Pham vi 3 (vì vòng dòi cúa san phám / dich vy càn
+dugc xem xét).
+17) Describe the actual methods used to quantify GHG emissions (e.g. use
+Refer to section 4
+of primary or secondary data), the measurement unit(s) applied, the
+period of application and the size of the resulting carbon footprint.
+Mo ta các phuong pháp thyc té duoc súr dung dè dinh luong phát thái
+KNK (ví du: sú dung dür liēu so cáp hoǎc thúr cáp), (các) don vi do luòng
+dugc áp dung, thòi gian áp dyng và quy mò cúa lugng khí thai carbon
+thu duoc.
+18) Provide details of, and explanation for, the exclusion of any Scope 3
+Refer to sections 3
+emissions.
+Cung cáp thòng tin chi tiét và giai thích vè viēc loai trù bát ky phát thái
+nào thuòc pham vi 3.
+
+QEs Checklist Requirements
+Response
+19) Document all assumptions and calculations made in quantifying GHG
+Refer to sections 4
+emissions and in the selection or development of greenhouse gas
+emission factors.
+Ghi lai tát ca các gia dinh và tính toán duo'c thyc hiēn trong vièc dinh
+luong phát thai KNK và trong vièc lya chon hoǎc phát triēn các hè só
+phát thai khí nhà kính. (Các hè só phát thai duoc súr dyng phái phù hop
+vói hoat dōng liēn quan và hiēn tai tai thòi diém dinh luong)
+20) Document your assessments of uncertainty and variability associated
+Refer to sections 4
+with defining boundaries and quantifying GHG emissions including the
+positive tolerances adopted in association with emission estimates.
+Ghi lai các dánh giá cúa ban vè sy khòng chác chán và sy thay dói liēn
+quan dén vièc xác dinh ranh giói và dinh luong phát thai KNK bao gòm
+cá dung sai duong duoc thòng qua liēn quan dén uóc tính phát thai.
+21) Document carbon footprint management plan:
+Refer to section 5
+Làp hò so' ké hoach quan ly khí thai carbon:
+a)
+Make a statement of commitment to carbon neutrality for the defined
+Refer to sections 2
+subject.
+and 5
+Dua ra tuyèn bó cam két vè tính trung làp cúa carbon dói vói dói tuong
+duoc xác dinh.
+b)
+Set timescales for achieving carbon neutrality for the defined subject.
+Section 5
+Dǎt thang do thòi gian dé dat dugc carbon trung tính cho dói tuong dǎ
+xác dinh.
+c)
+Specify targets for GHG reduction for the defined subject appropriate to
+Section 5
+the timescale for achieving carbon neutrality including the baseline date,
+the first qualification date and the first application period.
+Chi dinh các myc tiēu giam thiéu KNK cho aói tuong da xác dinh phù
+hop vói khoáng thòi gian dě dat dugc trung hòa các bon bao gòm Ngày
+co só, ngày dú dièu kiēn dàu tiēn và thòi gian áp dung dàu tiēn.
+d)
+Document the planned means of achieving and maintaining GHG
+Section 5
+emissions reductions including assumptions made and any justification of
+the techniques and measures to be employed to reduce GHG emissions.
+Làp hò so các phuong tiēn dugc làp ké hoach dě dat dugc và duy tri
+viēc giám phát thai KNK bao gòm các giá dinh duoc dua ra yà bát ky sy
+biēn minh nào vè các ky thuàt và biēn pháp duoc áp dung dé giám phát
+thai KNK.
+e)
+Specify the offset strategy including an estimate of the quantity of GHG
+Section 5 and 6
+emissions to be offset, the nature of the offsets and the likely number and
+type of credits.
+Chi ro chién luoc bù dáp bao gòm uóc tính luong phát thai KNK càn bù
+dáp, bán chát cúa các khoán bù dáp， só luong và loai tín chi có thé xáy
+ra.
+22) Implement a process for undertaking periodic assessments of
+Section 1
+performance against the Plan and for implementing corrective action to
+ensure targets are achieved.
+Thyc hiēn mòt quá trinh dé thyc hiēn dánh giá dinh ky viēc thyc hiēn
+theo Ké hoach và thyc hiēn hành dāng khác phuc dé dam bao dat dugc
+các myc tiēu. Tàn suát dánh giá két quá hoat dōng so vói Ké hoach phái
+tuong xúrng vói khoáng thòi gian dè dat duoc trung hòa các bon.
+
+QEs Checklist Requirements
+Response
+23) Where the subject is a non-recurring event such as weddings or concert,
+Not applicable
+identify ways of reducing GHG emissions to the maximum extent
+commensurate with enabling the event to meet its intended objectives
+before the event takes place and include post event review to determine
+whether or not the expected minimization in emissions has been
+achieved.
+Trong truò'ng hop dói tuong là mòt sy kiēn khòng lǎp lai, cháng han nhu
+dám cuói hoǎc buói hòa nhac, hǎy xác dinh các cách giám phát thái
+KNK dén múc tói da tuong xúng vói vièc giúp sy kièn dat duoc các myc
+tièu dā dinh truóc khi sy kiēn diēn ra và bao gòm dánh giá sau sy kiēn
+aè xác dinh xem có hay khòng da dat duoc múc giám thiéu phát thai dy
+kién.
+24) For any reductions in the GHG emissions from the defined subject
+Not applicable
+delivered in the period immediately prior to the baseline date and not
+otherwise taken into account in any GHG emissions quantification
+(historic reductions), confirm:
+• the period from which these reductions are to be included;
+• that the required data is available and that calculations have been
+undertaken using the same methodology throughout;
+• that assessment of historic reduction has been made in accordance
+with this PAS, reporting the quantity of historic reductions claimed in
+parallel with the report of total reduction.
+Dói vói bát ky múc giám phát thai KNK nào tùr dói tuong xác dinh dugc
+thyc hiēn trong khoáng thòi gian ngay truó'c ngày co' só và khòng dugc
+tính dén trong bát ky dinh luong phát thái KNK nào (múc giam truóc
+dày), hãy xác nhàn:
+khoáng thòi gian mà các khoán cát giám này sě dugc tính vào;
+ràng dǔr liēu càn thiét có sǎn và các phép tính dā duoc thyc hiēn bàng
+cách súr dung cùng mòt phuong pháp;
+— ràng dánh giá vè múrc giám trong lich sú da dugc thyc hiēn theo PAs
+này, báo cáo só lugng giám trong lich sú dugc yèu càu song song vói
+báo cáo vè tóng múrc giám.
+25) Record the number of times that the declaration of commitment has been
+Not applicable
+renewed without declaration of achievement.
+Ghi só làn gia han ban còng bó cam két mà khòng càn còng bó thành
+tích.
+26) Specify the type of conformity assessment:
+Other party
+a) independent third party certification;
+validation
+b) other party validation;
+c) self-validation.
+Quy dinh loai dánh giá sy' phù hop:
+chúng nhàn cúa bēn thú ba dōc làp;
+thàm dinh cúa bēn khác;
+—tu thám dinh.
+27) Include statements of validation where declarations of commitment to
+Validated by BSI
+carbon neutrality are validated by a third party certifier or second party
+(other party)
+organizations
+
+QES Checklist Requirements
+Response
+Bao gòm các tuyèn bó thám dinh trong dó các còng bó cam két vè
+carbon trung tính dugc thám dinh bói nguòi chúng nhàn bèn thúr ba
+hoǎc các tò chúc cúa bēn thú hai.
+28) Date the QES and have it signed by the senior representative of the
+Section 2
+entity concerned (e.g. CEO of a corporation; Divisional Director, where
+the subject is a division of a larger entity; the Chairman of a town council
+or the head of the household for a family group).
+Ghi ngày QES và có chǔ ky cúa dai diēn cáp cao cúa tó chúc có liēn
+quan (ví dy: Giám dóc dièu hành cúa mgt còng ty; Giám dóc Bô phàn,
+noi dói tugng là mōt bò phàn cúa mòt tó chúc lón hon; Chú tich hāi dòng
+thi trán hoǎc chú ho gia dinh aói vói nhóm gia dinh).
+29) Make QES publicly available and provide a reference to any freely
+Final QES to be
+accessible information upon which substantiation depends (e.g. via
+made publicly
+websites).
+available via the
+Dua ra còng bó còng khai QEs và cung cáp tham chiéu dén bát ky thòng
+Vinamilk website
+tin nào có thē truy càp miěn phí mà dya trèn dó chúrng minh phy thuòc
+(ví du: qua các trang web).
+30) Update the QES to reflect changes and actions that could affect the
+Not Applicable
+validity of the declaration of commitment to carbon neutrality.
+Càp nhat QEs dě phán ánh nhǔng thay aói và hành dāng có thè ánh
+huong dén hieu lyc cúa tuyèn bó cam két vè carbon trung tính.
+Table B2. Checklist for QES supporting declaration of achivement to carbon neutrality
+Bang B2. Danh myc kièm tra cho QEs ho tro' còng bó dat duoc carbon trung tinh
+No. Checklist
+Response
+1
+Xác dinh viēc súr dung tiēu chuàn và phuong pháp luàn dě xác dinh múc
+Xem muc 2
+giám phát thái KNK cúa nó.
+2
+Xác nhàn ràng phuong pháp duoc sú dung da duoc áp dung phù hop
+Xem muc 2
+vói các quy dinh cúa nó và dáp úng các nguyèn tác nēu trong PAs 2060.
+3
+Cung cáp ly do cho vièc lua chon các phuong pháp luàn duoc lua chon
+aě dinh luong múc giam luong khí thái carbon, bao gòm tát cá các giá
+dinh và tính toán duoc thyc hiēn và moi dánh giá vè dō khòng dam báo.
+(Phuong pháp luàn duoc súr dung dě dinh luong múc giám phai gióng
+nhu phuong pháp duoc sú dung dè dinh luong luong khí thai carbon
+ban dàu. Néu có sǎn phuong pháp luàn thay thé dě giám dō khòng dám
+báo và mang lai két quá chính xác, nhát quán và có thē tái làp duoc thì
+phuong pháp này có thě duoc sú dung vói dièu kiēn là luong khí thái
+carbon ban dàu duoc dinh luong lai theo cùng mòt phuong pháp, cho
+muc dích so sánh. Luong khí thai carbon duoc tính toán lai sě súr dung
+các hē só phát thái có sãn gàn dày nhát, dam bao ràng cho muc dích so
+sánh vói tính toán ban dàu, bát ky thay dói nào trong các hē só đuoc sú
+dung dèu duoc tính đén).
+4
+Mo ta các phuong tién mà vièc cát giam dǎ dat duoc và moi giá dinh
+Xem muc 4
+hoǎc biēn minh có thè áp dung duoc.
+5
+Dàm bào ràng khòng có thay dòi nào dói vói dinh nghǐa cúa dói tuo'ng.
+Khòng thay dòi
+(Don vi phai dam báo ràng dinh nghǐa cúa dói tuong khòng thay dói qua
+
+tùrng giai doan cúa phuong pháp luàn. Trong truòng hop có sy thay dói
+quan trong dói vói dói tuong, trinh tu sě duoc bát dàu lai trèn co só aói
+tuong mói duo'c xác dinh.)
+6
+Mò ta múrc giam thyc té dat duoc vè cuòng do và tuyèt dói và theo phàn
+Xem muc 4
+trǎm cúa luong khí thai carbon ban dàu. (Các múrc giam phát thai KNK
+duoc dinh luong phai duoc biéu thi bàng các thuàt ngǔ tuyèt aói và phai
+liēn quan dén giai doan áp dung da chon và / hoǎc phai duoc bièu thi
+bàng các thuàt ngǔ cuòng dò phát thai (ví dy trèn mǒi don vi san phám
+hoǎc dich vu cu thě)).
+7
+Nèu Ngày co' bán / dú dièu kiēn.
+06/02/2023
+8
+Ghi lai ty lè phàn trǎm tǎng truòng kinh té trong khoang thòi gian áp
+Xem muc 4,5
+dung nhát dinh duoc sú dung làm nguǒng dě ghi nhàn các múc giam
+cuòng dō.
+9
+Dua ra lòi giai thich cho các truòng hop mà vièc giam GHG vè cuòng
+Khòng áp dung
+dò di kèm vói tǎng vè giá tri tuyèt dói cho dói tuong duo'c xác dinh.
+10
+Chon và làp thành tài lièu tiēu chuàn và phuong pháp luàn duoc sir dung
+Khòng áp dung
+dě dat duoc bù trùr cacbon.
+11
+Xác nhàn ràng:
+Khòng áp dung
+(Nhà máy khòng càn
+carbon offset program
+vì tòng phát thai KNK
+nǎm 2022 là só àm)
+a
+Các khoan bù dáp duoc tao ra hoǎc các khoan tín chi Han dinh cho phép
+duoc chuyèn giao thě hiēn múc giám phát thai KNK thuc su, bò sung ó
+noi khác.
+b
+Các dy án lièn quan dén vièc cung cáp bù dáp dáp úng các tiēu chí vè
+tính bò sung, tính làu dài, rò ri và tính dúp. (Xem Nghi dinh thu vè khí
+nhà kính cúa WRl dè biét các dinh nghǐa vè tính bò sung, tính làu dài, rò
+rí và tính hai làn).
+Sy bù dáp carbon duoc kièm dinh bòi mòt nguòi kièm dinh bēn thú ba
+C
+dòc làp.
+d
+Các tín chi tùr các du án bù dáp Carbon chi duoc cáp sau khi quá trinh
+giám phát thai da duoc thyc hiēn.
+Các tín chi tù các du án bù dáp Carbon sě duoc rút lai trong vòng 12
+e
+tháng kè tùr ngày còng bó dat đuoc thành tích.
+f
+Dièu khoan cho tùy chon liēn quan dén sy kièn trong 36 tháng sě duoc
+thèm vào dày.
+g
+Các tín chǐ tù các dy án bù dáp carbon duoc hǒ tro bói tài lièu du án
+còng khai trèn mòt co quan dǎng ky sě cung cáp thòng tin vè dy án bù
+aáp, phuong pháp dinh luong và các quy trinh thám dinh và kièm dinh.
+h
+Các tín chi tùr các dy án bù dáp Carbon duoc luu trǔ và gǒ bo trong mot
+co' quan dǎng ky dòc làp và dáng tin cày.
+12
+Ghi lai só luong tín chí phát thai KNK và loai và ban chát cúa các khoan
+Khòng áp dung
+tín dung da thyc sy mua bao gòm só luong và loai tín chi duoc súr dung
+(Nhà máy khòng càn
+và khoang thòi gian mà các tín chi dugc tao ra bao gòm:
+carbon offset program
+vì tòng phát thai KNK
+nǎm 2022 là só àm)
+a
+Luong phát thai KNK nào dä duoc bù dǎp.
+b
+Luong carbon bù dáp thyc té.
+C
+Loai tín chi và du án lièn quan.
+
+d
+só luong và loai tín chì carbon duoc súr dung và khoáng thòi gian mà
+tín chi da duoc tao ra.
+e
+Dói vói các su kiēn, càn tính dén co sǒ ly luàn dě hǒ tro' viēc rút lai các
+tín chi vuot quá 12 tháng, bao gòm ca chi tiét vè bát ky khoan tiét kiem
+phát thai ké thùra nào.
+f
+Thòng tin liēn quan dén viēc rút lai / húy bò các tín chí carbon dě ngǎn
+chǎn viēc súr dung chúng bói nhung nguòi khác, bao gòm mòt liēn két
+aén co' quan dǎng ky hoǎc hò so còng khai tuong duong, noi tín chi da
+bi loai bò.
+13
+Quy dinh loai dánh giá su phù hop:
+Chúng nhàn cúa bèn
+—
+chúng nhàn cúa bèn thú ba dòc
+thú ba dòc làp (BSI)
+làp;
+' tham dinh cúa bèn khác;
+—tu thàm dinh.
+14
+Bao gòm các tuyèn bó xác nhan trong dó các tuyèn bó dat duoc carbon
+Chúng nhàn cǔa bēn
+trung tính duoc thàm dinh bói nguòi chúrng nhàn bèn thúr ba hoǎc các
+thú ba dōc làp (BSI)
+tó chúc cúa bēn thú hai.
+15
+Ghi ngày QES và có chǔ ky cǔa dai diēn cáp cao cúa tò chúrc có liēn
+Xem muc 2
+quan (ví du: Giám dóc dièu hành cúa mòt còng ty; Giám dóc Bô phàn,
+noi aói tuo'ng là mōt bō phàn cúa mòt tó chúc lón hon; Chú tich hōi dòng
+thi trán hoǎc chú hò gia dinh dói vói nhóm gia dinh).
+16
+Dua ra Còng bó còng khai QES và cung cáp tham chiéu dén bát ky thòng
+QES sě duoc còng bó
+tin nào có thè truy càp miěn phí mà dua trèn dó chúng minh phy thuòc
+trèn trang web Vinamilk
+(ví du: qua các trang web).

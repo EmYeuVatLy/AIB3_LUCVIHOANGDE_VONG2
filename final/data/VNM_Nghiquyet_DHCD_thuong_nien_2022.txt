@@ -1,0 +1,1719 @@
+CoNG TY Co PHAN sUa VIET NAM
+CONG HOA XA HOI CHU NGHiA VIET NAM
+Doc làp – Tu do – Hanh phúc
+Só: 01/BBH-CTS.DHDCD/2022
+CONG TY CÓ
+PHAN SU'A
+VIET NAM
+BIEN BAN HOP
+Digitally signed by CONG TY CO PHAN
+SUAVIETNAM
+DN:
+OID.0.9.2342.19200300.100.1.1=MST:
+DAI HOI DoNG Co DONG THUòNG NIEN NAM 2022
+0300588569,CN=CONG TYCO PHAN
+SOA VIET NAM.L=TPHCM, C=VN
+Reason: I am the author of this document
+Location: your signing location here
+Date: 2022-04-27 15:10:16
+Foxit Reader Version: 9.7.0
+Ten doanh nghiep: CONG TY CÓ PHAN sUA VIET NAM (sau day goi la “Cong ty",
+"Vinamilk"hoǎc "VNM").
+Dia chi try so chính: Só 10 Tan Trào, Phuòng Tan Phú, Quàn 7, TP. Hò Chí Minh.
+Giáy chúng nhàn dǎng ky doanh nghiep só: 0300555569 do So Ké hoach và Dàu tu Tp. Hò Chí
+Minh cáp làn dàu ngày 20/11/2003.
+Thòi gian khai mac: 8 giò 30 phút, thú Ba ngày 26 tháng 04 nǎm 2022.
+Hinh thúrc tó chúc hop Dai hoi dòng cò dong ("DHDCD'"): Dai hoi truc tuyén.
+Dia diém tó chúrc hop DHDCD: Só 10 Tan Trào, Phuòng Tan Phú, Quàn 7, TP. Hò Chí Minh.
+Cuòc hop Dai hoi dòng có dòng thuòng nién nǎm 2022 cua Còng ty có phàn Süa Viet Nam dā dugc
+diěn ra vói các noi dung nhu sau:
+I. THANH PHAN THAM DU:
+Hgi aòng Quán tri ("HDQT"): Gòm các thành vièn sau dày:
+Bà Le Thi Bǎng Tam
+: Chù tich HDQT;
+Bà Mai Kièu Lien
+: Thành vien HDQT, Tóng Giám dóc;
+Ong Alain Xavier Cany
+: Thành vien HDQT;
+Ong Michael Chye Hin Fah
+: Thành vien HDQT;
+Bà Dǎng Thi Thu Hà
+: Thành vien HDQT;
+Ong Dö Le Hùng
+: Thành vien HDQT;
+Ong Le Thành Liem
+: Thành vien HDQT, Giám dóc Dièu hành Tai chính,
+kiem Ké Toán truong;
+Ong Lee Meng Tat
+: Thành vien HDQT – tham du hop truc tuyén;
+Ong Hoàng Ngoc Thach
+: Thành vien HDQT;
+Bà Tieu Yén Trinh
+: Thành vien HDQT.
+Ban Dièu hành: gòm các Giám dóc dièu hành ("GDDH'") cua Cong ty, cu thé:
+Ong Mai Hoài Anh
+: Giám dóc dièu hành Kinh doanh Noi dia và GDDH Kinh
+doanh Quóc té;
+Ong Trinh Quóc Düng
+: Giám dóc dièu hành Phát trién vùng nguyen lieu;
+Bà Büi Thi Huong
+: Giám dóc dièu hành Nhàn sy - Hành chính & Dói ngoai;
+Ong Nguyěn Quóc Khánh
+: Giám dóc dièu hành Nghien curu và Phát trién san phám;
+Ong Nguyěn Quang Trí
+: Giám dóc dièu hành Marketing;
+Ong Le Hoàng Minh
+: Giám dóc dièu hành San xuát.
+1
+
+Có aong: gòm các Có dòng/Nguòi dugc úy quyèn cua Có dòng tham dr hop theo danh sách dinh
+kèm Bien ban hop này.
+Kiém toán doc làp: Ong Hà Vǔ Dinh, dai dien cho don vi kiém toán doc làp cho nǎm tài chính
+2021 cua Cong ty (Cong ty TNHH KPMG).
+DIEN TIEN DAI HOI
+A.
+THU TUC KHAI MAC CUOC HOP DHDCD:
+1.
+Tuyen bó ly do
+Ong Dòng Quang Trung – thay mǎt Ban tó chúc DHDCD tuyèn bó ly do, giói thieu dai biéu tham
+dur hop DHDCD.
+2.
+Báo cáo két quá kiěm tra tr cách cǒ dong tham dur hop
+Ong Diep Hòng Khon - thay mǎt Ban tó chúc DHDCD cong bó ty le có dòng tham du dai hoi vói
+két quá nhu sau:
+- Tinh dén thòi diém khai mac dai hoi lúc 8 giò 30 phút ngày 26/04/2022, tòng só dai biéu tham
+du dai hoi là 4.491 dai biéu, dai dien cho 1.699.871.955 có phàn, chiém 81,34% tren tóng só có
+phàn có quyèn biéu quyét cua Còng ty (2.089.955.445 có phàn). Danh sách Cö dòng/Nguòi
+duoc úy quyèn cua Cǒ dòng tham dur hop duoc dinh kèm Bièn ban hop này.
+- Cǎn cúr theo quy dinh tai Khoan 1 Dièu 16 Dièu le hien hành cua Cong ty: vói ty le tham dy
+hop là 81,34% tóng só có phàn có quyèn biéu quyét cua Còng ty, Cuòc hop DHDCD thuòng
+nièn nǎm 2022 cua Còng ty dā hop pháp, hop lè và duoc phép tién hành.
+3.
+Thành phàn Chú toa doàn
+Ong Dòng Quang Trung giói thieu Bà Le Thi Bǎng Tam — Chù tich Hoi dòng quan tri làm Chù
+toa Cuòc hop ("Chǔ toa'"); và các thành vièn khác tham gia Chú toa doàn gòm:
+- Bà Mai Kièu Lien
+: Thành vien HDQT kiem Tòng Giám dóc;
+- Ong Alain Xavier Cany
+: Thành vien HDQT.
+- Bà Dǎng Thi Thu Hà
+: Thành vien HDQT;
+- Ong Dö Le Hùng
+: Thành vien HDQT;
+- Ong Michael Chye Hin Fah
+: Thành vien HDQT.
+4.
+Thu ky cuoc hop DHDCD
+Bà Le Thi Bǎng Tam – Chú tich HDQT — Chú toa cuòc hop giói thieu Bà Le Quang Thanh
+Trúc làm Thu ky cua cuòc hop DHDCD thuòng nièn nǎm 2022.
+5.
+Thòng qua thành phàn Ban kièm phiéu và Chuong trinh nghi sy
+Bà Le Thi Bǎng Tam – Chú tich HDQT, Chú toa cuoc hop, dè nghi thành phàn Ban kiém phiéu
+và thòng báo chuong trinh nghi su cua cuòc hop DHDCD thuòng nièn nǎm 2022.
+Thành phàn Ban kiém phiéu gòm:
+1.
+Ong Diep Hòng Khon - Trrong bo phàn Pháp ly vè Hoat dong;
+2.
+Bà Ta Hanh Lien - Giám dóc Kiém toán Noi bo;
+3.
+Bà Tràn Thái Thoai Tran – Giám dóc Kiém soát Noi bo và Quan ly Rui ro.
+Chuong trinh nghi su cúa Cuoc hop DHDCD thuò'ng nièn nǎm 2022 gòm các ván tè sau:
+1.
+Báo cáo tài chính nǎm 2021 duoc kiém toán;
+2.
+Báo cáo cúa HDQT nǎm 2021;
+2
+
+3.
+Múrc chi trá có túrc cho nǎm tài chính 2021;
+4.
+Dinh huóng chién luoc giai doan 2022 – 2026;
+5.
+Ké hoach doanh thu — loi nhuàn nǎm 2022 (hop nhát);
+6.
+Ké hoach phàn phói loi nhuàn (có túc) nǎm tài chính 2022;
+7.
+Lua chon don vi kiém toán dòc làp cho nǎm tài chính 2022;
+8.
+Tóng thù lao và các lgi ích khác cúa HDQT trong nǎm 2022;
+9.
+Bó sung, dièu chinh ngành, nghè kinh doanh cua Còng ty;
+10.
+Sura dói Dièu le cúa Còng ty;
+11. Sura dói Quy ché Noi bo vè Quán tri Còng ty;
+12. Bàu thành vien HDQT nhiem ky mói 2022-2026.
+Sau khi Bà Le Thi Bǎng Tam dè nghi thành phàn Ban kiém phiéu và giói thieu chuong trinh nghi
+su, Ong Dòng Quang Trung da huóng dǎn dai hoi thyc hien biéu quyét dé thòng qua: (1) Thành
+phàn Ban Kiěm phiéu; và (2) Chuong trinh nghi su vói két quá biéu quyét nhu sau:
+Tán thành
+Khòng tán thành
+Khòng có y kién
+STT
+Noi dung
+Tóng só
+Ty le
+Tóng só
+Ty lé
+Tòng só
+Ty le
+phiéu
+phiéu
+(%)
+phiéu
+(%)
+(%)
+1
+Thành phàn Ban Kiém phiéu
+1.698.397.521
+100,00%
+4.600
+0,00%
+12.300
+0,00%
+2
+Chuong trinh nghi su
+1.698.408.721
+100,00%
+4.600
+0,00%
+1.100
+0,00%
+Vói két quá biéu quyét nhu trèn, thành phàn Ban kiém phiéu và Chuong trinh nghi su cua cuòc
+hop DHDCD thuòng nièn nǎm 2022 cúa Còng ty da duoc thòng qua.
+B.
+CAC NOI DUNG TRiNH DHDCD PHE CHUAN
+1.
+Bà Le Thi Bǎng Tam – Chú tich HDQT trinh bày Báo cáo tài chính nǎm 2021 da duoc kiém toán: Noi
+dung chi tiét duoc trinh bày trong Báo cáo Thuòng nièn nǎm 2021 da dǎng tái trèn website cua Cong ty.
+2.
+Các Thành vién HDQT trinh bày Báo cáo cúa HDQT nǎm 2021: Noi dung chi tiét duoc néu dày dú tai
+Báo cáo Thuòng nièn nǎm 2021 và Báo cáo quán tri Còng ty nǎm 2021 dā duoc dǎng tai trèn website
+cua Cong ty. Trong dó:
+a) Bà Le Thi Bǎng Tâm – Chú tich HDQT trinh bày các noi dung chinh cúa Báo cáo hoat dong
+cüa HDQT nǎm 2021.
+b)
+Ong Dö Le Hùng – Thành vièn HDQT, Chù tich Uy Ban Kiém toán trinh bày các noi dung
+chính cia Báo cáo cüa Uy Ban kiém toán nǎm 2021.
+c) Bà Mai Kièu Lien – Thành vien HDQT kiem Tóng Giám dóc trinh bày các noi dung chính
+cia Báo cáo tinh hinh hoat dōng sǎn xuát, kinh doanh 2021 cüa Còng ty.
+3.
+Bà Mai Kièu Lien — Thành vien HDQT kiem Tòng Giám dóc trinh bày tiép hai (O2) noi dung sau:
+a) Dinh huóng chién luoc giai doan 2022 – 2026;
+b) Ké hoach doanh thu - loi nhuàn nǎm 2022 (hop nhát);
+4.
+Bà Dǎng Thi Thu Hà – Thành vien HDQT trinh bày ba (O3) noi dung sau:
+a) Miúrc chi trá có túrc cho nǎm tài chính 2021;
+b) Ké hoach phàn phói loi nhuàn (có túc) cho nǎm tài chính 2022;
+3
+
+c) Tóng thù lao và các loi ích khác cúa HDQT nǎm 2022.
+5.
+Dö Le Hùng – Thành vien HDQT, Chú tich Uy ban Kiém toán trinh bày bón (O4) noi dung sau:
+a) Lua chon don vi kiém toán dòc làp cho nǎm tài chính 2022;
+b) Bó sung, dièu chinh ngành nghè kinh doanh cua Còng ty;
+c) Sura dói Dièu lè Còng ty;
+d) Sura dói Quy ché noi bo vè quán tri còng ty.
+Trong dó, dói vói noi dung bó sung, dièu chinh ngành nghè kinh doanh cúa Còng ty: chi tiét nhu
+duoc neu tai Phy luc 1 dinh kèm Bièn ban hop này.
+Dói vói viec sura dói Dièu lè còng ty: Chi tiét vè các noi dung dugc sura dói trong Dièu lè và dyr
+thao Dièu le mói (dā càp nhàt các noi dung duoc sura dòi) duoc nèu trong tài lieu hop DHDCD
+duoc dǎng tai trèn website cúa Cong ty (https://www.vinamilk.com.vn/vi/dai-hoi-dong-co-dong),
+trong dó bao gòm nòi dung lièn quan dén vièc dièu chinh, bò sung ngành nghè kinh doanh cúa
+Cong ty (Danh sách ngành, nghè kinh doanh sau khi dièu chinh duoc quy dinh chi tiét tai Muc 3,
+Phy luc 1 dính kèm Bien ban hop này).
+6.
+Bà Le Thi Bǎng Tam — Chú tich HDQT trinh bày noi dung vè viec bàu thành vien HDQT nhiem
+ky mói (2022-2026) và giói thieu danh sách 10 úrng vièn.
+Theo Dièu le Cong ty, HDQT sě duy tri só luong là 11 thành vien trong nhiem ky. Vói su dè cur
+tù các Có dong và tù su xem xét, giói thieu tùr HDQT, cho nǎm tài chính 2022, HDQT trinh
+DHDCD danh sách truóc mát 10 úng vièn, trong dó có 3 úrng vièn doc lâp, dé DHDCD bàu vào
+HDQT. Co cáu và só luong này dam bao các yèu càu vè quy dinh cua luàt và quán tri Còng ty.
+Trong tuong lai, khi tim kiém và lua chon duoc úrng vièn phù hop, HDQT sě giói thieu bó sung
+dén DHDCD.
+Chi tiét các ván dè trinh DHDCD phe duyet: nhu da duoc néu dày dú tai tài lieu hop DHDCD thuòng nièn
+nǎm 2022.
+C.T
+THAO LUAN:
+Bà Le Thi Bǎng Tam – Chú tich HDQT, chù toa Dai hoi dièu khién Dai hoi tién hành thao luàn.
+Có dòng dǎt càu hoi hoǎc guri càu hoi thòng qua úng dung dàm thoai, nhán tin tryc tuyén dành
+rièng cho chuong trinh. Tóng còng dā có 15 càu hói/ góp y / nòi dung duoc thao luàn và tra lòi tai
+Dai hoi. Sau dày là trích dǎn mòt só nòi dung chính duoc thao luàn:
+4
+
+STT
+Càu hǒi
+Trá lòi
+1.
+Có dòng Vü Dúrc Nam:
+Bà Mai Kièu Lien:
+i.
+Ty le sur dung süra tai Viet Nam theo chi tieu
+Viet Nam khòng có thói quen dùng süra. Tùr truóc dén nay Viet Nam nhàp kháu süa,
+khói luong trèn dàu nguòi tháp hon nhièu so
+khòng có ngành chǎn nuòi bò süa và ché bién süa cho dén sau giai phóng.
+vói khu vuc. Là doanh nghiep dǎn dàu, thi
+Trong vòng 12 nǎm qua, nhò su nǒ lrc cúa các doanh nghièp trong ngành süa mà
+phàn só 1 trong ngành, Vinamilk ly giai dièu
+VNM dang dǎn dàu, múc tieu thy binh quàn dàu nguòi/nǎm ó Vièt Nam tǎng lèn
+này nhu thé nào? Vinamilk có chién luoc gì
+rát án trong, tù 10 kg vào 2010 1èn dén 25 kg vào 2021 – tǎng ~ 2.5 1àn.
+dě kích thích nhu càu súr dung sura cúa VN
+Là doanh nghiep chiém thi phàn só 1 ngành süa, Vinamilk có sír menh gia tǎng chi
+trong các nǎm tói? Muc tieu doanh thu các san
+só này o Viet Nam dě góp phàn cái thien tàm vóc cúa nguòi Viet. Chúng tòi da,
+phám sra tai thi truòng noi dia tói nǎm 2025
+dang và sě tiép tuc nǒ luc khǎng dinh loi ích và tàm quan trong cúa süra dói vói súrc
+sě dat bao nhieu?
+khoé và su phát trién cua các thé he nguòi Viet thòng qua vièc cung cáp các giái
+ii.
+Tóng san luong süra organic tói nǎm 2022 cúa
+pháp dinh duǒng chát luong chuàn quóc té phù hop vói thé trang nguòi Vièt. Các
+Vinamilk hien là bao nhieu? Muc tieu tói nǎm
+chuong trinh truyèn thòng sě mang thòng diep áy dén vói NTD mòt cách án tuong.
+2025 san luong loai süa này là bao nhieu?
+Chúng tòi cǔng dang dáy manh chuong trinh sua hoc duòng huóng dén muc tièu
+Bièn lgi nhuàn máng sta này có cáo/tháp hon
+moi tré em Viet Nam dèu duoc uóng süra. Nhüng nǒ luc áy sě giúp gia tǎng hon
+so vói các dòng sra dang kinh doanh hien tai?
+nüa múrc tieu thy süra ó Viet Nam, dàn dàn tièm càn vói các nuóc trong khu vurc.
+iii.
+Vira ròi Vinamilk dua ra mot loat các san
+Theo dr báo cua chúng toi, dén nǎm 2026, tóng doanh thu ngành stra ó Viet Nam
+phám cao nhu Tó yén, Keko tao nàu, các dòng
+vào khoáng 136 ngàn ty dòng, Vinamilk vào khoáng 86 nghin ty dòng.
+sura chua Love yogurt...Vinamilk dánh giá
+Organic: Mot só ván dè là bí mat kinh doanh, xin phép khòng còng bó. Tuy nhien,
+nhu thé nào vè súc canh tranh và khá nǎng
+chúng toi xin càp nhàt quy cǒ dong, tùr khi dua ra thi truòng vào 2019, dòng san
+háp thy cua thi truòng vói các dòng san phám
+phám sra Organic cúa VNM dā duoc NTD dón nhàn và dén nay dā có mòt bo phàn
+mói này
+dáng kě NTD trung thành gán bó vói các san phám này cúa chúng tòi. Chúng tòi
+biét ràng, dày là các san phám kén nguòi mua, càn phai có thòi gian dé chuyén bién
+nhàn thúrc và hành vi tièu dùng. Khi kinh té phát trién, dièu kièn thi truòng chín
+muòi, tiéu dùng các san phám organic là mòt xu thé tát yéu, nhu da chúrng kién ó
+các nuóc phát trién. Nhüng nǒ luc hien tai cua VNM dói vói các dòng sp organic là
+buóc chuán bi cho tuong lai.
+Các san phám cao cáp cua Vinamilk dā có mǎt tùr 2020 – 2021 và có xu huóng tǎng
+truróng bèn vǔng, chúng tòi tin ràng các san phám này sě tiép tuc tǎng truóng và
+nàng dàn ty le dóng góp trong doanh thu VNM.
+5
+
+STT
+Càu hǒi
+Trá lòi
+2.
+Có dong Tràn Thái Duong:
+Bà Mai Kièu Lien:
+Nhièu nhà dàu tu cho ràng thi truòng stra Viet Nam
+Ngành sua Viet Nam chua bao hòa, tiéu thy binh quàn cúa Viet Nam vǎn còn rát
+dā bāo hòa dǎn dén tièm nǎng tǎng truòng cúa
+tháp.
+Vinamilk sě khòng còn manh. Ban dièu hành nhin
+Các yéu tó cót löi cho ngành süa phát trién: GDP tǎng truòng dān dén súr dung
+nhàn thé nào vè nhàn dinh nèu trèn yà dinh huóng dé
+ngành süa tǎng. Binh quàn mǒi nǎm hon 1 trieu tré em ra dòi. Dàn só tǎng trrong.
+tao ra dong luc tǎng truòng cho Vinamilk trong thòi
+Vi vày dur kién ngành sira sě tǎng lèn 136.000 ty dòng vào 2026. VNM du kién tǎng
+gian tói là gi?
+trróng theo GDP là khoáng 7%, dat vào khoáng 86 nghin ty dòng vào nǎm 2026
+3.
+Có dong Nguyěn Tién Trung:
+Bà Mai Kièu Lien
+Doanh thu xuát khàu các nǎm gàn dày là bao nhièu?
+Du kién doanh thu xuát khàu nǎm 2022 tǎng 5-10% tùy thi truòng, giá nguyèn vàt lieu rát
+Ké hoach doanh thu xuát khàu nǎm 2022 là bao
+cao hièn tai cǔng gày khó khǎn nhung VNM sě nǒ luc hét muc.
+nhièu?
+4.
+Có dong Le Vǎn Duong:
+Bà Mai Kièu Lien
+Giá có phiéu hièn khòng tuong xúng vói súrc tǎng
+HDQT khòng có du dinh mua có phiéu quy dě círu giá. Quan trong là hoat dòng
+truóng và phát trièn cua Còng ty. Xin hoi Cong ty có
+kinh doanh tǎng truóng bèn vung. Giá có phiéu có thě lèn xuóng theo thi trròng.
+chù truong mua có phiéu quy dé cúru giá có phiéu
+khòng?
+5.
+Dǎng Thi Thanh Phuong:
+Bà Mai Kièu Lien:
+Toi hi vong làn sau Vinamilk nèn suy nghǐ chon tèn
+Xin cam on góp y cúa có dòng
+dǎt tèn cho các san phám cua minh mòt chút. Ví dy:
+tòi doc dén san phám sua dàu nành óc chó là tòi
+khòng dám mua cho cháu uóng.
+Toi cǔng hi vong Vinamilk có thé có gói giao tàn
+nhà cho các san phám cúa Vinamilk luòn dě có thě
+canh tranh vói các hǎng süa khác nhu Ensure .. khi
+mua san phàm có giá tri mòt khoan bao nhièu dó.
+6.
+Xin còng ty chia se trién vong tǎng truóng ngành süra
+Bà Mai Kièu Lien
+Viet Nam hàu Covid? Các dòng luc tǎng truóng dén
+Tǎng truóng sia hàu Covid: vra trinh bày
+6
+
+STT
+Càu hói
+Trá lòi
+tùr dau?
+VNM: kièn trì 45 nǎm qua dam bao dinh duong cho moi dói turong, moi thành
+phàn, chát luong quóc té vói giá canh tranh
+7.
+Chia sě các chién luoc chính cúa còng ty vè san
+Bà Mai Kièu Lien:
+phám, kènh phàn phói dé duy trì tǎng truóng?
+Ngoài dam bao dinh duōng, VNM cǔng sě tàp trung vào san phám cao cáp. Khi xa
+hòi phát trién thì sě có nhu càu vè nhüng sán phám dòc dáo, cao cáp.
+Tap trung phát trién moi kènh phàn phói: kènh truyèn thóng vói 250 ngàn diém le,
+kènh hièn dai (sièu thi và cura hàng), thuong mai dien tr.
+Trong mùa dich vùra ròi, kenh hien dai phát trién manh hon kenh truyèn thóng.
+Thuong mai dien tùr (TMDT) thòi gian qua tǎng truong gáp ba (O3) làn, mǎc dù ty
+lè dóng góp còn tháp nhung tǎng truóng rát án tuong. Trong thòi gian sáp tói VNM
+sē có chién luoc dě tǎng truóng manh TMDT, hoc tàp các còng ty lón nhu Amazon,
+Alibaba.
+Xu huóng hien tai kenh phàn phói chuyén tù kenh truyèn thóng sang hien dai, nèn
+VNM sě tàp trung phát trién theo xu huóng này.
+8.
+Vi sao ngành süa Viet Nam lai bi anh huóng nǎng
+Bà Mai Kièu Lien:
+do Covid trong khi süra duoc xem là san phám thiét
+Süa là sán phám dinh drōng, nhung nǎm 2021 theo thóng ké hon 1 trieu nguòi mát viec
+yéu?
+làm, thu nhàp giam, nguòi tièu dùng uu tièn cho "no" truóc "dinh duǒng".
+Ngoài ra, nǎm 2021 VNM cüng tàp trung rát lón dé dòng hành cùng Chính phú trong viec
+phòng chóng dich. VNM gàn nhu khòng tǎng giá trong 2021 dù giá nguyèn vàt lièu tǎng
+cao.
+9.
+Còng ty có ké hoach gi dě nám bát co hoi kènh hien
+Bà Mai Kièu Lien:
+dai khi tàp khách hàng dén kènh này ngành càng
+Bièn loi nhuàn khòng bi anh huróng khi phát trièn kènh hien dai
+tǎng? Lieu sy phát trién cúa kenh hien dai có làm
+Bièn loi nhuàn cua các Cura hàng Giác mo Süa Viet ("GMSV") sě duoc cai thien trong
+giám bien loi nhuàn cua còng ty?
+nhüng nǎm tói.
+10.
+Ké hoach M&A trong 5 nǎm tói tàp trung vào thi
+Bà Mai Kièu Lien:
+7
+
+STT
+Cau hói
+Trá lòi
+truòng nào và ngành nghè nào?
+Tàp trung vào ngành tièu dùng nhanh, (lièn quan súrc khòe, dinh duǒng moi thé hè cua Vièt
+Nam)
+11.
+Ké hoach tǎng giá bán trong nǎm nay dé báo vè bièn
+Bà Mai Kièu Lien:
+loi nhuàn
+VNM da tǎng giá bán cho nǎm 2022
+12.
+Hièn còng ty dā chót giá bòt süa dén tháng máy
+Bà Mai Kièu Lien:
+VNM dā chót giá bòt süra dén tháng 8
+13.
+Ké hoach niem yét VNM ra nuóc ngoài
+Bà Le Thi Bǎng Tam
+Cách dày vài nǎm VNM có nghièn cúru viec niem yét ra thi truòng nuóc ngoài, nhung dày
+khòng phai là vièc don gian. Hien tai, VNM chua có ké hoach niem yét ra nuóc ngoài do
+dièu kien thi truròng chua thuàn loi.
+Trong tuong lai dày cǔng là 1 huóng dé xem xét.
+14.
+Có dòng Quang Dúrc Huy
+Chù toa:
+Muón góp y tróng vè chién luoc xàm nhàp thi
+Xin cám on góp y cúa Quy Có dòng.
+truòng cafe: xu huóng mòi tiec trà stra tai còng
+ty là rát thuòng xuyèn. Vinamilk có sǎn app + hè
+thóng cura hàng + shipper, néu có thě mua só hüu
+mòt thuong hieu cafe/trà süa manh thi minh tin
+là Vinamilk sě thành còng.
+15.
+Có dong Quang Dúrc Huy:
+Bà Mai Kieu Lien
+VNM là 1 còng ty có hé thóng quán ly òn, hè
+Nhàn su cua VNM khoáng 6.000 nguòi/doanh só gàn 3 ty do. Ty le luong/doanh thu
+thóng nhà phàn phói, dói tác khách hàng lón,
+rát tháp. Các nhà máy cua VNM dèu tur dong hóa nèn nhàn su it.
+nhung dang mang trèn minh mòt luc luong con
+Ván dè khòng phai là só luong mà là khà nǎng dáp úng cua nhàn su trong thòi ky mói.
+nguòi mang tu duy cǔ ky, thiéu dòng luc so vói
+dói thú, nó có phai là gánh nǎng vói su phát trién
+Vi vày, chién luoc 5 nǎm dā nèu rǒ làm sao VNM là noi thu hút nhàn tài.
+cúa còng ty. Bà Mai Kièu Lièn có nhàn dinh nhu
+Quáng cáo, marketing: két hop nhièu hinh thic, sě áp dung cà kiéu cǔ (tivi) lǎn kiéu
+thé nào vói dánh giá trèn?
+mói (digital marketing), láy khách hàng làm trong tàm, phát trién manh theo quy trinh
+vè ván dè quang cáo marketing, trong nǎm vùra
+chuán cua thé giói hō tro cho hoat dòng bán hàng nǎm (05) nǎm tói.
+ròi còng ty dā cát giám rát nhièu, phai chǎng nó
+8
+
+STT
+Cau hòi
+Trá lòi
+cho tháy su kém hieu quá. Bà Mai Kièu Lièn có
+dánh giá nhu thé nào vè sy kém hièu quá nhu tu
+duy quáng cáo cǔ ky khòng theo trend, dǎn tói
+vièc chay theo duoi dói thú.
+D.
+CoNG BÓ KET QuA BIÉu QUYÉT VÅ BÅU CU
+Drói sur huóng dân cua Ong Dòng Quang Trung, DHDCD da tién hành biéu quyét dé thòng qua các noi dung trong Chuong trinh nghi sr và bàu cu
+dé bàu thành vien HDQT nhiem ky mói (2022-2026).
+Sau khi tién hành kiém phiéu, Ong Diep Hòng Khon — Trróng Ban kiém phiéu thay mǎt Ban Kiém phiéu còng bó két quá kiém phiéu biéu quyét và
+bàu cur nhu sau:
+1.
+Két quá kiěm phiéu biěu quyét:
+- Nguyèn tác chung: Mōi có phàn phó thòng có mòt (o1) phiéu biéu quyét;
+- Phuong thuc biéu quyét: biéu quyét dien tur (e-Voting);
+- Tóng só Cò dong tham du và biéu quyét tai Dai hoi là 4.574 có dong, dai dien cho 1.707.105.206 có phàn có quyèn biéu quyét.
+Tóng só
+Tán thành
+Khòng tán thành
+Khòng có y kién
+Tóng só phiéu
+Tōng só phiéu
+phiéu
+STT
+Noi dung
+biéu quyét aói
+Ty le
+Tóng só
+Ty le
+Tòng só
+Ty le
+hop lè
+khòng
+Tóng só phiéu
+vói tùrng ván dè
+(%)
+phiéu
+(%)
+phiéu
+hop lè
+(%)
+Báo cáo tài chính nǎm 2021 dugc
+0
+1.707.087.239
+100,00%
+6.200
+kièm toán
+0,00 %
+11.767
+1
+1.707.105.206
+1.707.105.206
+0,00 %
+Báo cáo cúa Hoi dòng quán tri
+2
+1.707.084.739
+100,00%
+10.800
+0,00 %
+9.667
+1.707.105.206
+1.707.105.206
+0
+0,00 %
+nǎm 2021
+Múrc chi trǎ cǒ túc cho nǎm tài
+3
+1.707.033.374
+100,00%
+46.300
+0,00 %
+25.532
+1.707.105.206
+1.707.105.206
+0
+0,00%
+chính 2021
+Dinh huóng chién
+luroc
+4
+kinh
+1.707.105.206
+1.707.042.535
+100,00%
+1.707.105.206
+19.804
+0,00 %
+42.867
+0
+0,00 %
+doanh nǎm 2022 -2026
+Ké hoach doanh thu, loi nhuàn
+5
+1.703.257.602
+99,77 %
+169.604
+0,01 %
+3.678.000
+0,22 %
+nǎm 2022 (hop nhát)
+1.707.105.206
+1.707.105.206
+0
+9
+
+Tòng só
+Tán thành
+Khòng tán thành
+Khòng có y kién
+Tông só phiéu
+Tóng só phiéu
+phiéu
+STT
+Noi dung
+biéu quyét dói
+Ty lé
+Tòng só
+Ty le
+Tóng só
+Ty le
+hop lè
+khòng
+Tóng só phiéu
+vói tùrng ván dè
+hop lè
+(%)
+phiéu
+(%)
+phiéu
+(%)
+Ké hoach phàn phói loi nhuàn (có
+6
+0
+1.707.012.474
+99,995%
+53.300
+0,003 %
+39.432
+0,002 %
+túrc) nǎm tài chính 2022
+1.707.105.206
+1.707.105.206
+Lya chon don vi kiěm toán dāc
+7
+1.685.409.299
+98,73%
+17.959.514
+1,05%
+3.736.393
+0,22%
+làp cho nǎm tài chính 2022
+1.707.105.206
+1.707.105.206
+0
+Thù lao và các loi ích khác cǎa
+8
+Hoi
+dòng
+quan tri
+trong
+1.707.030.572
+100,00%
+nǎm
+1.707.105.206
+13.802
+0,00%
+60.832
+1.707.105.206
+0
+0,00 %
+2022
+Bǒ sung, dièu chinh ngành nghè
+9
+1.707.088.939
+100,00%
+10.600
+5.667
+kinh doanh cúa Cong ty
+1.707.105.206
+1.707.105.206
+0
+0,00 %
+0,00 %
+10
+Süra dǒi Dièu le cǔa Còng ty
+1.707.105.206
+1.706.772.439
+99,98%
+10.600
+1.707.105.206
+0
+0,00%
+322.167
+0,02 %
+Süra dói Quy ché Noi bo vè Quan
+11
+1.706.776.439
+99,98%
+10.600
+0,00 %
+318.167
+0,02 %
+tri Cong ty
+1.707.105.206
+1.707.105.206
+0
+10
+
+Vói két qua biéu quyét nèu trèn, cǎn cúr theo quy dinh tai Khoan 1 và Khoan 2 Dièu 18 Dièu le
+Còng ty, các noi dung sau day da duoc DHDCD thuòng nièn nǎm 2022 thòng qua:
+STT
+Noi dung da duoc thòng qua
+Ty lè thòng qua
+1
+Báo cáo tài chính nǎm 2021 duoc kiém toán
+100,00 %
+2
+Báo cáo cúa HDQT nǎm 2021
+100,00 %
+3
+Múc có túrc cho nǎm tài chính 2021
+100,00 %
+4
+Dinh huóng chién luoc giai doan 2022 - 2026
+100,00 %
+5
+Ké hoach doanh thu – loi nhuàn (hop nhát) nǎm 2022
+99,77 %
+6
+Ké hoach phàn phói lgi nhuàn (có trc) nǎm tài chính 2022
+99,995 %
+7
+Lya chon don vi kiém toán doc làp
+98,73 %
+8
+Tǒng thù lao và các loi ich khác cúa HDQT nǎm 2022
+100,00 %
+Bò sung, dièu chinh ngành nghè kinh doanh cúa Cong ty
+9
+100,00 %
+Sura doi Dièu le Cong ty
+10
+99,98 %
+11
+Sura dói Quy ché Noi bo vè Quan tri Cong ty
+99,98 %
+2.
+Két quá kiěm phiéu bàu cir thành vièn HDQT:
+Có tát ca 10 úrng vién duoc Có dòng dè cur và duoc HDQT giói thieu vào 10 vi trí thành vién Hoi
+dòng Quan tri nhiem ky mói 2022 - 2026.
+DHDCD da tién hành bàu dòn phiéu dě chon 10 úrng vien này làm thành vièn HDQT nhiem ky
+mói 2022 – 2026. Theo Quy ché Noi bo vè Quán tri Cong ty và Quy ché tó chúrc DHDCD thuòng
+nièn nǎm 2022 cua Còng ty, úrng vièn trúng cur thành vien HDQT phai có it nhát mòt (01) phiéu
+bàu.
+Theo dó, 10 / 10 úrng vien dā duoc bàu làm thành vien HDQT nhiem ky 2022 – 2026 vói danh
+sách nhu sau:
+1.
+Ong Alain Xavier Cany
+2.
+Bà Dǎng Thi Thu Hà
+3
+Ong Dö Le Hùng
+4
+Ong Hoàng Ngoc Thach
+5
+Ong Le Thành Liem
+6.
+Ong Lee Meng Tat
+7.
+Bà Mai Kièu Lien
+8.
+Ong Michael Chye Hin Fah
+9.
+Ong Nguyěn Hanh Phúc
+10. Bà Tieu Yén Trinh
+III. BE MAC DAI HOI
+Bà Le Quang Thanh Trúc - Thu ky Dai hoi, trinh bày noi dung Bien ban hop DHDCD và tó
+chúrc láy y kién cúa có dòng dě thòng qua nòi dung Bièn ban hop.
+Vói ty le biéu quyét tán thành là 99,99%, Bien ban hop DHDCD thuòng nièn nǎm 2022 cua Còng
+ty Có phàn Süa Viet Nam dā duoc thòng qua.
+Cuòc hop DHDCD thuòng nièn nǎm 2022 cua Còng ty Có phàn Süa Viet Nam két thúc vào lúc
+11 giò 30 phút cùng ngày.
+11
+
+TM. DAI HOI DoNG Co DoNG THUONG NIEN NAM 2022
+Chú toa
+CONGTY
+Bà LE THI BANG TAm
+CO PHAN
+SUA
+VIETNAM
+7.PHO
+CHIMINK
+Thu ky
+C
+Bà LE QUaNG THaNH TRUC
+12
+
+PHU LUC 1
+sua DoI, Bo suNG NGANH, NGHE KINH DoANH Cua CONG TY
+1. Dǎng ky mói ngành, nghè kinh doanh sau:
+STT
+Mā ngành
+Tèn ngành nghè và mò tǎ chi tiét
+Bán buòn tòng hop
+Chi tiét: Thuc hièn quyèn xuát kháu, nhàp kháu, phán phói bán buón (khōng
+thành làp co só' bán buón): thuc phám (bao góm cá thuc phám chirc nǎng), các
+1
+4690
+nguyén vát liéu duoc sir dung dé sán xuát thuc phám. Kkhōng bao góm hàng
+hóa mà doanh nghiép có vón dàu tu nuóc ngoài bi cám kinh doanh và bi han
+ché kinh doanh theo quy dinh cua pháp luàt Viet Nam và các dièu uóc quóc té
+mà Vièt Nam là thành vien.
+Bán buòn dò dùng khác cho gia dinh
+Chi tiét: Bán buón nuóc hoa, hàng my phám, ché phám vé sinh và các dò ding
+2
+4649
+khác cho gia dinh (khòng bao gòm các hàng hóa mà doanh nghiép có vón dàu
+tu nuróc ngoài bi cám kinh doanh và bi han ché kinh doanh theo quy dinh ciúa
+pháp luàt Viet Nam và các diéu uóc quóc té mà Viét Nam là thành vien).
+Bán lé luong thuc, thuc phám, dò uóng, thuóc lá, thuóc lào chiém ty trong lón
+trong các cura hàng kinh doanh tóng hop.
+Chi tiét: bán lé nhièu loai hàng hóa (khóng bao góm các hàng hóa mà doanh
+nghiép có vón dàu tu nuóc ngoài bi cám kinh doanh và bi han ché kinh doanh
+theo quy dinh cua pháp luat Viét Nam và các diéu uóc quóc té mà Vièt Nam là
+3
+4711
+thành vien), trong dó luong thuc, thurc phám, dó uóng chiém ty trong lón trong
+các cira hàng kinh doanh tóng hop (khóng hoat dōng tai try só).
+(theo Quyét dinh só 64/2009/QD-UBND ngày 31/07/2009 và Quyét dinh só
+79/2009/QD-UBND ngày 17/10/2009 cua Uy ban nhán dàn Thành phó Hó Chi
+Minh vè phé duyét quy hoach kinh doanh nóng sán, thuc phám trèn dia bàn
+thành phó Hó Chí Minh).
+Bán lé thuóc, dung cu y té, my phàm và vàt phám vè sinh trong các cura hàng
+chuyèn doanh
+4
+4772
+Chi tiét: Bán lé nuróc hoa, my phám và vát phám vé sinh trong các cira hàng
+chuyèn doanh (khong hoat dong tai tru só).
+Bán lé hinh thúrc khác chua duoc phàn vào dàu
+Chi tiét: Thurc hien quyèn phan phói bán le thuc phám (bao gòm cá thuc phám
+chirc nǎng), các nguyen vàt liéu duoc sir dung dé san xuát thuc phám. Khōng
+5
+4799
+bao góm hàng hóa mà doanh nghiép có vón dàu tu nuóc ngoài bi cám kinh
+doanh và bi han ché kinh doanh theo quy dinh cua pháp luàt Vièt Nam và các
+diéu uóc quóc té mà Viét Nam là thành vién.
+2. Dièu chính chi tiét các ngành nghè kinh doanh mà Còng ty dā dǎng ky (noi dung bǒ sung
+duoc bôi dàm).
+STT
+Mä ngành
+Tèn ngành nghè và mò tà chi tiét
+Bán buòn thuc phám
+Chi tiét:
+Kinh doanh bánh, sira hop, sira bōt, bōt dinh duong và các sán phám tir
+1
+4632
+sua khác.
+Mua bán thurc phám ché bién (khong hoat dong tai tru só).
+Mua bán chè uóng (khóng hoat dōng tai try só).
+13
+
+Mua bán cà phe rang — xay — phin — hòa tan (khòng hoat dong tai tru
+só).
+Bán buón duòng (trir các loai dròng nhà dàu tu nuóc ngoài khóng duroc
+phàn phói theo quy dinh pháp luat Viét Nam và các Dièu uóc quóc té mà
+Vièt Nam là thành vién) (khóng hoat dong tai tru só).
+Bán buón các sán phám khác ché bién tùr ngū cóc, bot, tinh bōt và các
+loai hat.
+Bán buón mirt, bánh, keo, socola, cacao và các sán phám tir cacao.
+Bán buón thuc phám cóng nghè (khòng hoat dōng tai tru só).
+Bán buòn các loai trà (chè) khác dā hoǎc chua qua ché bién (khōng hoat
+dong tai tru só).
+Bán buón dàu, mo dōng thuc vát (khong hoat dong tai tru só).
+Bán buón các loai rau, cú, quá và các sán phám ché bién tir rau, cú,
+quá; bán buón các loai nuóc ép rau, quá (khōng hoat dong tai tru só).
+Bán buón thit và các sán phám tir thit; bán buón thúy sán và các sán
+phàm tir thúy sán (khong hoat dong tai tru só).
+Bán buōn trirng, các sǎn phám tùr tring, hat tièu và các gia vi khác
+(khòng hoat dong tai tru só).
+Bán buòn thuc phám chirc nǎng (khòng hoat dōng tai try sǒ).
+Bán lé hàng hóa khác mói trong các cura hàng chuyèn doanh
+Chi tiét:
+Bán lé túi, hōp, thùng và các loai bao bi khác dùng dé dung hàng hóa.
+Bán lé hàng hóa sir dung dé lau chùi, quét don, làm vè sinh nhu chói,
+bàn chai, khǎn lau, ...
+Bán lé hàng hóa phi luong thuc, thuc phám chua duoc phàn vào
+nhóm nào.
+(trir bán lé hóa chát, khi dàu mǒ hóa lǒng LPG, dàu nhót cǎn, vàng miéng,
+2
+4773
+súng, dan loai dùng di sǎn hoǎc thé thao, tièn kim khí và các hàng hóa
+khác mà doanh nghiep có vón dàu tu nuóc ngoài bi cám và han ché kinh
+doanh theo quy dinh cia pháp luàt Vièt Nam và các dièu uóc quóc té mà
+Vièt Nam là thành vien).
+(Thuc hien the0 Quyét dinh só 64/2009/QD-UBND ngày 31/07/2009 và
+Quyét dinh só 79/2009/QD-UBND ngày 17/10/2009 cüa Uy ban nhàn dàn
+Thành phó Hò Chí Minh vè phé duyèt quy hoach kinh doanh nong sǎn,
+thuc phám trèn dia bàn thành phò Hò Chí Minh).
+Bán le theo yèu càu dǎt hàng qua buu dien hoǎc internet
+Chi tiét:
+Bán lé túi, hōp, thùng và các loai bao bi khác dùng dé dung hàng hóa qua
+kenh internet.
+Bán lé các loai hàng hóa khác qua internet (trir bán lé hóa chát, khí
+dàu mó hóa lóng LPG, dàu nhót cǎn, vàng miéng, súng, dan loai dùng
+di sǎn hoǎc thé thao, tièn kim khí và các hàng hóa khác mà doanh
+3
+4791
+nghièp có vón dàu tu nuóc ngoài bi cám kinh doanh và bi han ché kinh
+doanh theo quy dinh cia pháp luāt Viet Nam và các dièu uóc quóc té
+mà Vièt Nam là thành vien).
+(Thuc hien theo Quyét dinh só 64/2009/QD-UBND ngày 31/07/2009 và
+Quyét dinh só 79/2009/QD-UBND ngày 17/10/2009 cüa Uy ban nhàn dan
+Thành phó Hò Chí Minh vè phè duyét quy hoach kinh doanh nòng sán,
+thuc phám trèn dia bàn thành phò Hö Chí Minh).
+San xuát thuc phám khác chua duoc phàn vào dàu
+4
+1079
+Chi tiét:
+Kinh doanh thuc phám cóng nghe; San xuát thuc phám ché bién, chè
+14
+
+uóng, cà phé rang-xay — phin — hòa tan (khóng hoat dōng tai tru só);
+Sǎn xuát, ché bién và gia còng thuc phám chirc nǎng và nguyèn lièu
+sán xuát thuc phǎm chirc nǎng (khòng hoat dōng tai tru sǒ)
+3. Danh sách ngành, nghè kinh doanh cúa Còng ty sau khi dièu chinh.
+STT
+Mā ngành
+Ngành nghè
+San xuát các loai bánh tùr bot
+1
+1071
+Chi tiét: sán xuát bánh
+Chǎn nuòi tràu, bò
+2
+0141
+Chi tiét: Chǎn nuoi (khóng chǎn nuoi tai tru só).
+Ché bién süra và các sán phám tùr süra
+3
+1050 (Chính)
+Chi tiét: San xuát süa hōp, sira bot, bōt dinh duōng và các sǎn phǎm tir sira
+khác
+Kho bǎi và luu giü hàng hóa
+4
+5210
+Chi tiét: kinh doanh kho, bén bǎi
+Bán buòn dò uóng
+Chi tiét: Kinh doanh sira dàu nành, nuóc giai khát, mua bán ruou (khong hoat
+5
+4633
+dōng tai tru só), mua bán bia (khōng hoat dong tai tru só), mua bán dó uóng
+(khong hoat dong tai tru só)
+Tròng trot, chan nuòi hōn hop
+6
+0150
+Chi tiét: Tròng trot, chǎn nuoi (khong chǎn nuoi tai tru só)
+Vàn tai hàng hóa bàng duòng bò
+7
+4933
+Chi tiét: ván tái hàng hóa noi bō bàng ó tó phuc vu cho hoat dōng sán xuát và
+tièu thu sán phám cia cóng ty
+Kinh doanh bát dòng san, quyèn sur dung dát thuòc chú só hüru, chú sur dung
+8
+6810
+hoǎc di thuè
+Chi tiét: theo quy dinh tai dièu 11.3 Luàt Kinh doanh Bát dong sán nǎm 2014
+San xuát dò uóng khòng còn, nuóc khoáng
+9
+1104
+Chi tiét: sán xuát dó uóng, nuóc giái khát, sira dàu nành
+Hoat dòng cúa các phòng khám da khoa, chuyèn khoa và nha khoa
+10
+8620
+Chi tiét: Phòng khám da khoa (khong hoat dōng tai tru só)
+Tròng cày hàng nǎm khác
+11
+0119
+Chi tiét: tròng trot
+Sán xuát san phám hoá chát khác chua duoc phàn vào dàu
+12
+2029
+Chi tiét: Kinh doanh hóa chát (trir hóa chát có tinh doc hai manh)
+San xuát khác chua duoc phàn vào dàu
+Chi tiét: Kinh doanh nguyen lièu; Sán xuát ruou (khong hoat dong tai tru só);
+13
+3290
+sán xuát bao bi (khóng hoat dōng tai tru só); sán xuát sán phám nhua (khòng
+hoat dōng tai tru só)
+San xuát thuc phám khác chua duoc phàn vào dàu
+Chi tiét:
+14
+1079
+Kinh doanh thrc phám cóng nghé; Sán xuát thurc phám ché bién, chè
+uóng, cà phé rang-xay — phin — hòa tan (khōng hoat dong tai tru só);
+Sán xuát, ché bién và gia cóng thuc phám chirc nǎng và nguyèn lieu sán
+15
+
+xuát thuc phám chirc nǎng (khòng hoat dōng tai tru só)
+San xuát thiét bi dien khác
+15
+2790
+Chi tiét: Kinh doanh thiét bi phu ting, vàt tu
+San xuát bia và mach nha ú men bia
+16
+1103
+Chi tiét: Sán xuát bia (khòng hoat dong tai tru só)
+Bán buòn chuyèn doanh khác chua duoc phàn vào dàu
+Chi tiét:
+Mua bán bao bi (khóng hoat dōng tai tru só), mua bán sán phám nhua
+(khong hoat dong tai tru só).
+Bán buón nguyén liéu, hurong liéu, các chát phu gia, chát ón dinh, chát
+màu và hóa chát dùng trong ngành cóng nghé thuc phám (khóng hoat
+dong tai tru só).
+Bán buón hóa chát cóng nghiép: keo hóa hoc, keo dán, bǎng dinh, muc
+17
+4669
+in (khóng hoat dong tai tru só).
+Bán buón màt ong và các sán phám tir màt ong (khóng hoat dtòng tai tru
+só).
+Bán buon pallet go, pallet nhua các loai (khong hoat dong tai tru só).
+Bán buón bia carton, bao bi giáy (khóng hoat dōng tai tru só).
+Bán buón chuyén doanh khác còn lai chua duoc phàn vào dàu (bán
+buón các loai vitamin, men, khoáng chát, yén và các sán phám tir yén,
+khōng hoat dōng tai tru só).
+Bán lé thuc phám trong các cura hàng chuyèn doanh
+Chi tiét:
+Bán lé duòng, sira và các sán phám sia, bánh, mirt, keo và các sán
+phám ché bién tùr ngū cóc, bot, tinh bot
+18
+4722
+Bán le thurc phám khác (thuc hién theo Quyét dinh 64/2009/QD-UBND
+ngày 31/07/2009 và Quyét dinh 79/2009/QD-UBND ngày 17/10/2009
+cia Uy ban nhàn dán Thành phó Hò Chí Minh vè phé duyét quy hoach
+kinh doanh nóng sán, thuc phám trén dia bàn Thành phó Hó Chi Minh).
+Bán lé dò uóng trong các cura hàng chuyèn doanh
+Chi tiét:
+Bán lé dò uóng có còn: ruou manh, ruou vang, bia;
+Bán lé dò khóng chia cón: các loai dó uóng nhe, có chát ngot, có hoǎc
+19
+4723
+khóng có ga nhu: cóca cóla, pépsi cóla, nuóc cam, chanh, nuóc quá
+khác;
+Bán lé nuóc khoáng thièn nhien hoǎc nuóc tinh khiét dóng chai khác;
+Bán lé ruou vang và bia có chira cón ó nòng do tháp hoǎc khòng chira
+còn.
+Bán buòn thuc phám
+Chi tiét:
+Kinh doanh bánh, sira hōp, sira bōt, bōt dinh duōng và các sán phám tir
+süa khác.
+Mua bán thuc phám ché bién (khòng hoat dōng tai try só).
+Mua bán chè uóng (khóng hoat dōng tai try só).
+20
+4632
+Mua bán cà phé rang — xay — phin — hòa tan (khōng hoat dōng tai tru
+só).
+Bán buōn duòng (trir các loai duòng nhà dàu tu nuóc ngoài khōng
+duoc phàn phói theo quy dinh pháp luàt Viét Nam và các Diéu uóc
+quóc té mà Vièt Nam là thành vien) (khòng hoat dong tai tru só).
+Bán buón các sán phám khác ché bién tir ngū cóc, bot, tinh bōt và các
+loai hat.
+16
+
+Bán buón mirt, bánh, keo, socola, cacao và các sán phám tir cacao.
+Bán buón thuc phám cóng nghé (khóng hoat dōng tai tru só).
+Bán buòn các loai trà (chè) khác dā hoǎc chua qua ché bién (khóng
+hoat dōng tai tru só).
+Bán buón dàu, mo dong thuc vāt (khòng hoat dōng tai tru só).
+Bán buón các loai rau, cú, quá và các sán phám ché bién tir rau, cú,
+quá; bán buón các loai nuóc ép rau, quá (khòng hoat dōng tai tru só).
+Bán buón thit và các sán phám tir thit; bán buón thiy sán và các sán
+phám tir thúy sán (khōng hoat dōng tai tru só).
+Bán buòn trirng, các sán phám tùr trirng, hat tiéu và các gia vi khác
+(khong hoat dong tai tru só).
+Bán buón thuc phám chirc nǎng (khóng hoat dōng tai tru só).
+San xuát duòng
+21
+1072
+Chi tiét: Sán xuát duòng mia và các loai duòng khác (khòng hoat dōng tai try
+só).
+Dich vu phuc vu dò uóng
+22
+5630
+Chi tiét: Quán cà phé, giái khát.
+Nhà hàng và các dich vy ǎn uóng phuc vu luu dòng
+23
+5610
+Chi tiét: Dich vu ǎn uòng.
+Bán lé hàng hóa khác mói trong các cura hàng chuyèn doanh
+Chi tiét:
+Bán lé túi, hōp, thùng và các loai bao bi khác dùng dé dung hàng hóa.
+Bán lé hàng hóa sir dung dé lau chùi, quét don, làm vé sinh nhu chói,
+bàn chái, khǎn lau, …..
+Bán lé hàng hóa phi luong thuc, thuc phám chua duoc phàn vào nhóm
+nào.
+(trir bán lé hóa chát, khi dàu mó hóa lóng LPG, dàu nhót cǎn, vàng miéng,
+24
+4773
+sung, dan loai dùng di sǎn hoǎc thé thao, tièn kim khí và các hàng hóa khác
+mà doanh nghièp có vón dàu tur nuóc ngoài bi cám và han ché kinh doanh
+theo quy dinh cua pháp luat Viet Nam và các diéu uóc quóc té mà Viét Nam
+là thành vièn).
+(Thuc hién the0 Quyét dinh só 64/2009/QD-UBND ngày 31/07/2009 và
+Quyét dinh só 79/2009/QD-UBND ngày 17/10/2009 cua Uy ban nhàn dán
+Thành phó Hò Chi Minh vè phé duyét quy hoach kinh doanh nóng sán, thuc
+phám trén dia bàn thành phò Hó Chi Minh).
+Bán lé theo yèu càu dǎt hàng qua buu dien hoǎc internet
+Chi tiét:
+Bán lé tuúi, hōp, thùng và các loai bao bì khác dùng dé dung hàng hóa
+qua kenh internet.
+Bán lé các loai hàng hóa khác qua internet (trir bán lé hóa chát, khi dàu
+mó hóa lóng LPG, dáu nhót cǎn, vàng miéng, súng, dan loai dùng di sǎn
+hoǎc thé thao, tièn kim khí và các hàng hóa khác mà doanh nghiép có
+25
+4791
+vón dàu tu nuóc ngoài bi cám kinh doanh và bi han ché kinh doanh theo
+quy dinh cia pháp luat Vièt Nam và các dièu uóc quóc té mà Viet Nam
+là thành vièn).
+(Thuc hien the0 Quyét dinh só 64/2009/QD-UBND ngày 31/07/2009 và
+Quyét dinh só 79/2009/QD-UBND ngày 17/10/2009 cua Uy ban nhàn dàn
+Thành phó Hò Chí Minh vé phé duyét quy hoach kinh doanh nóng sán, thuc
+phám trén dia bàn thành phò Hò Chí Minh).
+Bán buòn nòng, làm sán nguyèn liéu (trù gǒ, tre, núra) và dòng vàt sóng
+26
+4620
+Chi tiét: Bán buón ngó và các loai hat ngū cóc khác (trir gao), (khóng hoat
+17
+
+dōng tai tru só).
+Bán buòn kim loai và quǎng kim loai
+Chi tiét: Bán buón dòng, chi, nhóm, kēm và kim loai màu khác dang nguyèn
+27
+4662
+sinh và bán thành phám: thoi, thanh, tám, lá, dai, dang hinh dé tao nén bao
+bi dóng gói sán phám (khóng hoat dong tai tru só).
+Bán buòn tóng hop
+Chi tiét: Thuc hién quyèn xuát kháu, nhàp kháu, phàn phói bán buón (khòng
+thành làp co só' bán buón): thuc phám (bao góm cá thuc phám chirc nǎng),
+28
+4690
+các nguyén vàt liéu duoc sir dung dé sán xuát thuc phám. Khōng bao góm
+hàng hóa mà doanh nghiép có vón dàu tu nuóc ngoài bi cám kinh doanh và
+bi han ché kinh doanh theo quy dinh cua pháp luát Vièt Nam và các dièu uóc
+quóc té mà Viet Nam là thành vién.
+Bán buòn dò dùng khác cho gia dinh
+Chi tiét: Bán buón nróc hoa, hàng my phám, ché phám vé sinh và các dò
+dùng khác cho gia dinh (khóng bao góm các hàng hóa mà doanh nghiep có
+29
+4649
+vón dtàu tu nuóc ngoài bi cám kinh doanh và bi han ché kinh doanh theo quy
+dinh cua pháp luàt Viét Nam và các dièu uóc quóc té mà Viet Nam là thành
+vien).
+Bán lé luong thuc, thuc phàm, dò uóng, thuóc lá, thuóc lào chiém ty trong lón
+trong các cira hàng kinh doanh tóng hop.
+Chi tiét: bán lé nhièu loai hàng hóa (khóng bao góm các hàng hóa mà doanh
+nghiép có vón dàu tu nuóc ngoài bi cám kinh doanh và bi han ché kinh doanh
+theo quy dinh cua pháp luat Viet Nam và các diéu uóc quóc té mà Vièt Nam
+30
+4711
+là thành vien), trong dó luong thuc, thuc phám, do uóng chiém t' trong lón
+trong các cira hàng kinh doanh tóng hop (khong hoat dong tai tru só).
+(theo Quyét dinh só 64/2009/QD-UBND ngày 31/07/2009 và Quyét dinh só
+79/2009/QD-UBND ngày 17/10/2009 cia Uy ban nhán dàn Thành phó Hó
+Chi Minh vè phé duyét quy hoach kinh doanh nóng sán, thuc phám trén dia
+bàn thành phò Hò Chí Minh).
+Bán lé thuóc, dung cu y té, my phám yà vàt phám vè sinh trong các cira hàng
+chuyèn doanh
+31
+4772
+Chi tiét: Bán lé nróc hoa, my phám và vát phám vé sinh trong các cira hàng
+chuyén doanh (khòng hoat dong tai try só).
+Bán lé hinh thúrc khác chua duoc phàn vào dàu
+Chi tiét: Thuc hien quyèn phàn phói bán le thuc phám (bao góm cá thyc
+phám chirc nǎng), các nguyén vát liéu duoc sir dung dé sán xuát thuc phám.
+32
+4799
+Khóng bao gòm hàng hóa mà doanh nghiép có vón dàu tu nróc ngoài bi cám
+kinh doanh và bi han ché kinh doanh theo quy dinh cua pháp luat Viet Nam
+và các diéu uóc quóc té mà Viét Nam là thành vién.
+18
+
+CoNG TY Co PHAN SUA VIET NAM
+CONG HOA XA HOI CHU NGHIA VIET NAM
+Doc làp – Tu do – Hanh phúc
+Só: 01/NQ-CTS.DHDCD/2022
+Thành phó Hó Chí Minh, ngày 26 tháng 04 nǎm 2022
+NGHI QUYÉT
+DAI HOI DoNG Co DoNG THUONG NIEN NAM 2022
+CoNG TY Co PHAN sUA VIeT NAM
+Cǎn cir Luàt Doanh nghiep só 59/2020/QH14 duoc Quóc hoi Nuóc Cong Hoa Xa
+Hoi Chú Nghia Viét Nam thòng qua ngày 17 tháng 06 nǎm 2020, dā duoc sira dói bó
+sung boi Luāt só 03/2022/QH15 ngày 11/01/2022;
+Cǎn cir Dièu le hien hành cua Cong ty Có phàn Süa Viét Nam;
+Cǎn cir vào Bien bán hop Dai hoi dòng có dong thuong nièn nǎm 2022 só: 01/BBH-
+CTS.DHDCD/2022 cua Cong ty có phán Sira Viet Nam ngày 26 tháng 04 nǎm 2022.
+Dai hoi dòng có dong thuòng nien nǎm 2022 (DHDCD'") cua Cong ty Có phàn Süa Viet
+Nam ("Vinamilk" hoǎc "Cöng ty") tó chúc tai Thành phó Hò Chí Minh ngày 26 tháng 04
+nǎm 2022 da thong qua Nghi quyét này vói các noi dung sau dày:
+QUYET NGHI:
+1. BÁO CAO TAI CHINH NÅm 2021 DA KIEM TOÁN
+DHDCD phe duyet Báo cáo tài chính nǎm 2021 da duoc Cong ty TNHH KPMG kiém toán.
+2. BÁO CÁO CUA HOI DONG QUAN TRI (HDQT") NÅM 2021
+DHDCD phe duyet báo cáo cúa HDQT nǎm 2021 cúa Còng ty.
+3. MUC CHI TrA Co TUC CuA NÅm TAI CHíNH 2021
+DHDCD phe duyèt tóng múrc có túrc cúa nǎm tài chính 2021 là 3.850 dòng/có phàn, trong dó:
+a. Dā tam úrng tóng còng là 2.900 dòng/ có phàn trong nǎm 2021 và 2022.
+b. Múrc cǒ túrc còn lai cúa nǎm 2021 là: 950 dòng/cö phàn. Miúrc có túrc nǎm 2021 còn lai
+này sě duoc chi trá trong nǎm 2022 vói ké hoach chi trá nhu sau:
+Ngày dǎng ky cuói cùng
+: ngay 07/07/2022.
+Ngày thanh toán
+: ngay 19/08/2022.
+4. DINH HUÓNG CHÉN LU'OC GIAI DOAN 2022 –2026
+DHDCD phe duyet dinh huóng chién lugc cua Cong ty giai doan 2022-2026, cu thě:
+a) Phát triěn sán phám và trai nghièm uu viet cho ngròi tièu dùng
+Cúng có vi thé dǎn dàu ngành süa Viet Nam.
+Dày nhanh tóc do nghièn cúru phát trièn sán phám mói, huóng dén phuc vu nhu càu
+dinh duǒng toàn dien.
+Trang 1/11
+
+Dǎt trai nghiem nguòi tieu dùng làm trong tàm trong viec phát trién chién luoc tiép
+càn và phàn phói da kènh.
+b) Dày manh úrng dung còng nghè vào nòng nghiep bèn vürng
+Ung dung còng nghe Internet van vàt, dür lieu lón, và tr dòng hóa và robotics, tùr dó
+nàng cao tính minh bach, hiéu quá khai thác, và da dang sinh hoc cúa các hoat dòng
+tròng trot, chǎn nuòi, và khai thác.
+Phát trién he thóng trang trai bò sua dat tieu chuán quóc té lón nhát Viet Nam.
+Trién khai thyc hành các tiéu chuán quóc té vè phát trién bèn vung, tǎng cuòng súr
+dung nǎng luong xanh, kinh té tuàn hoàn, báo vè tài nguyèn nuóc và dát.
+c) Khoi tao co' hoi kinh doanh mói
+Khai thác co hoi kinh doanh tai các thi truòng mói thòng qua các hoat dòng mua bán
+sáp nhàp (M&A), lien doanh, hoǎc dàu tu mao hiém.
+Hǒ tro và dàu tu các dur án start-up khoi nghiep phù hop vói chién luoc tǎng truóng
+cúa còng ty.
+Tiép tuc cung có các thi truòng xuát kháu truyèn thóng và tim kiém co hoi chuyèn
+dich dàu tu san xuát tai chō.
+d) Tró' thành dích dén cúa nhàn tài
+Tiép tuc xày dung vǎn hóa doanh nghièp huóng dén dói mói và sáng tao.
+Thiét làp mòi truòng làm viec và dào tao dě nhàn vién làm chú co hoi chuyěn dói
+mói.
+5. KÉ HOACH DOANH THU, LOI NHUAN NAM 2022 (HOP NHAT)
+DHDCD phe duyèt ké hoach doanh thu và loi nhuàn nǎm 2022 (hop nhát) cúa Cong ty theo
+Chuán muc ké toán Viet Nam nhu sau:
+Ké hoach
+Thyc hien
+Tǎng trróng
+(DVT: ty dòng)
+2022
+2021
+ty dòng
+%
+Tòng doanh thu
+64.070
+61.012
+3.058
+105,0%
+Loi nhuàn truóc thué
+12.000
+12.922
+(922)
+92,9%
+Loi nhuàn sau thué
+9.770
+10.633
+(863)
+91,9%
+LNST phán bó cho có
+9.720
+10.532
+(812)
+92,3%
+dong cty me
+6. KE HOACH CHI TRA Co TUC NÅM TAI CHNH 2022
+DHDCD phe duyet ké hoach chi có túrc bàng tièn nǎm 2022: 3.850d/cò phàn. Trong dó:
+Tam úng có túrc dot 1/2022:
+Múc có túrc tam urng dot 1/2022
+: 1.500 dòng/có phàn
+Ngày chót danh sách có dòng
+:07/07/2022
+Ngày thanh toán
+:19/08/2022
+Ké hoach thanh toán có túc còn lai cua nǎm 2022: Uy quyèn cho HDQT quyét dinh
+múrc có túrc và thòi gian chi tra.
+7. LUA CHoN DoN VI KIEM TOAN DOC LAP CHO NÅM TAI CHíNH 2022
+DHDCD phè duyèt danh sách còng ty kiém toán doc làp cho nǎm tài chính 2022 gòm bón
+(04) còng ty kiěm toán (Big 4) hoat dong tai Viet Nam:
+Cong ty TNHH KPMG Viet Nam (KPMG).
+Trang 2/11
+
+Cong ty TNHH PricewaterhouseCoopers Viet Nam (PwC).
+Cong ty TNHH Ernst & Young Viet Nam (E&Y).
+Cong ty TNHH Deloitte Viet Nam.
+DHDCD giao cho HDQT quyét dinh lra chon mòt (01) trong bón (04) cong ty kiém toán
+trong danh sách nèu trén dě thyrc hièn hoat dòng kiém toán Báo cáo tài chính cúa Còng ty
+trong nǎm tài chính 2022.
+8. ToNG THU LAO VA LoI ícH KHAC CUA HOI DoNG QuAN TRI NÅM 2022
+DHDCD phe duyèt tóng thù lao nǎm 2022 cho HDQT là 25 ty dòng vói co cáu 11 thành
+vièn và các loi ích khác cho HDQT là bao hiém trách nhiem, bao hiěm y té, và khám súrc
+khoe theo chính sách chung cúa Còng ty. Thù lao HDQT sě dugc tính và chi trá tuong úng
+vói só luong thành vièn thuc té.
+9. DIEu CHiNH, Bo SUNG NGANH NGHE KINH DOANH CUA CONG TY
+DHDCD phe duyèt vièc sira dói, bó sung ngành nghè kinh doanh cúa Còng ty và thòng qua
+danh sách các ngành, nghè kinh doanh cua Còng ty sau khi droc sira dói, bó sung. Chi tiét
+nhu Phy luc 1 dính kèm Nghi quyét này.
+10. SUA DOI DIEU LE
+DHDCD phe duyet viec sura dói Dièu le cúa Cong ty và thòng qua ban Dièu le mói (da
+càp nhàt các nòi dung sra dói, trong dó bao gòm vièc dièu chinh, bó sung ngành nghè
+kinh doanh cúa Cong ty nèu tai Muc 9 neu trèn). Theo dó, Dièu lè mói cua Còng ty sě có
+hièu lrc tùr ngày 26/04/2022 và thay thé cho ban Dièu lè dä duoc DHDCD thuòng nien
+nǎm 2021 thong qua vào ngày 26/04/2021 (xem chi tiét trong tài lièu hop DHDCD).
+11. SUa DoI QUY CHE NoI Bo vE QuAN TRI CoNG TY
+DHDCD thong qua ban Quy Ché Noi Bo vè Quán Tri Cong Ty (xem chi tiét trong tài
+liéu hop DHDCD). Giao cho Hoi Dòng Quan tri chiu trách nhiem ban hành Quy ché này
+theo quy dinh cua pháp luàt.
+12. BAU HOI DONG QUAN TRI NHIEM KY 2022 - 2026
+DHDCD dā tién hành bàu thành vien Hoi dòng quán tri cúa Còng ty cho nhiem ky 2022-
+2026 vói két quá nhu sau:
+Danh sách thành vien Hoi dòng quán tri cua Cong ty nhiem ky 2022 – 2026:
+1.
+Ong Alain Xavier Cany
+2.
+Bà Dǎng Thi Thu Hà
+3.
+Ong Dö Le Hùng
+4.
+Ong Le Thành Liem
+5.
+Bà Mai Kièu Lien
+6.
+Ong Lee Meng Tat
+7.
+Ong Michael Chye Hin Fah
+8.
+Ong Nguyěn Hanh Phúc
+9.
+Ong Hoàng Ngoc Thach
+10.
+Bà Tieu Yén Trinh
+Trang 3/11
+
+13. Nghi quyét này có hieu luc kě tùr ngày ky.
+Có dòng, Hoi dòng Quán tri, Tóng Giám dóc và nhüng nguòi có lièn quan có trách
+nhiem thi hành Nghi quyét này.
+TM. DAI HOI DONG CO DONG NÅM 2022
+CHU TOA – CHU TICH HDQT
+CO PHAN
+SUA
+-
+VIETNAM
+T.P HO
+CHIMINK
+LE THI BANG TAM
+Trang 4/11
+
+PHU LUC 1
+sua DoI, Bo sUNG NGANH, NGHE KINH DoANH CuA CoNG TY
+1. Dǎng ky mói ngành, nghè kinh doanh sau:
+STT
+Mā ngành
+Tèn ngành nghè và mo tá chi tiét
+Bán buòn tóng hop
+Chi tiét: Thuc hién quyèn xuát kháu, nhàp kháu, phàn phói bán buón
+(khóng thành làp co só' bán buón): thuc phám (bao góm cá thurc phám
+chirc nǎng), các nguyèn vát liéu duoc sir dung dé sán xuát thuc phám.
+1
+4690
+Kkhōng bao góm hàng hóa mà doanh nghièp có vón dàu tu nuóc
+ngoài bi cám kinh doanh và bi han ché kinh doanh theo quy dinh cia
+pháp luàt Vièt Nam và các diéu uóc quóc té mà Vièt Nam là thành
+vien.
+Bán buòn dò dùng khác cho gia dinh
+Chi tiét: Bán buón nuóc hoa, hàng my phám, ché phám vé sinh và các
+dò dùng khác cho gia dinh (khóng bao góm các hàng hóa mà doanh
+2
+4649
+nghièp có vón dàu tu nuóc ngoài bi cám kinh doanh và bi han ché
+kinh doanh theo quy dinh cia pháp luat Vièt Nam và các dièu uóc
+quóc té mà Viét Nam là thành vien).
+Bán lé luong thuc, thuc phám, dò uóng, thuóc lá, thuóc lào chiém ty
+trong lón trong các cura hàng kinh doanh tóng hop.
+Chi tiét: bán lé nhièu logi hàng hóa (khòng bao gòm các hàng hóa mà
+doanh nghiép có vón dáu tu nuóc ngoài bi cám kinh doanh và bi han
+ché kinh doanh theo quy dinh cia pháp luat Vièt Nam và các dièu uóc
+quóc té mà Viét Nam là thành vien), trong dó luong thuc, thuc phám,
+3
+4711
+dò uóng chiém ty' trong lón trong các cira hàng kinh doanh tóng hop
+(khóng hoat dong tai tru só).
+(theo Quyét dinh só 64/2009/QD-UBND ngày 31/07/2009 và Quyét
+dinh só 79/2009/QD-UBND ngày 17/10/2009 cua Uy ban nhàn dàn
+Thành phó Hò Chi Minh vè phé duyet quy hoach kinh doanh nóng
+sán, thuc phám trén dia bàn thành phó Hò Chi Minh).
+Bán lé thuóc, dung cu y té, my phám và vàt phám vè sinh trong các
+cura hàng chuyèn doanh
+4
+4772
+Chi tiét: Bán lé nuóc hoa, my phám và vát phám vé sinh trong các
+cira hàng chuyèn doanh (khong hoat dong tai tru só).
+Bán lé hinh thúrc khác chua duoc phàn vào dàu
+Chi tiét: Thuc hien quyén phàn phói bán lé thuc phám (bao gòm cá
+thuc phám chirc nǎng), các nguyen vát lieu duoc sir dung dé sán xuát
+5
+4799
+thuc phám. Khóng bao góm hàng hóa mà doanh nghiép có vón dàu tu
+nuóc ngoài bi cám kinh doanh và bi han ché kinh doanh theo quy
+dinh cua pháp luāt Vièt Nam và các dièu uóc quóc té mà Vièt Nam là
+thành vièn.
+Trang 5/11
+
+2. Dièu chính chi tiét các ngành nghè kinh doanh mà Còng ty dā dǎng ky (noi dung bǒ
+sung duoc boi dam).
+STT
+Mä ngành
+Ten ngành nghè và mo ta chi tiét
+Bán buòn thuc phám
+Chi tiét:
+Kinh doanh bánh, sira hōp, sira bōt, bōt dinh duōng và các sán
+phám tùr sira khác.
+Mua bán thuc phám ché bién (khòng hoat dōng tai tru só).
+Mua bán chè uóng (khong hoat dōng tai tru só).
+Mua bán cà phè rang — xay — phin — hòa tan (khōng hoat dong
+tai tru só).
+Bán buōn duòng (trir các loai dròng nhà dàu tu nuóc ngoài
+khóng duroc phàn phói theo quy dinh pháp luāt Vièt Nam và các
+Dièu uóc quóc té mà Vièt Nam là thành vièn) (khong hoat dong
+tai tru só).
+Bán buón các sán phám khác ché bién tir ngū cóc, bōt, tinh bōt
+và các loai hat.
+1
+4632
+Bán buón mirt, bánh, keo, socola, cacao và các sán phám tir
+cacao.
+Bán buón thuc phám cóng nghé (khōng hoat dōng tai tru só).
+Bán buón các loai trà (chè) khác dǎ hoǎc chua qua ché bién
+(khong hoat dong tai tru só).
+Bán buón dàu, mo dong thuc vǎt (khōng hoat dōng tai tru só).
+Bán buòn các loai rau, cú, quá và các sán phám ché bién tir rau,
+cú, quá; bán buōn các loai nróc ép rau, quá (khóng hoat dōng
+tai tru só).
+Bán buón thit và các sán phám tir thit; bán buón thúy sán và các
+sán phám tir thüy sán (khóng hoat dōng tai tru só).
+Bán buòn trirng, các sǎn phám tir trirng, hat tièu và các gia vi
+khác (khòng hoat dōng tai tru só).
+Bán buon thuc phǎm chirc nǎng (khòng hoat dong tai tru só).
+Bán lé hàng hóa khác mói trong các cura hàng chuyèn doanh
+Chi tiét:
+Bán lé túi, hōp, thing và các loai bao bi khác dùng dé dung
+hàng hóa.
+Bán lé hàng hóa si dung dé lau chüi, quét don, làm vé sinh
+nhu chói, bàn chǎi, khǎn lau, …...
+Bán lé hàng hóa phi luong thuc, thuc phǎm chua duoc phàn
+vào nhóm nào.
+2
+4773
+(trir bán lé hóa chát, khí dàu mó hóa lóng LPG, dàu nhót cǎn,
+vàng miéng, súng, dan loai dùng di sǎn hoǎc thé thao, tièn kim khí
+và các hàng hóa khác mà doanh nghièp có vón dàu tu nuóc ngoài
+bi cám và han ché kinh doanh theo quy dinh cüa pháp luàt Vièt
+Nam và các dièu uóc quóc té mà Vièt Nam là thành vièn).
+(Thuc hièn theo. Quyét dinh só 64/2009/QD-UBND ngày
+31/07/2009 và Quyét dinh só 79/2009/QD-UBND ngày 17/10/2009
+cia Uy ban nhàn dàn Thành phó Hò Chí Minh vè phè duyèt quy
+Trang 6/11
+
+hoach kinh doanh nòng sǎn, thuc phǎm trèn dia bàn thành phò
+Hö Chí Minh).
+Bán lé theo yèu càu dǎt hàng qua buu dien hoǎc internet
+Chi tiét:
+Bán lé túi, hōp, thùng và các loai bao bi khác dùng dé dung hàng
+hóa qua kènh internet.
+Bán lé các loai hàng hóa khác qua internet (trir bán lé hóa
+chát, khi dàu mǒ hóa lǒng LPG, dàu nhót cǎn, vàng mièng,
+súng, dan loai dùng di sǎn hoǎc thé thao, tièn kim khí và các
+hàng hóa khác mà doanh nghiep có vón dàu tu nuóc ngoài bi
+3
+4791
+cám kinh doanh và bi han ché kinh doanh theo quy dinh cia
+pháp luāt Vièt Nam và các dièu wóc quóc té mà Vièt Nam là
+thành vièn).
+(Thuc hièn theo Quyét dinh só 64/2009/QD-UBND ngày
+31/07/2009 và Quyét dinh só 79/2009/QD-UBND ngày 17/10/2009
+cüa Uy ban nhàn dàn Thành phó Hò Chí Minh vè phè duyét quy
+hoach kinh doanh nong sǎn, thuc phám trèn dia bàn thành phò
+Hò Chí Minh).
+San xuát thyc phám khác chua duoc phàn vào dàu
+Chi tiét:
+Kinh doanh thuc phám cóng nghe; Sán xuát thuc phám ché bién,
+chè uóng, cà phé rang-xay — phin — hòa tan (khóng hoat dōng tai
+4
+1079
+tru só);
+San xuát, ché bién và gia cóng thuc phám chirc nǎng và
+nguyèn lièu sǎn xuát thuc phǎm chirc nǎng (khòng hoat dōng
+tai tru sö)
+3. Danh sách ngành, nghè kinh doanh cúa Cong ty sau khi dièu chính.
+STT
+Mā ngành
+Ngành nghè
+San xuát các loai bánh tùr bot
+1
+1071
+Chi tiét: sán xuát bánh
+Chǎn nuòi tràu, bò
+2
+0141
+Chi tiét: Chǎn nuoi (khòng chǎn nuoi tai tru só).
+Ché bién süra và các sán phǎm tir süra
+1050
+3
+Chi tiét: Sǎn xuát süra hōp, süra bōt, bot dinh duōng và các sǎn
+(Chính)
+phám tùr sira khác
+Kho bài và luu giü hàng hóa
+4
+5210
+Chi tiét: kinh doanh kho, bén bài
+Bán buòn dò uóng
+Chi tiét: Kinh doanh sira dau nành, nuóc giái khát, mua bán ruou
+5
+4633
+(khong hoat dong tai tru só), mua bán bia (khōng hoat dong tai try
+só), mua bán dó uóng (khōng hoat dōng tai tru só)
+6
+0150
+Tròng trot, chǎn nuoi hōn hop
+Trang 7/11
+
+Chi tiét: Tròng trot, chǎn nuoi (khong chǎn nuoi tai try só)
+Vàn tái hàng hóa bàng duòng bò
+7
+4933
+Chi tiét: ván tài hàng hóa nōi bo bàng o to phuc vu cho hoat dōng sán
+xuát và tiéu thu sán phám cua cóng ty
+Kinh doanh bát dòng sán, quyèn sir dung dát thuòc chú só hüu, chú sur
+dung hoǎc di thuè
+8
+6810
+Chi tiét: theo quy dinh tai dièu 11.3 Luat Kinh doanh Bát dong sán
+nǎm 2014
+San xuát dò uóng khòng còn, nuóc khoáng
+9
+1104
+Chi tiét: sán xuát tò uóng, nuóc giǎi khát, sia dàu nành
+Hoat dòng cua các phòng khám da khoa, chuyèn khoa và nha khoa
+10
+8620
+Chi tiét: Phòng khám da khoa (khóng hoat dōng tai tru só)
+Tròng cày hàng nǎm khác
+11
+0119
+Chi tiét: trong trot
+San xuát sán phám hoá chát khác chua duoc phàn vào dàu
+12
+2029
+Chi tiét: Kinh doanh hóa chát (trir hóa chát có tinh doc hai manh)
+San xuát khác chua duoc phàn vào dàu
+Chi tiét: Kinh doanh nguyen lieu; San xuát ruou (khong hoat dong tai
+13
+3290
+tru só); sán xuát bao bi (khóng hoat dong tai tru só); sán xuát sán
+phám nhura (khóng hoat dong tai tru só)
+San xuát thuc phám khác chua duoc phàn vào dàu
+Chi tiét:
+Kinh doanh thuc phám cóng nghe; San xuát thuc phám ché bién,
+14
+1079
+chè uóng, cà phé rang-xay — phin — hòa tan (khong hoat dong tai
+tru só);
+San xuát, ché bién và gia cóng thuc phám chirc nǎng và nguyèn
+lieu sán xuát thuc phám chirc nǎng (khóng hoat dōng tai try só)
+San xuát thiét bi dièn khác
+15
+2790
+Chi tiét: Kinh doanh thiét bi phu ting, vat tu
+San xuát bia và mach nha ú men bia
+16
+1103
+Chi tiét: Sán xuát bia (khong hoat dong tai tru só)
+Bán buòn chuyèn doanh khác chua duoc phàn vào dàu
+Chi tiét:
+Mua bán bao bi (khōng hoat dōng tai tru só), mua bán sán
+phám nhua (khong hoat dong tai tru só).
+Bán buón nguyen liéu, huong lièu, các chát phu gia, chát ón
+dinh, chát màu và hóa chát dùng trong ngành cóng nghè thurc
+17
+4669
+phám (khong hoat dong tai tru só).
+Bán buón hóa chát cóng nghiép: keo hóa hoc, keo dán, bǎng
+dinh, muc in (khōng hoat dong tai tru só).
+Bán buón màt ong và các sán phám tir mát ong (khóng hoat
+dong tai tru só).
+Bán buón pallet gō, pallet nhua các loai (khōng hoat dōng tai
+Trang 8/11
+
+tru só).
+Bán buón bia carton, bao bi giáy (khong hoat dong tai tru só).
+Bán buón chuyén doanh khác con lai chua duoc phàn vào dàu
+(bán buón các loai vitamin, men, khoáng chát, yén và các sán
+phám tir yén, khōng hoat dōng tai tru só).
+Bán lé thuc phám trong các cura hàng chuyèn doanh
+Chi tiét:
+Bán lé duòng, sia và các sán phám sia, bánh, mirt, keo và các
+sán phám ché bién tir ngū cóc, bot, tinh bot
+18
+4722
+Bán lé thuc phám khác (thuc hièn theo Quyét dinh
+64/2009/QD-UBND ngày 31/07/2009 và Quyét dinh
+79/2009/QD-UBND ngày 17/10/2009 cua Uy ban nhán dán
+Thành phó Hó Chi Minh vè phé duyét quy hoach kinh doanh
+nóng sán, thuc phám trén dia bàn Thành phó Hò Chi Minh).
+Bán lé dò uóng trong các cira hàng chuyèn doanh
+Chi tiét:
+Bán lé dò uóng có còn: ruou manh, rrou vang, bia;
+Bán lé dò khōng chira còn: các loai dò uóng nhe, có chát ngot,
+có hoǎc khong có ga nhu: cóca cóla, pépsi cóla, nuóc cam,
+19
+4723
+chanh, nuóc quá khác;
+Bán lé nuóc khoáng thièn nhièn hoǎc nuóc tinh khiét dóng chai
+khác;
+Bán lé rrou vang và bia có chira còn ó nòng do tháp hoǎc
+khōng chira cón.
+Bán buòn thuc phàm
+Chi tiét:
+Kinh doanh bánh, sira hōp, sira bōt, bot dinh duōng và các sán
+phám tir sira khác.
+Mua bán thurc phám ché bién (khóng hoat dōng tai tru só).
+Mua bán chè uóng (khóng hoat dōng tai tru só).
+Mua bán cà phè rang — xay — phin — hòa tan (khóng hoat dtōng
+tai tru só).
+Bán buón duòng (trir các loai dròng nhà dàu tu nuóc ngoài
+khong duoc phàn phói theo quy dinh pháp luàt Vièt Nam và các
+Dièu uóc quóc té mà Viet Nam là thành vièn) (khong hoat dong
+20
+4632
+tai tru só).
+Bán buón các sán phám khác ché bién tir ngū cóc, bōt, tinh bōt
+và các loai hat.
+Bán buón mirt, bánh, keo, socola, cacao và các sán phám tir
+cacao.
+Bán buón thuc phám cóng nghé (khōng hoat dōng tai tru só).
+Bán buón các loai trà (chè) khác dā hoǎc chua qua ché bién
+(khòng hoat dōng tai tru só).
+Bán buòn dàu, mō dōng thuc vát (khóng hoat dōng tai tru só).
+Bán buón các loai rau, cú, quá và các sán phám ché bién tiùr
+rau, cú, quá; bán buón các loai nuóc ép rau, quá (khōng hoat
+dong tai tru só).
+Trang 9/11
+
+Bán buón thit và các sán phám tir thit; bán buón thuy sán và
+các sán phám tir thúy sán (khóng hoat dong tai tru só).
+Bán buón trirng, các sán phám tir trirng, hat tièu và các gia vi
+khác (khòng hoat dong tai tru só).
+Bán buòn thuc phám chirc nǎng (khōng hoat dōng tai try só).
+San xuát duòng
+21
+1072
+Chi tiét: Sán xuát duòng mia và các loai duòng khác (khòng hoat
+dong tai tru só).
+Dich vu phuc vu dò uóng
+22
+5630
+Chi tiét: Quán cà phé, giái khát.
+Nhà hàng và các dich yu ǎn uóng phuc vy luu dòng
+23
+5610
+Chi tiét: Dich vu ǎn uòng.
+Bán lé hàng hóa khác mói trong các cura hàng chuyèn doanh
+Chi tiét:
+Bán lé tui, hōp, thiùng và các loai bao bi khác dùng dé dung
+hàng hóa.
+Bán lé hàng hóa sir dung dé lau chùi, quét don, làm vé sinh nhu
+chói, bàn chái, khǎn lau, ..
+Bán lé hàng hóa phi luong thrc, thuc phám chua duoc phàn
+vào nhóm nào.
+(trir bán lé hóa chát, khi dàu mó hóa lóng LPG, dàu nhót cǎn, vàng
+24
+4773
+miéng, súng, dan loai dùng di sǎn hoǎc thé thao, tién kim khi và các
+hàng hóa khác mà doanh nghiép có vón dàu tu nuóc ngoài bi cám
+và han ché kinh doanh theo quy dinh cia pháp luàt Vièt Nam và
+các diéu uóc quóc té mà Vièt Nam là thành vien).
+(Thuc hien theo Quyét dinh só 64/2009/QD-UBND ngày
+31/07/2009 và Quyét dinh só 79/2009/QD-UBND ngày 17/10/2009
+cúa Uy ban nhán dàn Thành phó Hò Chí Minh vé phé duyét quy
+hoach kinh doanh nóng sán, thuc phám trén dia bàn thành phó Hó
+Chí Minh).
+Bán lé theo yèu càu dǎt hàng qua buu dien hoǎc internet
+Chi tiét:
+Bán lé tui, hōp, thùng và các loai bao bi khác dùng dé dung hàng
+hóa qua kenh internet.
+Bán lé các loai hàng hóa khác qua internet (trir bán lé hóa chát,
+khí dàu mó hóa lóng LPG, dàu nhót cǎn, vàng miéng, súng, dan
+loai dùng di sǎn hoǎc thé thao, tièn kim khí và các hàng hóa
+25
+4791
+khác mà doanh nghiép có vón dàu tu nróc ngoài bi cám kinh
+doanh và bi han ché kinh doanh theo quy dinh cua pháp luàt Vièt
+Nam và các dièu uóc quóc té mà Vièt Nam là thành vièn).
+(Thuc hièn theo Quyét dinh só 64/2009/QD-UBND ngày 31/07/2009
+và Quyét dinh só 79/2009/QD-UBND ngày 17/10/2009 cua Uy ban
+nhàn dàn Thành phó Hò Chi Minh vè phé duyét quy hoach kinh
+doanh nóng sán, thuc phám trén dia bàn thành phó Hó Chi Minh).
+Bán buòn nòng, làm san nguyèn lièu (trù gō, tre, núra) và dòng vàt
+26
+4620
+sóng
+Trang 10/11
+
+Chi tiét: Bán buōn ngó và các loai hat ngū cóc khác (trir gao), (khóng
+hoat dong tai tru só).
+Bán buòn kim loai và quǎng kim loai
+Chi tiét: Bán buón dòng, chì, nhóm, kēm và kim loai màu khác dang
+27
+4662
+nguyén sinh và bán thành phám: thói, thanh, tám, lá, dái, dang hinh
+dé tao nén bao bi dóng gói sán phám (khōng hoat dōng tai tru só).
+Bán buòn tóng hop
+Chi tiét: Thurc hien quyén xuát kháu, nhàp kháu, phàn phói bán buón
+(khōng thành làp co só bán buōn): thuc phám (bao góm cá thuc
+phám chirc nǎng), các nguyeèn vàt lieu duoc sir dung dé sán xuát thuc
+28
+4690
+phám. Khóng bao góm hàng hóa mà doanh nghièp có vón dàu tu
+nuóc ngoài bi cám kinh doanh và bi han ché kinh doanh theo quy
+dinh cia pháp luàt Viét Nam và các diéu uóc quóc té mà Viet Nam là
+thành vien.
+Bán buòn dò dùng khác cho gia dinh
+Chi tiét: Bán buón nuóc hoa, hàng my phám, ché phám vé sinh và
+các dò dùng khác cho gia dinh (khōng bao gòm các hàng hóa mà
+29
+4649
+doanh nghiép có vón dàu tu nuóc ngoài bi cám kinh doanh và bi han
+ché kinh doanh theo quy dinh cua pháp luàt Vièt Nam và các dièu
+uóc quóc té mà Viét Nam là thành vien).
+Bán lé luong thuc, thuc phàm, dò uóng, thuóc lá, thuóc lào chiém ty
+trong lón trong các cura hàng kinh doanh tóng hop.
+Chi tiét: bán lé nhièu loai hàng hóa (khōng bao góm các hàng hóa
+mà doanh nghièp có vón dàu tu nuóc ngoài bi cám kinh doanh và bi
+han ché kinh doanh theo quy dinh cia pháp luàt Vièt Nam và các
+dièu uóc quóc té mà Viet Nam là thành vien), trong dó lrong thuc,
+30
+4711
+thurc phám, do uóng chiém t' trong lón trong các cira hàng kinh
+doanh tóng hop (khōng hoat dong tai tru só).
+(theo Quyét dinh só 64/2009/QD-UBND ngày 31/07/2009 và Quyét
+dinh só 79/2009/QD-UBND ngày 17/10/2009 cua Uy ban nhan dan
+Thành phó Hò Chi Minh vè phé duyét quy hoach kinh doanh nóng
+sán, thuc phám trén dia bàn thành phó Hò Chí Minh).
+Bán lé thuóc, dung cu y té, my phám và vàt phǎm vè sinh trong các
+cura hàng chuyèn doanh
+31
+4772
+Chi tiét: Bán le nuóc hoa, my phám và vát phám vé sinh trong các
+cira hàng chuyén doanh (khòng hoat dōng tai tru só).
+Bán lé hinh thúc khác chua duoc phàn vào dàu
+Chi tiét: Thuc hien quyén phàn phói bán lé thuc phám (bao gòm cá
+thurc phám chirc nǎng), các nguyèn vàt liéu duoc sir dung dé sán xuát
+32
+4799
+thuc phám. Khóng bao góm hàng hóa mà doanh nghièp có vón dàu
+tu nuóc ngoài bi cám kinh doanh và bi han ché kinh doanh theo quy
+dinh cua pháp luàt Viét Nam và các dièu uóc quóc té mà Vièt Nam là
+thành vièn.
+Trang 11/11

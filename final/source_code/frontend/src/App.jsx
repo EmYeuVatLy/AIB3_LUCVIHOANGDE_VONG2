@@ -220,20 +220,20 @@ export default function App() {
         <section className="hero interactive-hero">
           <motion.div
             className="hero-copy"
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.6 }}
+            initial={{ opacity: 0, y: 24 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.65 }}
           >
             <span className="eyebrow">
               <Sparkles size={14} />
-              AI-Powered ESG Analysis
+              Interactive ESG scoring
             </span>
             <h1>
-              Phân tích dữ liệu ESG <span>thông minh</span>.
+              Nhập toàn bộ `txt`, chạy scoring thật, và xem <span>log realtime</span>.
             </h1>
             <p>
-              Hệ thống tự động quét báo cáo, trích xuất bằng chứng và chấm điểm 
-              theo bộ tiêu chuẩn VNSI dựa trên mô hình ngôn ngữ lớn.
+              Frontend này gọi trực tiếp vào API Python, ghi nhận tiến trình
+              pipeline và hiển thị kết quả ESG sau khi job hoàn tất.
             </p>
           </motion.div>
 
@@ -241,21 +241,21 @@ export default function App() {
             <div className="orb" ref={orbRef} />
             <div className="score-panel compact-panel">
               <div className="panel-top">
-                <span className="chip">Real-time Pipeline</span>
+                <span className="chip">Pipeline status</span>
                 <Activity size={18} />
               </div>
               <div className="status-stack">
                 <div>
                   <p>Trạng thái</p>
-                  <strong>{status === "idle" ? "Sẵn sàng" : status.toUpperCase()}</strong>
+                  <strong>{status}</strong>
                 </div>
                 <div>
-                  <p>Công ty</p>
-                  <strong>{form.company_name}</strong>
+                  <p>Số dòng log</p>
+                  <strong>{logs.length}</strong>
                 </div>
                 <div>
-                  <p>Ngành</p>
-                  <strong>{form.industry_sector.split(" ")[0]}</strong>
+                  <p>Job ID</p>
+                  <strong>{jobId ? jobId.slice(0, 8) : "--"}</strong>
                 </div>
               </div>
             </div>
@@ -266,28 +266,28 @@ export default function App() {
           <motion.form
             className="input-card"
             onSubmit={handleSubmit}
-            initial={{ opacity: 0, y: 20 }}
+            initial={{ opacity: 0, y: 24 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.1, duration: 0.5 }}
+            transition={{ delay: 0.1, duration: 0.55 }}
           >
             <div className="card-head">
               <div>
-                <span>Analysis Input</span>
-                <h3>Dữ liệu đầu vào</h3>
+                <span>Input workspace</span>
+                <h3>Bộ dữ liệu text cho scoring</h3>
               </div>
               <FileText size={20} />
             </div>
 
             <div className="field-grid">
               <label>
-                <span>Tên công ty</span>
+                <span>Doanh nghiệp</span>
                 <input
                   value={form.company_name}
                   onChange={(event) => setForm({ ...form, company_name: event.target.value })}
                 />
               </label>
               <label>
-              <span>Năm báo cáo</span>
+                <span>Năm</span>
                 <input
                   type="number"
                   value={form.year}
@@ -295,7 +295,7 @@ export default function App() {
                 />
               </label>
               <label className="full">
-                <span>Lĩnh vực</span>
+                <span>Ngành</span>
                 <select
                   value={form.industry_sector}
                   onChange={(event) => setForm({ ...form, industry_sector: event.target.value })}
@@ -308,12 +308,11 @@ export default function App() {
                 </select>
               </label>
               <label className="full">
-                <span>Văn bản báo cáo</span>
+                <span>Nội dung báo cáo</span>
                 <textarea
-                  placeholder="Dán nội dung báo cáo tại đây..."
                   value={form.report_text}
                   onChange={(event) => setForm({ ...form, report_text: event.target.value })}
-                  rows={14}
+                  rows={16}
                 />
               </label>
               <label className="full toggle-field">
@@ -323,14 +322,15 @@ export default function App() {
                   onChange={(event) => setForm({ ...form, skip_preflight_gate: event.target.checked })}
                 />
                 <div>
-                  <span>Bỏ qua kiểm tra sơ bộ (Skip Preflight)</span>
+                  <span>Bỏ qua preflight gate</span>
+                  <small>Phù hợp cho chế độ interactive khi text ngắn hoặc chỉ là bản tóm tắt.</small>
                 </div>
               </label>
             </div>
 
             <button className="primary-btn submit-btn" type="submit" disabled={status === "running"}>
               <Play size={16} />
-              {status === "running" ? "Đang xử lý..." : "Bắt đầu chấm điểm"}
+              {status === "running" ? "Đang chạy scoring" : "Chạy ESG scoring"}
             </button>
 
             {error ? <p className="error-text">{error}</p> : null}
@@ -339,48 +339,45 @@ export default function App() {
           <div className="side-stack">
             <motion.section
               className="result-card"
-              initial={{ opacity: 0, y: 20 }}
+              initial={{ opacity: 0, y: 24 }}
               animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.2, duration: 0.5 }}
+              transition={{ delay: 0.18, duration: 0.55 }}
             >
               <div className="card-head">
                 <div>
-                  <span>Scoring Results</span>
-                  <h3>Kết quả ESG</h3>
+                  <span>Result snapshot</span>
+                  <h3>Kết quả tổng hợp</h3>
                 </div>
                 <BarChart3 size={20} />
               </div>
 
               <div className="result-grid">
-                <div className="metric-box large">
-                  <p>TỔNG ĐIỂM</p>
-                  <strong>{Number(score100 || 0).toFixed(1)}<span>%</span></strong>
-                </div>
                 <div className="metric-box">
-                  <p>MÔI TRƯỜNG (E)</p>
-                  <div className="score-row">
-                    <strong>{Number(result?.scores?.E || 0).toFixed(1)}</strong>
-                    <div className="metric-bar-container">
-                      <div className="metric-bar e" style={{ width: `${(result?.scores?.E / 100) * 100}%` }} />
-                    </div>
+                  <p>OVERALL SCORE</p>
+                  <strong>{Number(score100 || 0).toFixed(2)}</strong>
+                  <div className="metric-bar-container">
+                    <div className="metric-bar g" style={{ width: `${score100}%` }} />
                   </div>
                 </div>
                 <div className="metric-box">
-                  <p>XÃ HỘI (S)</p>
-                  <div className="score-row">
-                    <strong>{Number(result?.scores?.S || 0).toFixed(1)}</strong>
-                    <div className="metric-bar-container">
-                      <div className="metric-bar s" style={{ width: `${(result?.scores?.S / 100) * 100}%` }} />
-                    </div>
+                  <p>ENVIRONMENTAL (E)</p>
+                  <strong>{Number(result?.scores?.E || 0).toFixed(1)}</strong>
+                  <div className="metric-bar-container">
+                    <div className="metric-bar e" style={{ width: `${(result?.scores?.E / 100) * 100}%` }} />
                   </div>
                 </div>
                 <div className="metric-box">
-                  <p>QUẢN TRỊ (G)</p>
-                  <div className="score-row">
-                    <strong>{Number(result?.scores?.G || 0).toFixed(1)}</strong>
-                    <div className="metric-bar-container">
-                      <div className="metric-bar g" style={{ width: `${(result?.scores?.G / 100) * 100}%` }} />
-                    </div>
+                  <p>SOCIAL (S)</p>
+                  <strong>{Number(result?.scores?.S || 0).toFixed(1)}</strong>
+                  <div className="metric-bar-container">
+                    <div className="metric-bar s" style={{ width: `${(result?.scores?.S / 100) * 100}%` }} />
+                  </div>
+                </div>
+                <div className="metric-box">
+                  <p>GOVERNANCE (G)</p>
+                  <strong>{Number(result?.scores?.G || 0).toFixed(1)}</strong>
+                  <div className="metric-bar-container">
+                    <div className="metric-bar g" style={{ width: `${(result?.scores?.G / 100) * 100}%` }} />
                   </div>
                 </div>
               </div>
@@ -388,14 +385,14 @@ export default function App() {
 
             <motion.section
               className="log-card"
-              initial={{ opacity: 0, y: 20 }}
+              initial={{ opacity: 0, y: 24 }}
               animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.3, duration: 0.5 }}
+              transition={{ delay: 0.26, duration: 0.55 }}
             >
               <div className="card-head">
                 <div>
-                  <span>Execution Stream</span>
-                  <h3>Nhật ký hệ thống</h3>
+                  <span>Live execution log</span>
+                  <h3>Timeline thực thi</h3>
                 </div>
                 <Database size={20} />
               </div>
@@ -419,8 +416,28 @@ export default function App() {
                     );
                   })
                 ) : (
-                  <div className="log-empty">Hệ thống đang chờ lệnh...</div>
+                  <div className="log-empty">Chưa có log. Bắt đầu job để xem timeline pipeline chạy.</div>
                 )}
+              </div>
+            </motion.section>
+
+            <motion.section
+              className="result-card"
+              initial={{ opacity: 0, y: 24 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.34, duration: 0.55 }}
+            >
+              <div className="card-head">
+                <div>
+                  <span>What is wired</span>
+                  <h3>Luồng interactive</h3>
+                </div>
+                <ShieldCheck size={20} />
+              </div>
+              <div className="mini-list">
+                <div><Building2 size={16} /> Frontend gửi text, doanh nghiệp, ngành, năm</div>
+                <div><Database size={16} /> `api_server.py` tạo job và stream stdout</div>
+                <div><BarChart3 size={16} /> `main.py` scoring trên input `.txt`</div>
               </div>
             </motion.section>
           </div>
