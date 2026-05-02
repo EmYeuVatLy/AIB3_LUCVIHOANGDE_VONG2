@@ -207,8 +207,12 @@ export default function App() {
           </div>
           <div>
             <p>ESG Interactive Console</p>
-            <span>React + live scoring pipeline</span>
+            <span>AI Scoring Engine v2.0</span>
           </div>
+        </div>
+        <div className="status-indicator">
+          <div className={`status-dot ${status === "running" ? "running" : status === "done" ? "success" : status === "failed" ? "failed" : "idle"}`} />
+          <span>{status.toUpperCase()}</span>
         </div>
       </header>
 
@@ -349,22 +353,32 @@ export default function App() {
 
               <div className="result-grid">
                 <div className="metric-box">
-                  <p>Điểm thang 100</p>
+                  <p>OVERALL SCORE</p>
                   <strong>{Number(score100 || 0).toFixed(2)}</strong>
+                  <div className="metric-bar-container">
+                    <div className="metric-bar g" style={{ width: `${score100}%` }} />
+                  </div>
                 </div>
                 <div className="metric-box">
-                  <p>E / S / G</p>
-                  <strong>
-                    {Number(result?.scores?.E || 0).toFixed(1)} / {Number(result?.scores?.S || 0).toFixed(1)} / {Number(result?.scores?.G || 0).toFixed(1)}
-                  </strong>
+                  <p>ENVIRONMENTAL (E)</p>
+                  <strong>{Number(result?.scores?.E || 0).toFixed(1)}</strong>
+                  <div className="metric-bar-container">
+                    <div className="metric-bar e" style={{ width: `${(result?.scores?.E / 100) * 100}%` }} />
+                  </div>
                 </div>
                 <div className="metric-box">
-                  <p>Screening</p>
-                  <strong>{result?.screening?.passed ? "PASS" : "FAIL"}</strong>
+                  <p>SOCIAL (S)</p>
+                  <strong>{Number(result?.scores?.S || 0).toFixed(1)}</strong>
+                  <div className="metric-bar-container">
+                    <div className="metric-bar s" style={{ width: `${(result?.scores?.S / 100) * 100}%` }} />
+                  </div>
                 </div>
                 <div className="metric-box">
-                  <p>ESGUI</p>
-                  <strong>{Number(result?.esgui?.esgui || 0).toFixed(4)}</strong>
+                  <p>GOVERNANCE (G)</p>
+                  <strong>{Number(result?.scores?.G || 0).toFixed(1)}</strong>
+                  <div className="metric-bar-container">
+                    <div className="metric-bar g" style={{ width: `${(result?.scores?.G / 100) * 100}%` }} />
+                  </div>
                 </div>
               </div>
             </motion.section>
