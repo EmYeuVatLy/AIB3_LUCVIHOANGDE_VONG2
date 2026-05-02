@@ -81,3 +81,21 @@ Các tài liệu phân tích kỹ thuật và định hướng nâng cấp hệ 
 - Code logic chấm điểm nằm tại `core/scoring/scoring_engine.py`. Bất kỳ thay đổi nào liên quan đến cách quy đổi điểm số từ A/B/C/D phải sửa tại đây.
 - Prompt điều khiển LLM nằm tại `core/llm_client.py`. Hiện tại LLM bị ép buộc **phải chọn đáp án** dựa trên ngữ cảnh, không được phép trả `NULL`.
 - Nếu có lỗi liên quan đến quá trình đọc PDF, vui lòng kiểm tra bộ bắt lỗi Garbage Text tại `core/ingestion/pdf_parser.py`.
+
+---
+
+## 🎨 Frontend React
+
+Repo hiện có thêm frontend interactive trong `frontend/` để nhập `txt`, chạy scoring, và xem log realtime. Phần backend đi kèm nằm ở `api_server.py`.
+
+Chạy nhanh:
+
+```bash
+python api_server.py
+
+cd frontend
+npm install
+npm run dev
+```
+
+Xem thêm chi tiết tại `frontend/README.md`.
