@@ -489,15 +489,16 @@ Return one JSON object only with exactly these fields:
                     "C": {"source_id": "S3", "quote": "short exact quote without double quotes"},
                 },
             }
-            multi_instruction = """- This question allows MULTIPLE selections. Evaluate EACH criterion (A, B, C, D...) independently.
-- Select ALL options that the company meets based on the evidence.
-- If no option is supported by the provided source context, return answer: "NULL" and selected_options: [].
-- Evidence can come from different SOURCE_ID blocks for different options.
-- If an OPTION_CANDIDATES block points to an option, inspect that option independently.
-- If the source is an official policy/report and describes an activity, commitment, approval, measure, or disclosure matching an option, count that option as supported.
-- Return option_evidence for every selected option only. Do not return evidence for unselected options.
-- Keep each quote under 180 characters, single-line, and copied exactly. Do not put double quotes inside quote text.
-- Example: if company meets both C and D, return selected_options: ["C", "D"] and answer: "C,D"."""
+            multi_instruction = """### MULTI-SELECT EVALUATION PROTOCOL:
+- INDEPENDENT ASSESSMENT: Evaluate each criterion (A, B, C, D, etc.) as a distinct binary decision based strictly on the provided context.
+- COMPREHENSIVE IDENTIFICATION: Select ALL options where the company's disclosures or activities align with the specified rubric.
+- NULL CONDITION: If the context provides no evidence for any option, set "answer" to "NULL" and "selected_options" to an empty list [].
+- EVIDENCE SYNTHESIS: Synthesize evidence across multiple SOURCE_ID blocks to support different criteria where applicable.
+- CANDIDATE VETTING: If OPTION_CANDIDATES are provided, prioritize their evaluation while maintaining an unbiased inspection of all options.
+- VALIDATION STANDARD: Accept official policies, sustainability reports, specific commitments, or disclosed measures as sufficient evidence for selection.
+- SELECTIVE DOCUMENTATION: Provide 'option_evidence' exclusively for criteria that have been satisfied. Do not include data for unselected options.
+- TRANSCRIPTION RIGOR: Excerpts must be <180 characters, single-line, and exactly transcribed. Remove internal double quotes from the quote text.
+- OUTPUT NOTATION: If criteria C and D are met, set 'selected_options' to ["C", "D"] and 'answer' to "C,D"."""
         else:
             response_example = {
                 "answer": "A",
