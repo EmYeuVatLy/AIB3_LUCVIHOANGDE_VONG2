@@ -5,7 +5,4 @@ __pycache__/
 .env
 outputs/cache/
 outputs/cache/embeddings/
-outputs/audit/
-outputs/reports/
-outputs/question_retrieval_metadata.json
 node_modules/
