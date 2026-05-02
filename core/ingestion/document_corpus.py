@@ -13,7 +13,6 @@ from typing import Iterable
 from core.cache import CacheManager
 from core.ingestion.document_classifier import DocumentClassifier, DocumentMetadata
 from core.ingestion.pdf_parser import PDFParser
-from core.ingestion.text_parser import TextParser
 from core.retrieval.chunk_labeler import ChunkLabeler
 from core.structure_builder import SectionBuilder
 from core.structure_builder.semantic_chunker import SemanticChunker
@@ -70,7 +69,7 @@ class DocumentCorpus:
                 })
                 continue
             seen_hashes[file_hash] = path
-            parser = self._build_parser(path)
+            parser = PDFParser(path, use_ocr=True)
             pages = self._get_pages_from_parser(path, parser)
             metadata = self.classifier.classify(path, pages=pages)
             self.documents.append(
@@ -82,14 +81,6 @@ class DocumentCorpus:
                     metadata=metadata,
                 )
             )
-
-    def _build_parser(self, path: str):
-        ext = os.path.splitext(path)[1].lower()
-        if ext == ".pdf":
-            return PDFParser(path, use_ocr=True)
-        if ext in {".txt", ".md"}:
-            return TextParser(path)
-        raise ValueError(f"Unsupported document type for corpus: {path}")
 
     def _infer_doc_type(self, path: str) -> str:
         name = os.path.basename(path).lower()
@@ -288,7 +279,7 @@ class DocumentCorpus:
             self._pages_cache[doc.path] = doc.parser.extract_text()
         return self._pages_cache[doc.path]
 
-    def _get_pages_from_parser(self, path: str, parser):
+    def _get_pages_from_parser(self, path: str, parser: PDFParser):
         if path not in self._pages_cache:
             self._pages_cache[path] = parser.extract_text()
         return self._pages_cache[path]
@@ -393,8 +384,6 @@ class DocumentCorpus:
         return windows
 
     def _get_tables(self, doc: DocumentRecord):
-        if doc.metadata.file_extension != ".pdf":
-            return []
         if doc.path not in self._table_cache:
             cached_tables = self._load_cached_table_records(doc)
             if cached_tables is not None:
@@ -713,7 +702,10 @@ def discover_related_pdf_paths(primary_pdf_path: str, company_name: str = "", ye
     company = (company_name or "").lower().strip()
     year_text = str(year) if year else ""
 
-    # If the folder name matches the company, include ALL PDFs in it
+    # If the folder name matches the company, include ALL relevant files in it.
+    # This is intentional: many VNSI questions allow historical evidence
+    # (`historical_allowed` / `latest_valid_allowed`), so a company dossier may
+    # legitimately contain documents across multiple years.
     folder_name = os.path.basename(directory).lower()
     folder_is_company = company and company in folder_name
 
@@ -725,7 +717,9 @@ def discover_related_pdf_paths(primary_pdf_path: str, company_name: str = "", ye
         lowered = entry.lower()
 
         if folder_is_company:
-            # All PDFs in a company folder are relevant
+            # A company dossier is treated as a curated evidence folder, not a
+            # single-year-only drop. Current-year-only questions are filtered
+            # later by retrieval/scoring time policy rather than here.
             candidates.append(full_path)
         else:
             same_company = not company or company in lowered
