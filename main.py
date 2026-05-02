@@ -294,8 +294,9 @@ def run_pipeline(
         )
 
     # ─── Phase 3: LLM Scoring ─────────────────────────────
-    print(f"\n[3/6] Khởi tạo LLM ({llm_base_url or 'Local Ollama'})...")
-    llm = OllamaClient(model="qwen3:30b", base_url=llm_base_url)
+    resolved_llm_base_url = llm_base_url or "http://localhost:11434"
+    print(f"\n[3/6] Khởi tạo LLM ({resolved_llm_base_url})...")
+    llm = OllamaClient(model="qwen3:30b", base_url=resolved_llm_base_url)
 
     # 3a. Screening
     screener = ScreeningModule("outputs/vnsi_rules.json", llm_client=llm, corpus=corpus, industry_sector=industry_sector, target_year=year, retrieval_engine=retrieval_engine)
@@ -305,7 +306,6 @@ def run_pipeline(
     print(f"\n[4/6] Chấm điểm VNSI ({industry_sector})...")
     scorer = VNSIScorer(
         rules_path="outputs/vnsi_rules.json",
-        weights_path="outputs/industry_weights.json",
         structure_path="outputs/scoring_structure.json",
         llm_client=llm,
         corpus=corpus,

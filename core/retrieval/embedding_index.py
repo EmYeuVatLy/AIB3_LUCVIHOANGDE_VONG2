@@ -1,28 +1,18 @@
-"""
-Real embedding-based semantic index using sentence-transformers + FAISS.
-Replaces TF-IDF/SVD scaffold with true dense vector retrieval.
-Designed for Apple Silicon M4 Pro with 48GB RAM — can handle large models.
-"""
-from __future__ import annotations
-
 import os
-from dataclasses import dataclass
-
+import json
 import numpy as np
-
+from dataclasses import dataclass
+from sentence_transformers import SentenceTransformer
 from core.cache import CacheManager
-
 
 @dataclass
 class SemanticMatch:
     window_index: int
     score: float
 
-
 class EmbeddingIndex:
     """Dense vector index backed by sentence-transformers and FAISS."""
 
-    # Model suitable for M4 Pro 48GB — excellent Vietnamese + multilingual support
     DEFAULT_MODEL = "intfloat/multilingual-e5-large"
     CACHE_DIR = "outputs/cache/embeddings"
 
@@ -78,31 +68,23 @@ class EmbeddingIndex:
         return matches
 
     def _build_index(self) -> None:
-        # Try to load from cache
         cached = self._load_cache()
         if cached is not None:
             self.document_embeddings = cached
             self._dimension = cached.shape[1]
             self._build_faiss_index(cached)
             print(f"  [EMBEDDING] Loaded cached embeddings: {cached.shape}")
-            self.cache_manager.record(
-                "embedding_index",
-                "hit",
-                "embedding_index_v2",
-                self._cache_fingerprint(),
-                path=self._cache_path(),
-            )
             return
 
         self._load_model()
         print(f"  [EMBEDDING] Encoding {len(self.documents)} documents with {self.model_name}...")
 
-        # Prefix for e5 models (required for best performance)
+        # Prefix for e5 models
         prefixed_docs = [f"passage: {doc}" for doc in self.documents]
 
         self.document_embeddings = self.model.encode(
             prefixed_docs,
-            batch_size=32,
+            batch_size=int(os.environ.get("ESG_EMBEDDING_BATCH_SIZE", "64")),
             show_progress_bar=True,
             normalize_embeddings=True,
         )
@@ -113,15 +95,12 @@ class EmbeddingIndex:
 
     def _build_faiss_index(self, embeddings: np.ndarray) -> None:
         import faiss
-
         self._dimension = embeddings.shape[1]
-        # For corpus < 50K docs, flat index gives exact results and is fast enough
         self.index = faiss.IndexFlatIP(self._dimension)
         self.index.add(embeddings.astype(np.float32))
 
     def _encode_query(self, query_text: str) -> np.ndarray | None:
         self._load_model()
-        # e5 models need "query: " prefix for queries
         prefixed = f"query: {query_text}"
         embedding = self.model.encode(
             [prefixed],
@@ -133,14 +112,18 @@ class EmbeddingIndex:
         if self.model is not None:
             return
         from sentence_transformers import SentenceTransformer
+        import torch
 
-        print(f"  [EMBEDDING] Loading model {self.model_name}...")
+        # Force CUDA if available
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        print(f"  [EMBEDDING] Loading model {self.model_name} on {device.upper()}...")
+        
         local_only = os.environ.get("ESG_EMBEDDING_LOCAL_ONLY", "1") != "0"
-        if local_only:
-            print("  [EMBEDDING] Offline local cache mode enabled")
+        
         self.model = SentenceTransformer(
             self.model_name,
             local_files_only=local_only,
+            device=device,
         )
 
     def _cache_path(self) -> str:
@@ -155,31 +138,16 @@ class EmbeddingIndex:
             "model_name": self.model_name,
         })
 
-    def _save_cache(self, embeddings: np.ndarray) -> None:
-        if not self.cache_key:
-            return
-        cache_path = self._cache_path()
-        np.save(cache_path, embeddings)
-        self.cache_manager.record(
-            "embedding_index",
-            "rebuilt",
-            "embedding_index_v2",
-            self._cache_fingerprint(),
-            path=cache_path,
-            reason="forced_rebuild" if CacheManager.is_forced("embeddings") else "missing_or_stale_cache",
-        )
-        print(f"  [EMBEDDING] Cached embeddings to {cache_path}")
-
     def _load_cache(self) -> np.ndarray | None:
-        if not self.cache_key:
-            return None
-        if CacheManager.is_forced("embeddings"):
-            print("  [EMBEDDING] Cache forced rebuild")
-            return None
-        cache_path = self._cache_path()
-        if not os.path.exists(cache_path):
-            return None
-        try:
-            return np.load(cache_path)
-        except Exception:
-            return None
+        if not self.cache_key: return None
+        path = self._cache_path()
+        if os.path.exists(path):
+            try:
+                return np.load(path)
+            except:
+                return None
+        return None
+
+    def _save_cache(self, embeddings: np.ndarray) -> None:
+        if not self.cache_key: return
+        np.save(self._cache_path(), embeddings)

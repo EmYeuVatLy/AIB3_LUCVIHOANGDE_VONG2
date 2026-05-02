@@ -33,21 +33,38 @@ class RetrievalPreflight:
 
     def run(self, retrieval_engine, full: bool = True, verbose: bool = True) -> dict:
         metadata_validation = self.builder.validate(self.metadata_payload, self.rules)
+        from concurrent.futures import ThreadPoolExecutor
+
         selected_rules = self.rules if full else [
             self.rules_by_id[qid]
             for qid in sorted(self.CRITICAL_IDS)
             if qid in self.rules_by_id
         ]
-        retrieval_checks = []
-        for index, rule in enumerate(selected_rules, start=1):
+        
+        num_rules = len(selected_rules)
+        max_workers = int(os.environ.get("ESG_PREFLIGHT_CONCURRENCY", "10"))
+        
+        print(f"  [PREFLIGHT] Đang kiểm tra song song {num_rules} câu hỏi (concurrency={max_workers})...")
+        
+        def process_rule(args):
+            index, rule = args
             qid = rule.get("id")
-            if verbose:
-                print(f"  [PREFLIGHT] {index}/{len(selected_rules)} {qid}", flush=True)
             plan = self.metadata.get(qid) or {}
             retrieval = retrieval_engine.retrieve_for_plan(rule, plan, top_k=10)
             candidates = retrieval.get("candidates", [])
             check = self._check_rule(rule, plan, retrieval, candidates)
-            retrieval_checks.append(check)
+            return index, check
+
+        retrieval_checks_ordered = [None] * num_rules
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            tasks = [(i, rule) for i, rule in enumerate(selected_rules)]
+            for i, check in executor.map(process_rule, tasks):
+                retrieval_checks_ordered[i] = check
+                if verbose and (i + 1) % 10 == 0:
+                    print(f"  [PREFLIGHT] Tiến độ: {i+1}/{num_rules}...", flush=True)
+
+        retrieval_checks = [c for c in retrieval_checks_ordered if c is not None]
+
 
         failures = [item for item in retrieval_checks if not item.get("passed")]
         critical_failures = [

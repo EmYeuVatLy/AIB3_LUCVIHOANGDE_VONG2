@@ -13,8 +13,14 @@ import time
 class OllamaClient:
     def __init__(self, model="qwen3:30b", base_url="http://localhost:11434"):
         self.model = model
-        self.base_url = base_url
-        self.chat_url = f"{base_url}/api/chat"
+        self.base_url = (base_url or "http://localhost:11434").rstrip("/")
+        # Detect if this is a custom /generate wrapper
+        self.is_generate_api = "/generate" in self.base_url
+        if self.is_generate_api:
+            self.chat_url = self.base_url
+        else:
+            self.chat_url = f"{self.base_url}/api/chat"
+
         self.num_ctx = int(os.environ.get("ESG_OLLAMA_NUM_CTX", "24576"))
         self.timeout = int(os.environ.get("ESG_OLLAMA_TIMEOUT", "300"))
         self._last_parse_info = {}
@@ -22,23 +28,49 @@ class OllamaClient:
 
     def _call(self, messages, temperature=0.3, max_tokens=3072, retries=1):
         """Gửi request tới Ollama và trả về response text."""
-        payload = {
-            "model": self.model,
-            "messages": messages,
-            "stream": False,
-            "options": {
+        if self.is_generate_api:
+            # Payload format for custom /generate wrappers
+            combined_prompt = ""
+            for m in messages:
+                combined_prompt += f"{m['role'].upper()}: {m['content']}\n\n"
+            combined_prompt += "ASSISTANT: "
+            
+            payload = {
+                "prompt": combined_prompt,
+                "model": self.model,
                 "temperature": temperature,
-                "num_predict": max_tokens,
-                "num_ctx": self.num_ctx,
-            },
-        }
+                "max_tokens": max_tokens,
+                "stream": False
+            }
+        else:
+            # Standard Ollama /api/chat payload
+            payload = {
+                "model": self.model,
+                "messages": messages,
+                "stream": False,
+                "options": {
+                    "temperature": temperature,
+                    "num_predict": max_tokens,
+                    "num_ctx": self.num_ctx,
+                },
+            }
+
         for attempt in range(retries + 1):
             try:
                 resp = requests.post(self.chat_url, json=payload, timeout=self.timeout)
                 resp.raise_for_status()
                 body = resp.json()
-                message = body.get("message", {}) if isinstance(body, dict) else {}
-                raw_content = str(message.get("content", "") or "")
+                
+                if self.is_generate_api:
+                    # Generic structure for a /generate endpoint
+                    content = body.get("response") or body.get("content") or body.get("text") or ""
+                    if not content and "choices" in body:
+                        content = body["choices"][0].get("text") or body["choices"][0].get("message", {}).get("content")
+                else:
+                    message = body.get("message", {}) if isinstance(body, dict) else {}
+                    content = str(message.get("content", "") or "")
+
+                raw_content = str(content)
                 content = self._strip_think_tags(raw_content)
                 self._last_call_info = {
                     "status": "ok",
