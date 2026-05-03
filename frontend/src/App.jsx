@@ -95,6 +95,27 @@ function LogIcon({ tone }) {
   return <Dot size={16} />;
 }
 
+function CountingNumber({ value, duration = 1 }) {
+  const [display, setDisplay] = useState(0);
+  useEffect(() => {
+    let start = 0;
+    const end = parseFloat(value) || 0;
+    if (start === end) return;
+    const increment = (end - start) / (duration * 60);
+    const handle = setInterval(() => {
+      start += increment;
+      if ((increment > 0 && start >= end) || (increment < 0 && start <= end)) {
+        setDisplay(end);
+        clearInterval(handle);
+      } else {
+        setDisplay(start);
+      }
+    }, 1000 / 60);
+    return () => clearInterval(handle);
+  }, [value, duration]);
+  return <span>{display.toFixed(display > 0 && display < 100 ? 1 : 1)}</span>;
+}
+
 export default function App() {
   const orbRef = useRef(null);
   const logConsoleRef = useRef(null);
@@ -114,10 +135,10 @@ export default function App() {
   useEffect(() => {
     const ctx = gsap.context(() => {
       gsap.to(orbRef.current, {
-        x: 30,
-        y: 22,
-        duration: 5,
-        scale: 1.05,
+        x: "random(-20, 20)",
+        y: "random(-15, 15)",
+        duration: 8,
+        scale: "random(0.95, 1.1)",
         repeat: -1,
         yoyo: true,
         ease: "sine.inOut",
@@ -128,17 +149,12 @@ export default function App() {
 
   useEffect(() => {
     const node = logConsoleRef.current;
-    if (!node) {
-      return;
-    }
-    node.scrollTop = node.scrollHeight;
+    if (!node) return;
+    node.scrollTo({ top: node.scrollHeight, behavior: "smooth" });
   }, [logs]);
 
   useEffect(() => {
-    if (!jobId) {
-      return undefined;
-    }
-
+    if (!jobId) return undefined;
     const source = new EventSource(`http://localhost:8000/api/jobs/${jobId}/stream`);
     source.onmessage = async (event) => {
       const payload = JSON.parse(event.data);
@@ -159,7 +175,6 @@ export default function App() {
       setStatus("failed");
       setError("Không kết nối được stream log từ API server.");
     };
-
     return () => source.close();
   }, [jobId]);
 
@@ -184,9 +199,7 @@ export default function App() {
         }),
       });
       const data = await response.json();
-      if (!response.ok) {
-        throw new Error(data.error || "Không thể bắt đầu scoring.");
-      }
+      if (!response.ok) throw new Error(data.error || "Không thể bắt đầu scoring.");
       setJobId(data.job_id);
       setStatus("running");
     } catch (submitError) {
@@ -202,12 +215,16 @@ export default function App() {
       <div className="page-noise" />
       <header className="topbar">
         <div className="brand">
-          <div className="brand-mark">
+          <motion.div 
+            className="brand-mark"
+            whileHover={{ rotate: 180 }}
+            transition={{ duration: 0.6 }}
+          >
             <Leaf size={18} />
-          </div>
+          </motion.div>
           <div>
-            <p>ESG Interactive Console</p>
-            <span>AI Scoring Engine v2.0</span>
+            <p>Interactive Console</p>
+            <span>ESG AI Scoring Engine v2.0</span>
           </div>
         </div>
         <div className="status-indicator">
@@ -220,9 +237,9 @@ export default function App() {
         <section className="hero interactive-hero">
           <motion.div
             className="hero-copy"
-            initial={{ opacity: 0, x: -20 }}
+            initial={{ opacity: 0, x: -30 }}
             animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.6 }}
+            transition={{ duration: 0.8, ease: "easeOut" }}
           >
             <span className="eyebrow">
               <Sparkles size={14} />
@@ -233,42 +250,47 @@ export default function App() {
             </h1>
             <p>
               Hệ thống tự động quét báo cáo, trích xuất bằng chứng và chấm điểm 
-              theo bộ tiêu chuẩn VNSI dựa trên mô hình ngôn ngữ lớn.
+              theo bộ tiêu chuẩn VNSI dựa trên mô hình ngôn ngữ lớn Qwen3-30B.
             </p>
           </motion.div>
 
-          <div className="hero-visual interactive-visual">
-            <div className="orb" ref={orbRef} />
+          <motion.div 
+            className="hero-visual interactive-visual"
+            initial={{ opacity: 0, scale: 0.9 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{ duration: 1, delay: 0.2 }}
+          >
+            <div className={`orb ${status === "running" ? "active" : ""}`} ref={orbRef} />
             <div className="score-panel compact-panel">
               <div className="panel-top">
                 <span className="chip">Real-time Pipeline</span>
-                <Activity size={18} />
+                <Activity size={18} className={status === "running" ? "animate-pulse" : ""} />
               </div>
               <div className="status-stack">
-                <div>
+                <div className="status-item">
                   <p>Trạng thái</p>
                   <strong>{status === "idle" ? "Sẵn sàng" : status.toUpperCase()}</strong>
                 </div>
-                <div>
+                <div className="status-item">
                   <p>Công ty</p>
                   <strong>{form.company_name}</strong>
                 </div>
-                <div>
+                <div className="status-item">
                   <p>Ngành</p>
                   <strong>{form.industry_sector.split(" ")[0]}</strong>
                 </div>
               </div>
             </div>
-          </div>
+          </motion.div>
         </section>
 
         <section className="workspace-grid">
           <motion.form
             className="input-card"
             onSubmit={handleSubmit}
-            initial={{ opacity: 0, y: 20 }}
+            initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.1, duration: 0.5 }}
+            transition={{ delay: 0.3, duration: 0.6 }}
           >
             <div className="card-head">
               <div>
@@ -313,7 +335,7 @@ export default function App() {
                   placeholder="Dán nội dung báo cáo tại đây..."
                   value={form.report_text}
                   onChange={(event) => setForm({ ...form, report_text: event.target.value })}
-                  rows={14}
+                  rows={12}
                 />
               </label>
               <label className="full toggle-field">
@@ -328,20 +350,24 @@ export default function App() {
               </label>
             </div>
 
-            <button className="primary-btn submit-btn" type="submit" disabled={status === "running"}>
+            <motion.button 
+              className="primary-btn submit-btn" 
+              type="submit" 
+              disabled={status === "running"}
+              whileHover={{ scale: 1.02 }}
+              whileTap={{ scale: 0.98 }}
+            >
               <Play size={16} />
               {status === "running" ? "Đang xử lý..." : "Bắt đầu chấm điểm"}
-            </button>
-
-            {error ? <p className="error-text">{error}</p> : null}
+            </motion.button>
           </motion.form>
 
           <div className="side-stack">
             <motion.section
               className="result-card"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.2, duration: 0.5 }}
+              initial={{ opacity: 0, x: 30 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ delay: 0.4, duration: 0.6 }}
             >
               <div className="card-head">
                 <div>
@@ -352,59 +378,69 @@ export default function App() {
               </div>
 
               <div className="result-grid">
-                <div className="metric-box large">
+                <motion.div 
+                  className="metric-box large"
+                  animate={{ scale: result ? [1, 1.02, 1] : 1 }}
+                  transition={{ duration: 0.5 }}
+                >
                   <p>TỔNG ĐIỂM</p>
-                  <strong>{Number(score100 || 0).toFixed(1)}<span>%</span></strong>
-                </div>
-                <div className="metric-box">
-                  <p>MÔI TRƯỜNG (E)</p>
-                  <div className="score-row">
-                    <strong>{Number(result?.scores?.E || 0).toFixed(1)}</strong>
-                    <div className="metric-bar-container">
-                      <div className="metric-bar e" style={{ width: `${(result?.scores?.E / 100) * 100}%` }} />
+                  <strong><CountingNumber value={score100} /><span>%</span></strong>
+                </motion.div>
+                
+                {[
+                  { label: "MÔI TRƯỜNG (E)", val: result?.scores?.E, cls: "e" },
+                  { label: "XÃ HỘI (S)", val: result?.scores?.S, cls: "s" },
+                  { label: "QUẢN TRỊ (G)", val: result?.scores?.G, cls: "g" },
+                ].map((item, idx) => (
+                  <motion.div 
+                    key={item.label}
+                    className="metric-box"
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: 0.5 + idx * 0.1 }}
+                  >
+                    <p>{item.label}</p>
+                    <div className="score-row">
+                      <strong><CountingNumber value={item.val} /></strong>
+                      <div className="metric-bar-container">
+                        <motion.div 
+                          className={`metric-bar ${item.cls}`} 
+                          initial={{ width: 0 }}
+                          animate={{ width: `${(item.val / 100) * 100}%` }}
+                          transition={{ duration: 1.5, ease: "circOut" }}
+                        />
+                      </div>
                     </div>
-                  </div>
-                </div>
-                <div className="metric-box">
-                  <p>XÃ HỘI (S)</p>
-                  <div className="score-row">
-                    <strong>{Number(result?.scores?.S || 0).toFixed(1)}</strong>
-                    <div className="metric-bar-container">
-                      <div className="metric-bar s" style={{ width: `${(result?.scores?.S / 100) * 100}%` }} />
-                    </div>
-                  </div>
-                </div>
-                <div className="metric-box">
-                  <p>QUẢN TRỊ (G)</p>
-                  <div className="score-row">
-                    <strong>{Number(result?.scores?.G || 0).toFixed(1)}</strong>
-                    <div className="metric-bar-container">
-                      <div className="metric-bar g" style={{ width: `${(result?.scores?.G / 100) * 100}%` }} />
-                    </div>
-                  </div>
-                </div>
+                  </motion.div>
+                ))}
               </div>
             </motion.section>
 
             <motion.section
               className="log-card"
-              initial={{ opacity: 0, y: 20 }}
+              initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.3, duration: 0.5 }}
+              transition={{ delay: 0.5, duration: 0.6 }}
             >
               <div className="card-head">
                 <div>
                   <span>Execution Stream</span>
                   <h3>Nhật ký hệ thống</h3>
                 </div>
-                <Database size={20} />
+                <Database size={20} className={status === "running" ? "animate-spin-slow" : ""} />
               </div>
               <div className="log-console" ref={logConsoleRef}>
                 {logs.length ? (
                   logs.map((line, index) => {
                     const parsed = parseLogLine(line);
                     return (
-                      <div className={`log-entry log-${parsed.tone}`} key={`${index}-${line}`}>
+                      <motion.div 
+                        className={`log-entry log-${parsed.tone}`} 
+                        key={`${index}-${line}`}
+                        initial={{ opacity: 0, x: -10 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        transition={{ duration: 0.3 }}
+                      >
                         <div className="log-entry-icon">
                           <LogIcon tone={parsed.tone} />
                         </div>
@@ -415,7 +451,7 @@ export default function App() {
                           </div>
                           {parsed.detail ? <p>{parsed.detail}</p> : null}
                         </div>
-                      </div>
+                      </motion.div>
                     );
                   })
                 ) : (
